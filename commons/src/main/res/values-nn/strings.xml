@@ -1,2 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="august_short">Aug</string>
+    <string name="january_short">Jan</string>
+    <string name="february_short">Feb</string>
+    <string name="march_short">Mar</string>
+    <string name="april_short">Apr</string>
+    <string name="may_short">Mai</string>
+    <string name="june_short">Jun</string>
+    <string name="july_short">Jul</string>
+    <string name="september_short">Sep</string>
+    <string name="october_short">Okt</string>
+    <string name="november_short">Nov</string>
+    <string name="december_short">Des</string>
+    <string name="monday_letter">M</string>
+    <string name="tuesday_letter">T</string>
+    <string name="wednesday_letter">O</string>
+    <string name="thursday_letter">T</string>
+    <string name="friday_letter">F</string>
+    <string name="saturday_letter">L</string>
+    <string name="sunday_letter">S</string>
+    <string name="monday_short">Må</string>
+    <string name="tuesday_short">Ty</string>
+    <string name="wednesday_short">On</string>
+    <string name="thursday_short">To</string>
+    <string name="friday_short">Fr</string>
+    <string name="saturday_short">La</string>
+    <string name="sunday_short">Su</string>
+</resources>

@@ -1003,7 +1003,7 @@
             ag cur in iúl duit go bhfuil roinnt aipeanna nua eisithe le déanaí:<br><br>
             <a href="%1$s">%2$s</a><br><br>
             <a href="%3$s">%4$s</a><br><br>
-            <a href="%5$s">%6$s</a><br>
+            <a href="%5$s">%6$s</a><br><br>
             Is féidir leat iad a íoslódáil trí bhrú ar a dteidil nó a ndeilbhíní.<br><br>
             Go raibh maith agat
 ]]></string>
@@ -1180,5 +1180,5 @@
     <string name="mammoth_title">Mammoth (tiontaire DOCX)</string>
     <string name="commonmark_title">CommonMark (parsálaí Markdown)</string>
     <string name="jsoup_title">jsoup (parsálaí HTML)</string>
-    <string name="commons_csv_title">CSV Apache Commons (parsálaí CSV)</string>
+    <string name="commons_csv_title">Apache Commons CSV (parsálaí CSV)</string>
 </resources>

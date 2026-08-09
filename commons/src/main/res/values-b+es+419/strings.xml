@@ -362,7 +362,7 @@
         <item quantity="other">Tu prueba expirará en %d días.</item>
     </plurals>
     <string name="trial_end_description">Por favor actualice a la versión Pro para disfrutar la aplicación completamente.\n\nSolo tienes que pagarla una sola vez y si no te satisface, puedes desinstalarla y recibir un reembolso.\n\nTe esperaremos :)</string>
-    <string name="welcome_to_app_name">Bienvenid@ a %s!</string>
+    <string name="welcome_to_app_name">¡Bienvenid@ a %s!</string>
     <string name="unlock_for_one_final_day">Desbloquea la aplicación para un día final</string>
     <string name="trial_expires_soon">Tu prueba expirará pronto.</string>
     <string name="confirm_storage_access_android_text_specific">Por favor permita el acceso a \"&lt;b&gt;%s&lt;/b&gt;\" en el siguiente apartado presionando \"&lt;b&gt;Usar esta carpeta&lt;/b&gt;\" en el fondo.</string>
@@ -480,7 +480,7 @@
     <string name="insert_pattern">Insertar patrón</string>
     <string name="wrong_pattern">Patrón equivocado</string>
     <string name="repeat_pattern">Repetir patrón</string>
-    <string name="biometrics">Biométricas</string>
+    <string name="biometrics">Biometría</string>
     <string name="fingerprint">Huella dactilar</string>
     <string name="add_fingerprint">Añadir huella dactilar</string>
     <string name="place_finger">Por favor apoye su dedo sobre el sensor</string>
@@ -723,7 +723,7 @@
     <string name="settings_exported_successfully">Configuraciones exportadas con éxito</string>
     <string name="settings_imported_successfully">Configuraciones importadas con éxito</string>
     <string name="start_name_with_surname">Iniciar nombre con apellido</string>
-    <string name="clear_cache">Limpiar la cache</string>
+    <string name="clear_cache">Limpiar la caché</string>
     <string name="show_call_confirmation_dialog">Mostrar un diálogo de confirmación de llamada antes de iniciar una llamada</string>
     <string name="edit_contact">Editar contacto</string>
     <string name="call_contact">Llamar contacto</string>
@@ -836,7 +836,7 @@
     <string name="wednesday">Miércoles</string>
     <string name="thursday">Jueves</string>
     <string name="friday">Viernes</string>
-    <string name="saturday">Sabado</string>
+    <string name="saturday">Sábado</string>
     <string name="sunday">Domingo</string>
     <string name="monday_letter">L</string>
     <string name="tuesday_letter">M</string>
@@ -850,20 +850,20 @@
     <string name="wednesday_short">Mié</string>
     <string name="thursday_short">Jue</string>
     <string name="friday_short">Vie</string>
-    <string name="saturday_short">Sab</string>
+    <string name="saturday_short">Sáb</string>
     <string name="sunday_short">Dom</string>
-    <string name="upgrade_to_pro_long">La versión de tu app ya no sera actualizada. Actualizela a la versión Pro para recibir nuevas mejoras y otras actualizaciones.</string>
-    <string name="upgrade_to_pro_long_click">La versión de tu app ya no sera actualizada. Actualizela a la versión Pro para recibir nuevas mejoras y otras actualizaciones tocando aquí.</string>
-    <string name="it_is_free">Sera gratis hasta: %s. Si la descargas hasta ese entonces, podrás usarla gratis para siempre.</string>
-    <string name="more_info">Mas info</string>
+    <string name="upgrade_to_pro_long">La versión de tu app ya no será actualizada. Actualízala a la versión Pro para recibir nuevas mejoras y otras actualizaciones.</string>
+    <string name="upgrade_to_pro_long_click">La versión de tu app ya no será actualizada. Actualízala a la versión Pro para recibir nuevas mejoras y otras actualizaciones tocando aquí.</string>
+    <string name="it_is_free">Será gratis hasta: %s. Si la descargas hasta ese entonces, podrás usarla gratis para siempre.</string>
+    <string name="more_info">Más info</string>
     <string name="upgrade">Actualizar</string>
     <string name="about">Acerca de</string>
     <string name="website">Sitio Web</string>
     <string name="website_label">Para los códigos fuente visite</string>
-    <string name="email_label">Envié sus sugerencias y retroalimentación a</string>
+    <string name="email_label">Envíe sus sugerencias y retroalimentación a</string>
     <string name="known_issues">Errores conocidos</string>
     <string name="upgrade_to_pro">Actualizar a Pro</string>
-    <string name="more_fossify_apps">Mas apps Fossify</string>
+    <string name="more_fossify_apps">Más apps Fossify</string>
     <string name="invite_friends">Invitar amig@s</string>
     <string name="share_text">Hey, ven a ver %1$s en %2$s</string>
     <string name="invite_via">Invitar por</string>
@@ -872,21 +872,21 @@
     <string name="follow_us">Síguenos</string>
     <string name="copyright">v %1$s\nCopyright © Fossify %2$d</string>
     <string name="support">Soporte</string>
-    <string name="help_us">Apoyanos</string>
+    <string name="help_us">Apóyanos</string>
     <string name="social">Social</string>
     <string name="other">Otros</string>
     <string name="privacy_policy">Política de privacidad</string>
     <string name="version_placeholder">Versión %s</string>
     <string name="hello">Hola :)</string>
-    <string name="about_footer">Hecho con ❤️ en Slovakia</string>
+    <string name="about_footer">Hecho con ❤️ en Eslovaquia</string>
     <string name="additional_info">Info adicional</string>
     <string name="app_version">Versión de app: %s</string>
     <string name="device_os">SO del Dispositivo: %s</string>
     <string name="donate_please"><![CDATA[
-            Hola,<br><br
-            esperamos que este disfrutando de la app. No contiene anuncios, por favor apoye el desarrollo comprando la aplicación de <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Gracias</a>, tambien evitara que este dialogo se vuelva a mostrar.<br><br>
-            Gracias!
+            Hola,<br><br>
+            esperamos que esté disfrutando de la app. No contiene anuncios, por favor apoye el desarrollo comprando la aplicación de <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Gracias</a>, también evitará que este diálogo se vuelva a mostrar.<br><br>
+            ¡Gracias!
         ]]></string>
     <string name="purchase">Comprar</string>
-    <string name="update_thank_you">Por favor actualiza Fossify Gracias a la ultima versión</string>
+    <string name="update_thank_you">Por favor actualiza Fossify Gracias a la última versión</string>
 </resources>

@@ -327,7 +327,7 @@
     <string name="use_default">Použiť predvolenú</string>
     <string name="default_color">Predvolená</string>
     <string name="change_color">Zmeniť farbu</string>
-    <string name="theme">Vzhľad \"téma\" aplikácie</string>
+    <string name="theme">Téma aplikácie</string>
     <string name="changing_color_description">Zmena farby spôsobí prepnutie na Vlastnú tému</string>
     <string name="save">Uložiť</string>
     <string name="discard">Zahodiť</string>

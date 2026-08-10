@@ -203,7 +203,7 @@
     <string name="source_file_doesnt_exist">El archivo fuente %s no existe</string>
     <string name="prepend_filenames">Agregar texto antes del nombre de archivos</string>
     <string name="append_filenames">Agregar texto después del nombre de archivos</string>
-    <string name="simple_renaming">Renombre simple</string>
+    <string name="simple_renaming">Renombrado simple</string>
     <string name="pattern_renaming">Patrón</string>
     <string name="string_to_add">Texto a añadir</string>
     <string name="rename_date_time_pattern">%Y - año\n%M - mes\n%D - día\n%h - hora\n%m - minuto\n%s - segundo\n%i - número incrementando desde 1</string>
@@ -249,11 +249,11 @@
     <string name="empty_name">Por favor ingrese un nombre</string>
     <string name="unknown_error_occurred">Un error desconocido ha ocurrido</string>
     <string name="file_already_exists">Archivo \"%s\" ya existe</string>
-    <string name="file_already_exists_overwrite">Archivo \"%s\" ya existe. ¿Desea sobreescribirlo?</string>
+    <string name="file_already_exists_overwrite">Archivo \"%s\" ya existe. ¿Desea sobrescribirlo?</string>
     <string name="folder_already_exists">Carpeta \"%s\" ya existe</string>
     <string name="merge">Unir</string>
     <string name="keep_both">Mantener ambos</string>
-    <string name="overwrite">Sobreescribir</string>
+    <string name="overwrite">Sobrescribir</string>
     <string name="skip">Saltear</string>
     <string name="append">Añadir al final \"_1\"</string>
     <string name="apply_to_all">Aplicar a todos</string>
@@ -370,7 +370,7 @@
     <string name="confirm_storage_access_restricted_text_open_system">Abrir en la aplicación del sistema</string>
     <string name="app_icon_color_warning">Peligro: Ciertos launchers pueden no controlar la personalización de iconos de aplicaciones correctamente. Si el icono desaparece, intenta abrir la aplicación desde Google Play o un widget, si es accesible. Después de abrirla, restaura el icono verde por defecto color #106D1F. En casos extremos, reinstalar la aplicación podría ser necesario.</string>
     <string name="global_theme_success">El tema actual se ha aplicado con éxito a todas las aplicaciones Fossify. Todos los cambios futuros a este tema se sincronizarán automáticamente.</string>
-    <string name="shared_theme_note">Recuerde que aunque esté usando la versión Pro de la aplicación, aún así necesitará Fossify Thank You por razones técnicas. Se encargará de la sincronización del color.</string>
+    <string name="shared_theme_note">Recuerde que aunque esté usando la versión Pro de la aplicación, aun así necesitará Fossify Thank You por razones técnicas. Se encargará de la sincronización del color.</string>
     <string name="light_theme">Claro</string>
     <string name="dark_theme">Oscuro</string>
     <string name="auto_theme">Automático</string>

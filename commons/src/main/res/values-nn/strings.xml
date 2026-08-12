@@ -26,4 +26,5 @@
     <string name="friday_short">Fr</string>
     <string name="saturday_short">La</string>
     <string name="sunday_short">Su</string>
+    <string name="edit">Gjer om</string>
 </resources>

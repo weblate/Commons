@@ -267,7 +267,7 @@
     <string name="confirm_storage_access_text">กรุณาเลือกโฟลเดอร์บนสุดของ SD Card ในหน้าจอถัดไป เพื่อให้สิทธิ์การเขียน</string>
     <string name="confirm_storage_access_text_sd">หากคุณไม่เห็น SD Card ลองดูวิธีนี้</string>
     <string name="confirm_storage_access_android_text">กรุณาอนุญาตให้แอปเข้าถึงพื้นที่จัดเก็บที่เลือกในหน้าจอถัดไป โดยกด \'ใช้โฟลเดอร์นี้\' ที่ด้านล่าง</string>
-    <string name="confirm_storage_access_android_text_specific">กรุณาอนุญาตการเข้าถึง \'<b>%s</b>\' ในหน้าจอถัดไป โดยกด \'<b>ใช้โฟลเดอร์นี้</b>\' ที่ด้านล่าง</string>
+    <string name="confirm_storage_access_android_text_specific">กรุณาอนุญาตการเข้าถึง \'&lt;b&gt;%s&lt;/b&gt;\' ในหน้าจอถัดไป โดยกด \'&lt;b&gt;ใช้โฟลเดอร์นี้&lt;/b&gt;\' ที่ด้านล่าง</string>
     <string name="confirm_storage_access_restricted_text">เนื่องจากข้อจำกัดของระบบ โฟลเดอร์นี้ไม่สามารถใช้งานได้</string>
     <string name="confirm_storage_access_restricted_text_open_system">เปิดในแอประบบ</string>
     <string name="confirm_storage_access_restricted_text_not_found">ไม่พบแอปจัดการไฟล์ของระบบ</string>

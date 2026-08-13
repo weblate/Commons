@@ -281,7 +281,7 @@
     <string name="confirm_create_doc_for_new_folder_text">Por favor presione \"&lt;b&gt;Guardar&lt;/b&gt;\" en la parte de abajo de la siguiente pantalla para crear la nueva carpeta.</string>
     <string name="confirm_selection">Confirmar selección</string>
     <string name="loading">Cargando…</string>
-    <string name="access_storage_prompt">Por favor permítale a la aplicación acceder a tus archivos, ya que no funcionará bien sin ello.</string>
+    <string name="access_storage_prompt">Por favor permítale a la aplicación acceder a todos tus archivos, ya que no funcionará bien sin ello.</string>
     <plurals name="items">
         <item quantity="one">%d ítem</item>
         <item quantity="many">%d ítems</item>
@@ -365,7 +365,7 @@
     <string name="welcome_to_app_name">¡Bienvenid@ a %s!</string>
     <string name="unlock_for_one_final_day">Desbloquea la aplicación para un día final</string>
     <string name="trial_expires_soon">Tu prueba expirará pronto.</string>
-    <string name="confirm_storage_access_android_text_specific">Por favor permita el acceso a \"&lt;b&gt;%s&lt;/b&gt;\" en el siguiente apartado presionando \"&lt;b&gt;Usar esta carpeta&lt;/b&gt;\" en el fondo.</string>
+    <string name="confirm_storage_access_android_text_specific">Por favor permita el acceso a \"&lt;b&gt;%s&lt;/b&gt;\" en la siguiente pantalla presionando \"&lt;b&gt;Usar esta carpeta&lt;/b&gt;\" en el fondo.</string>
     <string name="confirm_storage_access_restricted_text">Debido a restricciones del sistema, esta carpeta no está disponible.</string>
     <string name="confirm_storage_access_restricted_text_open_system">Abrir en la aplicación del sistema</string>
     <string name="app_icon_color_warning">Peligro: Ciertos launchers pueden no controlar la personalización de iconos de aplicaciones correctamente. Si el icono desaparece, intenta abrir la aplicación desde Google Play o un widget, si es accesible. Después de abrirla, restaura el icono verde por defecto color #106D1F. En casos extremos, reinstalar la aplicación podría ser necesario.</string>
@@ -491,7 +491,7 @@
     <string name="no_fingerprints_registered">No tienes huellas dactilares registradas, por favor añade unas en la Configuración de su dispositivo</string>
     <string name="go_to_settings">Ir a la configuración</string>
     <string name="protection_setup_successfully">Contraseña ajustada con éxito. Por favor reinstale la aplicación en caso de que la olvide.</string>
-    <string name="fingerprint_setup_successfully">Protección ajustada con éxito. Por favor reinstale la aplicación en caso de que tenga problemas reiniciándola.</string>
+    <string name="fingerprint_setup_successfully">Protección ajustada con éxito. Por favor reinstale la aplicación en caso de que tenga problemas restableciéndola.</string>
     <string name="lock_folder">Bloquear carpeta</string>
     <string name="lock_folder_pro">Bloquear carpeta (Pro)</string>
     <string name="unlock_folder">Desbloquear carpeta</string>

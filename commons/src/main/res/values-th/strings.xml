@@ -271,7 +271,7 @@
     <string name="confirm_storage_access_restricted_text">เนื่องจากข้อจำกัดของระบบ โฟลเดอร์นี้ไม่สามารถใช้งานได้</string>
     <string name="confirm_storage_access_restricted_text_open_system">เปิดในแอประบบ</string>
     <string name="confirm_storage_access_restricted_text_not_found">ไม่พบแอปจัดการไฟล์ของระบบ</string>
-    <string name="confirm_create_doc_for_new_folder_text">กรุณากด \'<b>บันทึก</b>\' ที่ด้านล่างของหน้าจอถัดไป เพื่อสร้างโฟลเดอร์ใหม่</string>
+    <string name="confirm_create_doc_for_new_folder_text">กรุณากด \'&lt;b&gt;บันทึก&lt;/b&gt;\' ที่ด้านล่างของหน้าจอถัดไป เพื่อสร้างโฟลเดอร์ใหม่</string>
     <string name="confirm_selection">ยืนยันการเลือก</string>
     <string name="loading">กำลังโหลด…</string>
     <string name="access_storage_prompt">กรุณาให้สิทธิ์แอปเข้าถึงไฟล์ทั้งหมด เพราะอาจทำงานได้ไม่ถูกต้องหากไม่มีสิทธิ์นี้</string>

@@ -1053,4 +1053,8 @@
     <string name="on_contact_click">點擊聯絡人</string>
     <string name="call_contact">打電話給聯絡人</string>
     <string name="view_contact">顯示聯絡人資料</string>
+    <string name="mammoth_title">Mammoth（DOCX 轉換器）</string>
+    <string name="commonmark_title">CommonMark（Markdown 解析器）</string>
+    <string name="jsoup_title">jsoup（HTML 解析器）</string>
+    <string name="commons_csv_title">Apache Commons CSV（CSV 解析器）</string>
 </resources>

@@ -1025,7 +1025,7 @@
     <string name="why_upgrade_file_importing">Soporte de importación de archivos</string>
     <string name="why_upgrade_zooming">Zoom</string>
     <string name="third_party_licences">Licencias de terceros</string>
-    <string name="kotlin_title">Kotlin (Lenguaje de programación)</string>
+    <string name="kotlin_title">Kotlin (lenguaje de programación)</string>
     <string name="subsampling_title">Subsampling Scale Image View (Visor de imágenes con zoom)</string>
     <string name="glide_title">Glide (Carga y almacenamiento en caché de imágenes)</string>
     <string name="picasso_title">Picasso (Carga y almacenamiento en caché de imágenes)</string>
@@ -1158,7 +1158,7 @@
     <string name="label_with_badge">%1$s %2$s</string>
     <string name="edit_contact">Editar contacto</string>
     <string name="on_contact_click">Al tocar contacto</string>
-    <string name="call_contact">Llamar contacto</string>
+    <string name="call_contact">Llamar al contacto</string>
     <string name="view_contact">Ver detalles del contacto</string>
     <string name="font">Fuente</string>
     <string name="app_font">Fuente de la aplicación</string>

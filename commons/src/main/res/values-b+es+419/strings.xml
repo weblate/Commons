@@ -889,4 +889,8 @@
         ]]></string>
     <string name="purchase">Comprar</string>
     <string name="update_thank_you">Por favor actualiza Fossify Gracias a la última versión</string>
+    <string name="upgrade_calendar">Tienes que migrar los eventos almacenados localmente manualmente exportándolos en un archivo .ics y luego importándolos. Puedes encontrar tanto los botones de exportación como de importación en el menú principal.</string>
+    <string name="upgraded_from_free_gallery">Hola,\n\nParece que acabas de actualizar desde la versión gratuita. Cuando estés satisfecho con este y quizá hayas migrado tus ajustes y favoritos, puedes desinstalar el antiguo gratuito para evitar que se inicie accidentalmente, ya que ya no lo necesitarás y también evitará que aparezca este diálogo.\n\n¡Gracias!</string>
+    <string name="upgraded_to_pro_gallery">Hola,\n\nParece que ya tienes la versión Pro app también. Cuando estés satisfecho con él y quizá hayas migrado tus ajustes y favoritos, puedes desinstalar este para evitar que se inicie accidentalmente, ya que ya no lo necesitarás más.\n\n¡Gracias!</string>
+    <string name="upgraded_from_free">Hola,\n\nParece que acabas de actualizar desde la versión gratuita. Una vez que estés satisfecho con este y quizá hayas migrado tus datos, puedes desinstalar el antiguo gratuito para evitar que se inicie accidentalmente, ya que ya no lo necesitarás y también evitará que aparezca este diálogo.\n\n¡Gracias!</string>
 </resources>

@@ -239,7 +239,7 @@
     <string name="confirm_storage_access_text">Выберыце верхнюю папку SD-карты на наступным экране, каб даць доступ для запісу</string>
     <string name="confirm_storage_access_text_sd">Калі вы не бачыце SD-карту, паспрабуйце гэта</string>
     <string name="confirm_storage_access_android_text">Калі ласка, дазвольце праграме доступ да выбранага сховішча на наступным экране, націснуўшы \"Выкарыстоўваць гэту тэчку\" ўнізе.</string>
-    <string name="confirm_storage_access_android_text_specific">Калі ласка, дазвольце доступ \'<b>%s</b>\' на наступным экране, націснуўшы \'<b>Выкарыстоўвайце гэтую папку</b>\' ў нізе.</string>
+    <string name="confirm_storage_access_android_text_specific">Калі ласка, дазвольце доступ \'&lt;b&gt;%s&lt;/b&gt;\' на наступным экране, націснуўшы \'&lt;b&gt;Выкарыстоўвайце гэтую папку&lt;/b&gt;\' ў нізе.</string>
     <string name="confirm_create_doc_for_new_folder_text">Калі ласка, націсніце \'&lt;b&gt;Захаваць&lt;/b&gt;\' унізе наступнага экрана, каб стварыць новую тэчку.</string>
     <string name="confirm_selection">Пацвердзіце выбар</string>
     <string name="loading">Загрузка…</string>
@@ -807,7 +807,7 @@
     <string name="read_it">Прачытаць</string>
     <string name="read_faq">Прачытаць FAQ</string>
     <string name="thank_you">Дзякуй</string>
-    <string name="new_app">Гэй,&lt;br&gt;&lt;br&gt;проста паведамляю вам, што нядаўна былі выпушчаны некаторыя новыя праграмы:&lt;br&gt;&lt;br&gt; &lt;a href=%1$s&gt;%2$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%3$s&gt;%4$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%5$s&gt;%6$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; Вы можаце загрузіць іх, націснуўшы іх загалоўкі або значкі.&lt;br&gt;&lt;br&gt; дзякуй</string>
+    <string name="new_app"><![CDATA[Гэй,<br><br>проста паведамляю вам, што нядаўна былі выпушчаны некаторыя новыя праграмы:<br><br> <a href=%1$s>%2$s</a><br><br> <a href=%3$s>%4$s</a><br><br> <a href=%5$s>%6$s</a><br><br> Вы можаце загрузіць іх, націснуўшы іх загалоўкі або значкі.<br><br> дзякуй]]></string>
     <string name="app_launcher_short">Працоўны стол</string>
     <string name="calculator_short">Калькулятар</string>
     <string name="calendar_short">Каляндар</string>
@@ -825,9 +825,7 @@
     <string name="sms_messenger_short">Паведамленні</string>
     <string name="thank_you_short">Падзяка</string>
     <string name="voice_recorder_short">Дыктафон</string>
-    <string name="sideloaded_app"><![CDATA[
-            Выглядае так, што версія ваша праграмы нядзейная. Калі ласка, спампуйце арыгінальнкю версію <a href="%s">here</a>.
-        ]]></string>
+    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Выглядае так, што версія ваша праграмы нядзейная. Калі ласка, спампуйце арыгінальнкю версію <a href="%s">here</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="frequently_asked_questions">Часта задаюць пытанні</string>
     <string name="before_asking_question">Перш чым задаць пытанне, прачытайце</string>
     <string name="faq_1_title_commons">Чаму я не бачу гэты віджэт праграм у спісе віджэтаў?</string>

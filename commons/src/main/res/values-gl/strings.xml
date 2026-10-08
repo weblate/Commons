@@ -881,9 +881,7 @@
     <string name="altitude">Altitude</string>
     <string name="apply_to_all_apps">Aplicar o tema a todas as apps Fossify</string>
     <string name="app_icon_color_warning">Precaución: Certos Lanzadores non xestionan correctamente a personalización. Se a icona desparece, intenta iniciar a app a través de Google Play ou un widget, se está accesible. Despois de iniciar, restablece a cor verde #106D1F. En casos extremos pode que precises reinstalar a app.</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Por favor merca <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> para usar esta característica e axudar ao desenvolvemento. Grazas!
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Por favor merca <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> para usar esta característica e axudar ao desenvolvemento. Grazas!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="auto_theme">Auto</string>
     <string name="white">Branco</string>
     <string name="allow_access_more_media">Permitir acceso a máis multimedia</string>

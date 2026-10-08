@@ -256,7 +256,7 @@
     <string name="confirm_storage_access_text">Ligipääsu lubamiseks palun vali järgmises vaates SD-kaardi juurkaust</string>
     <string name="confirm_storage_access_text_sd">Kui sa SD-kaarti ei näe, siis proovi sellist võimalust</string>
     <string name="confirm_storage_access_android_text">Valitud salvestusruumile ligipääsu saamiseks vali järgmise vaate allosas „Kasuta seda kausta“.</string>
-    <string name="confirm_storage_access_android_text_specific">Vajutades järgmise vaate all ääres asuvat „<b>Kasuta seda kausta</b>“ luba ligipääs „<b>%s</b>“ kaustale.</string>
+    <string name="confirm_storage_access_android_text_specific">Vajutades järgmise vaate all ääres asuvat „&lt;b&gt;Kasuta seda kausta&lt;/b&gt;“ luba ligipääs „&lt;b&gt;%s&lt;/b&gt;“ kaustale.</string>
     <string name="confirm_create_doc_for_new_folder_text">Uue kausta loomiseks palun klõpsi järgmise vaata all ääres olevat „&lt;b&gt;Salvesta&lt;/b&gt;“ nuppu.</string>
     <string name="confirm_selection">Kinnita valik</string>
     <string name="loading">Laadin…</string>
@@ -750,15 +750,7 @@
     <string name="read_it">Loe järgnevat</string>
     <string name="read_faq">Loe korduma kippuvaid küsimusi</string>
     <string name="thank_you">Suur tänu</string>
-    <string name="new_app"><![CDATA[
-            Hei,<br><br>
-            tahtsime lihtsalt teada anda, et oleme hiljuti teinud mõned uued rakendused:<br><br>
-            <a href="%1$s">%2$s</a><br><br>
-            <a href="%3$s">%4$s</a><br><br>
-            <a href="%5$s">%6$s</a><br><br>
-            Klõpsides ikooni või nimel saad sa neid alla laadida.<br><br>
-            Tänud
-        ]]></string>
+    <string name="new_app"><![CDATA["\n            Hei,<br><br>\n            tahtsime lihtsalt teada anda, et oleme hiljuti teinud mõned uued rakendused:<br><br>\n            <a href=\"%1$s\">%2$s</a><br><br>\n            <a href=\"%3$s\">%4$s</a><br><br>\n            <a href=\"%5$s\">%6$s</a><br><br>\n            Klõpsides ikooni või nimel saad sa neid alla laadida.<br><br>\n            Tänud\n        "]]></string>
     <string name="app_launcher_short">Rakenduste käivitaja</string>
     <string name="calculator_short">Kalkulaator</string>
     <string name="calendar_short">Kalender</string>
@@ -777,9 +769,7 @@
     <string name="sms_messenger_short">SMS sõnumid</string>
     <string name="thank_you_short">Suur tänu</string>
     <string name="voice_recorder_short">Helisalvestaja</string>
-    <string name="sideloaded_app"><![CDATA[
-            Tundub sinu hetkel kasutatav rakenduse variant on vigane. Palun laadi algupärane versioon <a href="%s">siit</a>.
-        ]]></string>
+    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Tundub sinu hetkel kasutatav rakenduse variant on vigane. Palun laadi algupärane versioon <a href="%s">siit</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="frequently_asked_questions">Korduma kippuvad küsimused</string>
     <string name="before_asking_question">Enne küsimuse kirjutamist palun loe esmalt järgnevat lehte</string>
     <string name="faq_1_title_commons">Kuidas ma ei näe seda rakenduste vidinat kõikide vidinate loendis?</string>
@@ -891,11 +881,7 @@
     <string name="hours_letter">%dt</string>
     <string name="friday_letter">R</string>
     <string name="update_thank_you">Palun uuenda rakendus Fossify Suur Tänu viimase versioonini</string>
-    <string name="contributors_label"><![CDATA[
-            Selles loendis on kõik, kes aitasid märgatavalt arendada või tõlkida mis tahes rakendust komplektis „Fossify nutitarvikud“.Tõlkimisega tegelevad vabatahtlikud,
-            anna meile teada, kui soovid ka osaleda. Tõlkimise juhend asub <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">meie Githubi lehel</a> või kui sul on küsimusi, siis võta meiega ühendust aadressil <a href="mailto:hello@fossify.org">hello@fossify.org</a>.
-            Aitäh kõigile panustajatele ja teistele toetajatele!
-        ]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Selles loendis on kõik, kes aitasid märgatavalt arendada või tõlkida mis tahes rakendust komplektis „Fossify nutitarvikud“.Tõlkimisega tegelevad vabatahtlikud,\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020anna meile teada, kui soovid ka osaleda. Tõlkimise juhend asub <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">meie Githubi lehel</a> või kui sul on küsimusi, siis võta meiega ühendust aadressil <a href="mailto:hello@fossify.org">hello@fossify.org</a>.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Aitäh kõigile panustajatele ja teistele toetajatele!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="app_icon_color_warning">Hoiatus: Mõned käivitajad ei käsitse rakenduste ikoonide kohandamist korralikult. Kui ikoon kaob, proovi käivitada rakendus Google Play\'st või mõne muu olemasoleva vidina abil. Kui oled käivitanud rakenduse, seadista lihtsalt ikooni vaikimisi roheline toon #106D1F tagasi. Halvemal juhul pead rakenduse võib-olla uuesti paigaldama.</string>
     <string name="faq_6_text_commons">Selle põhjuseks on asjaolu, et see käivitaja ei toeta ikoonide kohandamist korralikult. Proovi käivitada rakendus Google Play või mõne sarnase saadaoleva vidina abil. Peale käivitamist, seadista lihtsalt tagasi ikooni vaikimisi roheline toon #106D1F. Halvemal juhul pead rakenduse võib-olla uuesti paigaldama.</string>
     <string name="audio">Audio</string>
@@ -924,9 +910,7 @@
     <string name="genre">Žanr</string>
     <string name="f_number">F-number</string>
     <string name="apply_to_all_apps">Kasuta seda kujundust kõikides Fossify rakendustes</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Selle funktsionaalsuse kasutamiseks ja meie arendustöö toetamiseks palun osta <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Suur Tänu</a>. Täname sind juba ette!
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA["\n            Selle funktsionaalsuse kasutamiseks ja meie arendustöö toetamiseks palun osta <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Suur Tänu</a>. Täname sind juba ette!\n        "]]></string>
     <string name="deletion_confirmation_short">Kas kustutame %s?</string>
     <string name="pin">PIN</string>
     <string name="enter_password">Sisesta salasõna</string>
@@ -951,10 +935,7 @@
     <string name="sunday_letter">P</string>
     <string name="monday_short">Esmasp</string>
     <string name="sunday_short">Pühap</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Jah, muidugi. Sa saad rakendust teistele tutvustada või jagada head tagasisidet ja hinnanguid. Samuti saad aidata ka rakenduste tõlkimisega uude keelde või lihtsalt mõne olemasoleva tõlke ajakohastamisega.
-            Tõlkimise juhend asub <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">siin lehel</a> või küsimuste puhul lihtsalt võta meiega ühendust aadressil <a href="mailto:hello@fossify.org">hello@fossify.org</a>.
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Jah, muidugi. Sa saad rakendust teistele tutvustada või jagada head tagasisidet ja hinnanguid. Samuti saad aidata ka rakenduste tõlkimisega uude keelde või lihtsalt mõne olemasoleva tõlke ajakohastamisega.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Tõlkimise juhend asub <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">siin lehel</a> või küsimuste puhul lihtsalt võta meiega ühendust aadressil <a href="mailto:hello@fossify.org">hello@fossify.org</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="translation_esperanto">esperanto</string>
     <string name="translation_chuvash">tšuvašši</string>
     <string name="translation_gujarati">gudžarati</string>

@@ -960,11 +960,20 @@
         <item quantity="many">Ag bogadh %d míreanna isteach sa bhosca athchúrsála</item>
         <item quantity="other">Ag bogadh %d míreanna isteach sa bhosca athchúrsála</item>
     </plurals>
-    <string name="donate_short">Tacaigh linn trí &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Fossify Go raibh maith agat&lt;/a&gt; a cheannach le do thoil, díghlasálfaidh sé gnéithe uile na haipe freisin lena n-áirítear dath saincheaptha.</string>
+    <string name="donate_short">An dtaitníonn Fossify leat? Tacaigh le forbairt ár n-aipeanna gan fógraí trí &lt;a href=\"https://play.google.com/store/apps/details?id=org.fossify.thankyou\"&gt;Fossify Thank You&lt;/a&gt; a cheannach. Cuirfidh sé ar do chumas clónna saincheaptha a úsáid agus socruithe saincheaptha a roinnt idir aipeanna Fossify chomh maith. Go raibh maith agat as do thacaíocht!</string>
     <string name="new_app"><![CDATA["\n            Haigh,<br><br>\n            ag cur in iúl duit go bhfuil roinnt aipeanna nua eisithe le déanaí:<br><br>\n            <a href=\"%1$s\">%2$s</a><br><br>\n            <a href=\"%3$s\">%4$s</a><br><br>\n            <a href=\"%5$s\">%6$s</a><br><br>\n            Is féidir leat iad a íoslódáil trí bhrú ar a dteidil nó a ndeilbhíní.<br><br>\n            Go raibh maith agat\n"]]></string>
-    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Is cosúil go bhfuil leagan d’aipe truaillithe. Íoslódáil an leagan bunaidh <a href="%s">anseo</a> le do thoil.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020]]></string>
-    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Sea, ar ndóigh. Is féidir leat an scéal a scaipeadh faoi na haipeanna nó aiseolas agus rátálacha maithe a thabhairt. Is féidir leat cabhrú freisin trí na haipeanna a aistriú go teanga nua, nó trí roinnt aistriúcháin atá ann cheana a nuashonrú.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Tá an treoir maidir le haistriúchán ar fáil ar <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">an suíomh Gréasáin seo</a>, nó déan teagmháil linn ag <a href="mailto:hello@fossify.org">hello@fossify.org</a> má tá aon cheist agat.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020]]></string>
-    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Tá gach duine a chuidigh go suntasach le haon aip laistigh de shraith Fossify ar an liosta seo, ní hamháin an ceann seo. Déanann oibrithe deonacha na haistriúcháin a láimhseáil,\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020cuir in iúl dúinn más mian leat cabhrú freisin. Tá an treoir maidir le haistriúcháin ar fáil ar <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">an suíomh Gréasáin seo</a>, nó déan teagmháil linn ag <a href="mailto:hello@fossify.org">hello@fossify.org</a> má tá aon cheist agat.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Buíochas leis na rannpháirtithe agus leis na tacadóirí eile go léir!\n \u0020 \u0020 \u0020 \u0020]]></string>
+    <string name="sideloaded_app"><![CDATA[
+            Tá an chuma ar an scéal go bhfuil leagan do aipe truaillithe. Íoslódáil an bunleagan <a href="%s">anseo</a>, le do thoil.
+        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[
+            Sea, ar ndóigh. Is féidir leat an scéal a scaipeadh faoi na haipeanna nó aiseolas agus rátálacha maithe a thabhairt. Is féidir leat cabhrú freisin trí na haipeanna a aistriú go teanga nua, nó trí aistriúcháin atá ann cheana a nuashonrú. 
+            Tá an treoir maidir le haistriúchán le fáil ar <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">an suíomh gréasáin seo</a>, nó is féidir leat teagmháil a dhéanamh linn ag <a href="mailto:hello@fossify.org">hello@fossify.org</a> má tá aon cheist agat. 
+            ]]></string>
+    <string name="contributors_label"><![CDATA[
+            Tá gach duine ar an liosta seo a chabhraigh go suntasach le haon aip i sraith Fossify, ní hamháin leis an gceann seo. Is oibrithe deonacha a dhéanann an obair aistriúcháin;
+            cuir in iúl dúinn má tá fonn ort cabhrú freisin. Tá an treoir aistriúcháin le fáil ar <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">an suíomh gréasáin seo</a>, nó is féidir leat teagmháil a dhéanamh linn ag <a href="mailto:hello@fossify.org">hello@fossify.org</a> má tá ceisteanna ar bith agat. 
+            Buíochas leis na rannpháirtithe agus leis na daoine eile ar fad a thug tacaíocht dúinn! 
+        ]]></string>
     <string name="august_short">Lún</string>
     <string name="during_day_at">Le linn an lae ag %1$02d:%2$02d</string>
     <plurals name="trial_expires_days">
@@ -983,7 +992,9 @@
         <item quantity="many">%d míreanna á scriosadh</item>
         <item quantity="other">%d míreanna á scriosadh</item>
     </plurals>
-    <string name="purchase_thank_you"><![CDATA[ \n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Ceannaigh <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Go raibh maith agat le Fossify</a> chun an ghné seo a úsáid agus chun tacú leis an bhforbairt. Go raibh maith agat! \n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020]]></string>
+    <string name="purchase_thank_you"><![CDATA[
+            Ceannaigh <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> chun an ghné seo a úsáid agus tacú leis an bhforbairt. Go raibh maith agat! 
+            ]]></string>
     <string name="faq_9_text_commons">Tá bealaí éagsúla ann chun é sin a dhéanamh. Tá an chéad cheann ag tosú ar an modh roghnúcháin trí mhír amháin a bhrú le fada, ansin cliceáil gearr ar dhaoine eile chun iad a roghnú. Tá an dara bealach cosúil le míreanna a roghnú ar ríomhairí pearsanta le luch, ach tús a chur leis an modh roghnúcháin trí mhír amháin a bhrú le fada, ansin le do mhéar fós síos tarraing é thar mhíreanna eile le roghnú. Is é an tríú bealach chun míreanna iolracha a roghnú ná mír amháin a bhrú le fada, ansin brú fada ar cheann eile agus roghnaítear gach rud idir eatarthu. Más mian leat gach mír a roghnú, brúigh mír amháin le fada, ansin cliceáil ar an gcuntar míre roghnaithe ag an gcúinne ag barr na láimhe clé. Roghnóidh sé sin gach rud nó díroghnaigh é.</string>
     <string name="faq_10_title_commons">Cheannaigh mé an aip, ach ní féidir liom é a íoslódáil ar ghléas eile.</string>
     <string name="faq_10_text_commons">Bain triail as do thaisce app Google Play a ghlanadh agus do ghléas a atosú. Tá sé roinnt glitch Google Play, nach bhfuil baint i ndáiríre leis an app féin.</string>
@@ -1096,4 +1107,6 @@
     <string name="commonmark_title">CommonMark (parsálaí Markdown)</string>
     <string name="jsoup_title">jsoup (parsálaí HTML)</string>
     <string name="commons_csv_title">Apache Commons CSV (parsálaí CSV)</string>
+    <string name="donation_prompt">Má bhaineann tú taitneamh as an aip seo a úsáid, smaoinigh le do thoil ar thacú le forbairt Fossify.</string>
+    <string name="rate_app_prompt">Ag baint taitnimh as an aip? Déan í a rátáil ar Google Play, le do thoil.</string>
 </resources>

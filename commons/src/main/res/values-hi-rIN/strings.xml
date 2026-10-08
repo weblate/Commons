@@ -293,7 +293,7 @@
     <string name="confirm_storage_access_android_text">कृपया नीचे \'इस फोल्डर का उपयोग करें\' दबाकर ऐप को अगली स्क्रीन पर चयनित स्टोरेज तक पहुंचने की अनुमति दें।</string>
     <string name="excluded">(छोड़ा गया)</string>
     <string name="thumbnails">थंबनेल</string>
-    <string name="confirm_storage_access_android_text_specific">कृपया नीचे \'<b>इस फोल्डर का उपयोग करें</b>\' दबाकर अगली स्क्रीन पर \'<b>%s</b>\' तक पहुंचने की अनुमति दें।</string>
+    <string name="confirm_storage_access_android_text_specific">कृपया नीचे \'&lt;b&gt;इस फोल्डर का उपयोग करें&lt;/b&gt;\' दबाकर अगली स्क्रीन पर \'&lt;b&gt;%s&lt;/b&gt;\' तक पहुंचने की अनुमति दें।</string>
     <string name="confirm_create_doc_for_new_folder_text">कृपया नया फोल्डर बनाने के लिए अगली स्क्रीन के नीचे \'&lt;b&gt;सहेजें&lt;/b&gt;\' दबाएं।</string>
     <string name="confirm_selection">चयन की पुष्टि करें</string>
     <string name="app_on_sd_card">ऐसा लगता है कि आपने ऐप को SD कार्ड पर इंस्टॉल कर लिया है, जिससे ऐप विजेट अनुपलब्ध हैं। आप उन्हें उपलब्ध विजेट की सूची में भी नहीं देखेंगे। यह एक सिस्टम सीमा है, इसलिए यदि आप विजेट का उपयोग करना चाहते हैं, तो आपको ऐप को आंतरिक स्टोरेज पर वापस ले जाना होगा।</string>
@@ -314,9 +314,7 @@
     <string name="cannot_be_undone">यह कार्रवाई पूर्ववत नहीं की जा सकती।</string>
     <string name="save_before_closing">आपके पास सहेजे नहीं गए परिवर्तन हैं। बाहर निकलने से पहले सहेजें?</string>
     <string name="apply_to_all_apps">सभी Fossify ऐप्स पर रंग लागू करें</string>
-    <string name="purchase_thank_you"><![CDATA[
-                           कृपया इस प्रकार्य को अनलॉक करने और विकास का समर्थन करने के लिए <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Thank You</a> खरीदें। धन्यवाद!
-                     ]]></string>
+    <string name="purchase_thank_you"><![CDATA["\n                           कृपया इस प्रकार्य को अनलॉक करने और विकास का समर्थन करने के लिए <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Thank You</a> खरीदें। धन्यवाद!\n                     "]]></string>
     <string name="dark_red">गहरा लाल</string>
     <string name="stop_showing_hidden">छुपे हुए मीडिया को दिखाना बंद करें</string>
     <string name="remove">हटाएं</string>
@@ -411,8 +409,8 @@
     <string name="gallery_short">गैलरी</string>
     <string name="flashlight_short">फ़्लैशलाइट</string>
     <string name="keyboard_short">कीबोर्ड</string>
-    <string name="sideloaded_app">ऐसा लगता है कि आपका ऐप वर्शन दूषित है। कृपया मूल वर्शन &lt;a href=%s&gt;यहां&lt;/a&gt; से डाउनलोड करें।</string>
-    <string name="faq_2_text_commons">हाँ बिल्कुल। आप ऐप्स के बारे में प्रचार कर सकते हैं या अच्छी प्रतिक्रिया और रेटिंग दे सकते हैं। आप ऐप्स को नई भाषा में अनुवाद करके या बस कुछ मौजूदा अनुवादों को अपडेट करके भी सहायता कर सकते हैं। अनुवाद करने की मार्गदर्शिका &lt;a href=https://github.com/FossifyOrg/general-Discussion#contributing-translations&gt;इस वेबसाइट&lt;/a&gt; पर है, या यदि आपके कोई प्रश्न हैं तो बस &lt;a href=mailto:hello@fossify.org&gt;hello@fossify.org&lt;/a&gt; पर हमसे संपर्क करें।</string>
+    <string name="sideloaded_app"><![CDATA[ऐसा लगता है कि आपका ऐप वर्शन दूषित है। कृपया मूल वर्शन <a href=%s>यहां</a> से डाउनलोड करें।]]></string>
+    <string name="faq_2_text_commons"><![CDATA[हाँ बिल्कुल। आप ऐप्स के बारे में प्रचार कर सकते हैं या अच्छी प्रतिक्रिया और रेटिंग दे सकते हैं। आप ऐप्स को नई भाषा में अनुवाद करके या बस कुछ मौजूदा अनुवादों को अपडेट करके भी सहायता कर सकते हैं। अनुवाद करने की मार्गदर्शिका <a href=https://github.com/FossifyOrg/general-Discussion#contributing-translations>इस वेबसाइट</a> पर है, या यदि आपके कोई प्रश्न हैं तो बस <a href=mailto:hello@fossify.org>hello@fossify.org</a> पर हमसे संपर्क करें।]]></string>
     <string name="faq_3_title_commons">मैंने गलती से कुछ फाइलें हटा दी हैं, मैं उन्हें कैसे पुनर्प्राप्त कर सकता हूं?</string>
     <string name="faq_4_text_commons">हां, जैसे ही आप किसी विजेट को अपनी होम स्क्रीन पर खींचते हैं तो एक विजेट विन्यास स्क्रीन दिखाई देती है। आपको निचले बाएं कोने पर रंगीन वर्ग दिखाई देंगे, नया रंग चुनने के लिए बस उन्हें दबाएं। आप अल्फा को समायोजित करने के लिए स्लाइडर का भी उपयोग कर सकते हैं।</string>
     <string name="glide_title">Glide (छवि लोडिंग और कैशिंग)</string>
@@ -424,7 +422,7 @@
     <string name="trial_expires_soon">आपका परीक्षण शीघ्र ही समाप्त हो रहा है।</string>
     <string name="unlock_for_one_final_day">एक आखिरी दिन के लिए ऐप को अनलॉक करें</string>
     <string name="pro_app_refund">यह न भूलें कि यदि आप किसी भी भुगतान किए गए ऐप को 2 घंटे के भीतर अनइंस्टॉल करते हैं, तो आपको स्वचालित रूप से धनवापसी कर दी जाएगी। यदि आप बाद में कभी भी रिफंड चाहते हैं, तो बस hello@fossify.org पर हमसे संपर्क करें और आपको यह मिल जाएगा। इससे इसे आज़माना आसान हो जाता है :)</string>
-    <string name="contributors_label">इस सूची में वे सभी लोग शामिल हैं जिन्होंने केवल इस ऐप को ही नहीं, बल्कि Fossify suite के भीतर किसी भी ऐप की उल्लेखनीय रूप से सहायता की। अनुवाद स्वयंसेवकों द्वारा किया जाता है, यदि आप भी सहायता करना चाहते हैं तो हमें बताएं। अनुवाद करने की मार्गदर्शिका &lt;a href=https://github.com/FossifyOrg/general-Discussion#contributing-translations&gt;this website&lt;/a&gt; पर है, या यदि आपके कोई प्रश्न हैं तो बस &lt;a href=mailto:hello@fossify.org&gt;hello@fossify.org&lt;/a&gt; पर हमसे संपर्क करें। सभी योगदानकर्ताओं और अन्य समर्थकों को धन्यवाद!</string>
+    <string name="contributors_label"><![CDATA[इस सूची में वे सभी लोग शामिल हैं जिन्होंने केवल इस ऐप को ही नहीं, बल्कि Fossify suite के भीतर किसी भी ऐप की उल्लेखनीय रूप से सहायता की। अनुवाद स्वयंसेवकों द्वारा किया जाता है, यदि आप भी सहायता करना चाहते हैं तो हमें बताएं। अनुवाद करने की मार्गदर्शिका <a href=https://github.com/FossifyOrg/general-Discussion#contributing-translations>this website</a> पर है, या यदि आपके कोई प्रश्न हैं तो बस <a href=mailto:hello@fossify.org>hello@fossify.org</a> पर हमसे संपर्क करें। सभी योगदानकर्ताओं और अन्य समर्थकों को धन्यवाद!]]></string>
     <string name="iso_speed">ISO गति</string>
     <string name="use_default">तयशुदा उपयोग करें</string>
     <string name="default_color">तयशुदा</string>
@@ -828,7 +826,7 @@
     <string name="update_thank_you">कृपया Fossify Thank You को नवीनतम संस्करण में अपडेट करें</string>
     <string name="before_asking_question_read_faq">कोई प्रश्न पूछने से पहले, कृपया ऐप सेटिंग जांचें और पहले अक्सर पूछे जाने वाले प्रश्न पढ़ें। शायद समाधान वहीं है।</string>
     <string name="make_sure_latest">यह भी सुनिश्चित करें कि आप नवीनतम ऐप संस्करण का उपयोग कर रहे हैं।</string>
-    <string name="new_app">अरे,&lt;br&gt;&lt;br&gt; मैं आपको बता रहा हूं कि हाल ही में कुछ नए ऐप्स जारी किए गए हैं:&lt;br&gt;&lt;br&gt; &lt;a href=%1$s&gt;%2$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%3$s&gt;%4$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; &lt;a href=%5$s&gt;%6$s&lt;/a&gt;&lt;br&gt;&lt;br&gt; आप इन्हें डाउनलोड कर सकते हैं उनके शीर्षक या चिह्न दबाकर।&lt;br&gt;&lt;br&gt; धन्यवाद</string>
+    <string name="new_app"><![CDATA[अरे,<br><br> मैं आपको बता रहा हूं कि हाल ही में कुछ नए ऐप्स जारी किए गए हैं:<br><br> <a href=%1$s>%2$s</a><br><br> <a href=%3$s>%4$s</a><br><br> <a href=%5$s>%6$s</a><br><br> आप इन्हें डाउनलोड कर सकते हैं उनके शीर्षक या चिह्न दबाकर।<br><br> धन्यवाद]]></string>
     <string name="app_launcher_short">ऐप लॉन्चर</string>
     <string name="calculator_short">कैलकुलेटर</string>
     <string name="calendar_short">कैलेंडर</string>
@@ -970,4 +968,18 @@
     <string name="on_contact_click">संपर्क क्लिक पर</string>
     <string name="view_contact">संपर्क विवरण देखें</string>
     <string name="edit_contact">संपादित संपर्क</string>
+    <string name="requires_fossify_thank_you"></string>
+    <string name="commons_csv_title"></string>
+    <string name="jsoup_title"></string>
+    <string name="enables_more_customization"></string>
+    <string name="translation_latvian"></string>
+    <string name="rate_app_prompt"></string>
+    <string name="commonmark_title"></string>
+    <string name="donation_prompt"></string>
+    <plurals name="files_saved">
+    </plurals>
+    <string name="evalex_title"></string>
+    <string name="more_fossify_apps"></string>
+    <string name="mammoth_title"></string>
+    <string name="rate_this_app"></string>
 </resources>

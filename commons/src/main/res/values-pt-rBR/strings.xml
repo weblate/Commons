@@ -258,8 +258,7 @@
     <string name="root">Raiz</string>
     <string name="wrong_root_selected">Pasta inválida, por favor selecione a raiz do cartão SD</string>
     <string name="sd_card_usb_same">As pastas do cartão SD e do dispositivo USB não podem ser a mesma</string>
-    <string name="app_on_sd_card">Parece que você instalou o aplicativo em um cartão SD, o que torna os widgets indisponíveis. Você não os verá na lista de widgets.
-        Isto é uma limitação do sistema operacional, caso você queira ter acesso aos widgets será preciso mover o aplicativo para o armazenamento interno.</string>
+    <string name="app_on_sd_card">Parece que você instalou o aplicativo em um cartão SD, o que torna os widgets indisponíveis. Você não os verá na lista de widgets. Isto é uma limitação do sistema operacional, caso você queira ter acesso aos widgets será preciso mover o aplicativo para o armazenamento interno.</string>
     <string name="wrong_folder_selected">A pasta esrrada foi selecionada, por favor, selecione \'%s\'</string>
     <string name="properties">Propriedades</string>
     <string name="path">Caminho</string>
@@ -561,8 +560,7 @@
     </plurals>
     <string name="alarm_goes_off_in">Tempo restante até o alarme disparar:\n%s</string>
     <string name="reminder_triggers_in">Tempo restante até o lembrete:\n%s</string>
-    <string name="time_remaining">Tempo restante:
-\n%s</string>
+    <string name="time_remaining">Tempo restante: \n%s</string>
     <string name="alarm_warning">Por favor, verifique se o alarme funciona corretamente antes de confiar nele. Ele pode não funcionar direito devido a restrições de sistema relacionadas à economia de bateria.</string>
     <string name="reminder_warning">Certifique-se de que os lembretes funcionam corretamente antes de confiar neles. Eles podem não funcionar direito devido a restrições de sistema relacionadas à economia de bateria.</string>
     <string name="notifications_disabled">As notificações deste aplicativo foram desativadas pelo sistema. Por favor, reative-as através nas configurações do seu aparelho.</string>
@@ -634,7 +632,7 @@
     <string name="excluded">(ignorado)</string>
     <string name="manage_excluded_folders">Gerenciar pastas ignoradas</string>
     <string name="remove_all">Remover todas</string>
-    <string name="remove_all_description">Remover todas as pastas da lista de pastas ignoradas\? Esta ação não exclui as pastas.</string>
+    <string name="remove_all_description">Remover todas as pastas da lista de pastas ignoradas? Esta ação não exclui as pastas.</string>
     <string name="temporarily_show_excluded">Exibir excluído temporariamente</string>
     <string name="stop_showing_excluded">Parar de exibir excluído</string>
     <string name="manage_shown_tabs">Gerenciar abas visíveis</string>
@@ -748,8 +746,7 @@
     <string name="read_it">Ler</string>
     <string name="read_faq">Leia as Perguntas Frequentes</string>
     <string name="thank_you">Obrigado</string>
-    <string name="new_app">
-        <![CDATA[
+    <string name="new_app"><![CDATA[
             Olá,<br><br>
             Gostariamos de avisar que lançamos um novo app recentemente:<br><br>
             <a href="%1$s">%2$s</a><br><br>
@@ -757,8 +754,7 @@
             <a href="%5$s">%6$s</a><br><br>
             Você pode baixá-lo pressionando o título.<br><br>
             Obrigado
-        ]]>
-    </string>
+        ]]></string>
     <string name="app_launcher_short">Lançador de Aplicativos</string>
     <string name="calculator_short">Calculadora</string>
     <string name="calendar_short">Calendário</string>
@@ -776,16 +772,13 @@
     <string name="sms_messenger_short">Mensagens SMS</string>
     <string name="thank_you_short">Obrigado</string>
     <string name="voice_recorder_short">Gravador de Voz</string>
-    <string name="sideloaded_app">
-        <![CDATA[
+    <string name="sideloaded_app"><![CDATA[
             Parece que a sua versão do app está corrompida. Por favor, baixe a versão original <a href="%s">aqui</a>.
-        ]]>
-    </string>
+        ]]></string>
     <string name="frequently_asked_questions">Perguntas Frequentes</string>
     <string name="before_asking_question">Antes de fazer uma pergunta, leia primeiro as</string>
     <string name="faq_1_title_commons">Por que não vejo o widget deste aplicativo na lista de widgets?</string>
-    <string name="faq_1_text_commons">O mais provável é que você tenha movido o aplicativo para um cartão SD. Existe uma limitação do sistema Android que oculta os widgets de aplicativos fornecidos neste caso.
-        A única solução é mover o aplicativo de volta para o Armazenamento Interno por meio das configurações do seu dispositivo.</string>
+    <string name="faq_1_text_commons">O mais provável é que você tenha movido o aplicativo para um cartão SD. Existe uma limitação do sistema Android que oculta os widgets de aplicativos fornecidos neste caso. A única solução é mover o aplicativo de volta para o Armazenamento Interno por meio das configurações do seu dispositivo.</string>
     <string name="faq_2_title_commons">Eu gostaria de apoiá-los, mas não posso doar dinheiro. Há algo mais que eu possa fazer?</string>
     <string name="faq_3_title_commons">Eu exclui alguns arquivos por engano, como posso recuperá-los?</string>
     <string name="faq_3_text_commons">Infelizmente, você não pode. Os arquivos são apagados instantaneamente após a caixa de diálogo de confirmação, não há lixeira disponível.</string>
@@ -1042,4 +1035,10 @@ Obrigado a todos os contribuidores e outros apoiadores!
     <string name="on_contact_click">Ao tocar no contato</string>
     <string name="call_contact">Ligar para o contato</string>
     <string name="view_contact">Exibir detalhes do contato</string>
+    <string name="commons_csv_title"></string>
+    <string name="jsoup_title"></string>
+    <string name="rate_app_prompt"></string>
+    <string name="commonmark_title"></string>
+    <string name="donation_prompt"></string>
+    <string name="mammoth_title"></string>
 </resources>

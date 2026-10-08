@@ -205,9 +205,7 @@
     <string name="cannot_be_undone">此動作無法復原。</string>
     <string name="save_before_closing">尚未儲存變更，離開前是否儲存？</string>
     <string name="global_theme_success">目前主題已成功套用到所有 Fossify 應用程式。未來對此主題的任何變更都將自動同步。</string>
-    <string name="purchase_thank_you"><![CDATA[
-            請購買 <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> 以使用此功能並支持開發者。謝謝！
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020請購買 <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> 以使用此功能並支持開發者。謝謝！\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="light_theme">淺色主題</string>
     <string name="dark_theme">深色主題</string>
     <string name="dark_red">暗紅主題</string>

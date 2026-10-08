@@ -1016,4 +1016,10 @@
     <string name="view_contact">Ver detalhes</string>
     <string name="call_contact">Ligar</string>
     <string name="on_contact_click">Ao tocar no contacto</string>
+    <string name="commons_csv_title"></string>
+    <string name="jsoup_title"></string>
+    <string name="rate_app_prompt"></string>
+    <string name="commonmark_title"></string>
+    <string name="donation_prompt"></string>
+    <string name="mammoth_title"></string>
 </resources>

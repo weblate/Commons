@@ -276,7 +276,7 @@
     <string name="excluded">(מוחרגת)</string>
     <string name="manage_excluded_folders">נהל תיקיות מוחרגות</string>
     <string name="remove_all">להסיר הכול</string>
-    <string name="remove_all_description">להסיר את כל התיקיות מרשימת החרגות\? פעולה זו לא תמחק את התיקיות.</string>
+    <string name="remove_all_description">להסיר את כל התיקיות מרשימת החרגות? פעולה זו לא תמחק את התיקיות.</string>
     <string name="temporarily_show_excluded">הצג זמנית פריטים מוחרגים</string>
     <string name="stop_showing_excluded">הפסק להציג החרגות</string>
     <string name="default_tab_to_open">לשונית פתיחה בהפעלת האפליקציה</string>
@@ -1035,4 +1035,10 @@
     <string name="on_contact_click">כפתור יצירת קשר</string>
     <string name="call_contact">חייג לאיש קשר</string>
     <string name="view_contact">צפה בפרטי התקשרות</string>
+    <string name="commons_csv_title"></string>
+    <string name="jsoup_title"></string>
+    <string name="rate_app_prompt"></string>
+    <string name="commonmark_title"></string>
+    <string name="donation_prompt"></string>
+    <string name="mammoth_title"></string>
 </resources>

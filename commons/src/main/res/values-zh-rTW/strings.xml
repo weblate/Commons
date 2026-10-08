@@ -160,7 +160,6 @@
         <item quantity="other">%d個項目刪除中</item>
     </plurals>
     <plurals name="delete_contacts">
-        <item quantity="one">%d個聯絡人</item>
         <item quantity="other">%d個聯絡人</item>
     </plurals>
     <string name="select_storage">選擇儲存空間</string>
@@ -539,8 +538,7 @@
     <string name="read_it">讀它</string>
     <string name="read_faq">閱讀FAQ</string>
     <string name="thank_you">感謝</string>
-    <string name="new_app">
-        <![CDATA[
+    <string name="new_app"><![CDATA[
             嗨，<br><br>
             告訴你最近有一個新的應用程式剛發布:<br><br>
             <a href="%1$s">%2$s</a><br><br>
@@ -548,8 +546,7 @@
             <a href="%5$s">%6$s</a><br><br>
             點標題下載來試試看吧<br><br>
             謝謝
-        ]]>
-    </string>
+        ]]></string>
     <string name="calculator_short">計算機</string>
     <string name="calendar_short">行事曆</string>
     <string name="camera_short">相機</string>
@@ -561,11 +558,9 @@
     <string name="gallery_short">相簿</string>
     <string name="music_player_short">音樂播放器</string>
     <string name="notes_short">筆記</string>
-    <string name="sideloaded_app">
-        <![CDATA[
+    <string name="sideloaded_app"><![CDATA[
             你的應用程式版本似乎是損壞的。請從 <a href="%s">這裡</a> 下載原始版本。
-        ]]>
-    </string>
+        ]]></string>
     <string name="frequently_asked_questions">常見問題</string>
     <string name="before_asking_question">在你發問之前，請先閱讀</string>
     <string name="faq_1_title_commons">為什麼我在小工具列表中沒看到這個應用程式的小工具？</string>
@@ -969,4 +964,6 @@
     <string name="commonmark_title">CommonMark（Markdown 解析器）</string>
     <string name="jsoup_title">jsoup（HTML 解析器）</string>
     <string name="commons_csv_title">Apache Commons CSV（CSV 解析器）</string>
+    <string name="rate_app_prompt"></string>
+    <string name="donation_prompt"></string>
 </resources>

@@ -262,7 +262,7 @@
     <string name="confirm_storage_access_text">Щоб надати доступ на запис, оберіть кореневу теку SD-карти на наступному екрані</string>
     <string name="confirm_storage_access_text_sd">Якщо ви не бачите SD-карту, спробуйте це</string>
     <string name="confirm_storage_access_android_text">Будь ласка, дозвольте застосунку отримати доступ до вибраного сховища на наступному екрані, натиснувши «Використовувати цю теку» внизу.</string>
-    <string name="confirm_storage_access_android_text_specific">Будь ласка, надайте доступ до «<b>%s</b>» на наступному екрані, натиснувши «<b>Використовувати цю теку</b>» внизу.</string>
+    <string name="confirm_storage_access_android_text_specific">Будь ласка, надайте доступ до «&lt;b&gt;%s&lt;/b&gt;» на наступному екрані, натиснувши «&lt;b&gt;Використовувати цю теку&lt;/b&gt;» внизу.</string>
     <string name="confirm_create_doc_for_new_folder_text">Будь ласка, натисніть \'&lt;b&gt;Зберегти&lt;/b&gt;\' внизу наступного екрана, щоб створити нову теку.</string>
     <string name="confirm_selection">Підтвердіть вибір</string>
     <string name="loading">Завантаження…</string>
@@ -861,15 +861,7 @@
     <string name="read_it">Прочитати</string>
     <string name="read_faq">Читати ЧаПи</string>
     <string name="thank_you">Подяка</string>
-    <string name="new_app"><![CDATA[
-            Привіт,<br><br>
-            просто повідомляю, що нещодавно було випущено кілька нових застосунків:<br><br>
-            <a href="%1$s">%2$s</a><br><br>
-            <a href="%3$s">%4$s</a><br><br>
-            <a href="%5$s">%6$s</a><br><br>
-            Ви можете завантажити їх, натиснувши на їхні назви або значки.<br><br>
-            Дякую
-        ]]></string>
+    <string name="new_app"><![CDATA["\n            Привіт,<br><br>\n            просто повідомляю, що нещодавно було випущено кілька нових застосунків:<br><br>\n            <a href=\"%1$s\">%2$s</a><br><br>\n            <a href=\"%3$s\">%4$s</a><br><br>\n            <a href=\"%5$s\">%6$s</a><br><br>\n            Ви можете завантажити їх, натиснувши на їхні назви або значки.<br><br>\n            Дякую\n        "]]></string>
     <string name="app_launcher_short">Лаунчер</string>
     <string name="calculator_short">Калькулятор</string>
     <string name="calendar_short">Календар</string>
@@ -888,9 +880,7 @@
     <string name="sms_messenger_short">SMS Повідомлення</string>
     <string name="thank_you_short">Подяка</string>
     <string name="voice_recorder_short">Диктофон</string>
-    <string name="sideloaded_app"><![CDATA[
-            Схоже, версія вашого застосунку пошкоджена. Завантажте оригінальну версію <a href="%s">тут</a>.
-        ]]></string>
+    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Схоже, версія вашого застосунку пошкоджена. Завантажте оригінальну версію <a href="%s">тут</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="frequently_asked_questions">Часті питання - ЧаПи</string>
     <string name="before_asking_question">Перш ніж запитувати, будь ласка, прочитайте</string>
     <string name="faq_1_title_commons">Чому я не бачу віджета цього застосунку в списку віджетів?</string>
@@ -1006,18 +996,9 @@
     <string name="pro_app_refund">Пам\'ятайте: якщо ви видалите будь-який платний застосунок протягом 2 годин, вам буде автоматично повернена сума покупки. Якщо ви захочете повернути гроші пізніше, сконтактуйте з нами за адресою hello@fossify.org, і ви їх отримаєте. Таким чином ви можете легко спробувати застосунок :)</string>
     <string name="developer_description">Група простих Android-застосунків з відкритим вихідним кодом, персоналізованими віджетами, без реклами та непотрібних дозволів.</string>
     <string name="purchase_simple_thank_you">Придбайте Fossify Thank You</string>
-    <string name="contributors_label"><![CDATA[
-            У цьому списку зазначені всі, хто помітно допоміг будь-якому застосунку з набору Fossify, а не лише цьому. Перекладами займаються волонтери.
-            Дайте нам знати, якщо теж хочете допомогти. Посібник із перекладу доступний на <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">цьому сайті</a>, або просто напишіть нам на <a href="mailto:hello@fossify.org">hello@fossify.org</a>, якщо у вас є запитання.
-            Дякуємо всім вкладникам і всім, хто нас підтримує!
-        ]]></string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Так, звісно. Ви можете розповідати про застосунки або залишати позитивні відгуки й оцінки. Також можна допомогти, переклавши застосунки новою мовою або просто оновивши наявні переклади.
-            Інструкція з перекладу доступна на <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">цьому сайті</a>. Якщо у вас виникли запитання, просто напишіть нам на адресу <a href="mailto:hello@fossify.org">hello@fossify.org</a>.
-        ]]></string>
-    <string name="purchase_thank_you"><![CDATA[
-            Придбайте <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a>, щоб користуватися цією функцією та підтримати розробку. Дякуємо!
-        ]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020У цьому списку зазначені всі, хто помітно допоміг будь-якому застосунку з набору Fossify, а не лише цьому. Перекладами займаються волонтери.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Дайте нам знати, якщо теж хочете допомогти. Посібник із перекладу доступний на <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">цьому сайті</a>, або просто напишіть нам на <a href="mailto:hello@fossify.org">hello@fossify.org</a>, якщо у вас є запитання.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Дякуємо всім вкладникам і всім, хто нас підтримує!\n \u0020 \u0020 \u0020 \u0020]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Так, звісно. Ви можете розповідати про застосунки або залишати позитивні відгуки й оцінки. Також можна допомогти, переклавши застосунки новою мовою або просто оновивши наявні переклади.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Інструкція з перекладу доступна на <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">цьому сайті</a>. Якщо у вас виникли запитання, просто напишіть нам на адресу <a href="mailto:hello@fossify.org">hello@fossify.org</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Придбайте <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a>, щоб користуватися цією функцією та підтримати розробку. Дякуємо!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="donate_short">Подобається Fossify? Підтримайте розробку наших застосунків без реклами, придбавши &lt;a href=\"https://play.google.com/store/apps/details?id=org.fossify.thankyou\"&gt;Fossify Thank You&lt;/a&gt;. Це також дасть змогу використовувати власні шрифти та спільні налаштування в усіх застосунках Fossify. Дякуємо за вашу підтримку!</string>
     <string name="pin">PIN</string>
     <string name="ok">OK</string>

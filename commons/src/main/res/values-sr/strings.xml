@@ -215,7 +215,7 @@
     <string name="confirm_storage_access_text">Изаберите почетну фасциклу СД картице на следећем екрану, да дозволите записивање</string>
     <string name="confirm_storage_access_text_sd">Ако не видите СД картицу, пробајте ово</string>
     <string name="confirm_storage_access_android_text">Дозволите апликацији да приступи изабраном складишту на следећем екрану притиском на „Користи овај фолдер“ на дну.</string>
-    <string name="confirm_storage_access_android_text_specific">Дозволите приступ \'<b>%s</b>\' на следећем екрану притиском на \'<b>Користите ову фасциклу</b>\' на дну.</string>
+    <string name="confirm_storage_access_android_text_specific">Дозволите приступ \'&lt;b&gt;%s&lt;/b&gt;\' на следећем екрану притиском на \'&lt;b&gt;Користите ову фасциклу&lt;/b&gt;\' на дну.</string>
     <string name="confirm_create_doc_for_new_folder_text">Молимо притисните\'&lt;b&gt;Уштедјети &lt;/b&gt;\' на дну следећег екрана да бисте креирали нову фасциклу.</string>
     <string name="confirm_selection">Потврдите одабир</string>
     <string name="loading">Учитавање…</string>

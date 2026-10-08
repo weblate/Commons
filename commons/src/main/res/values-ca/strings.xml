@@ -255,8 +255,8 @@
     <string name="confirm_storage_access_text">Trieu la carpeta superior de la targeta SD a la pantalla següent, per a atorgar accés d\'escriptura</string>
     <string name="confirm_storage_access_text_sd">Si no veieu la targeta SD, proveu això</string>
     <string name="confirm_storage_access_android_text">Permeteu que l\'aplicació accedeixi a l\'emmagatzematge seleccionat prement «Utilitza aquesta carpeta» a la part inferior de la pantalla següent.</string>
-    <string name="confirm_storage_access_android_text_specific">Permeteu l\'accés a «<b>%s</b>» prement «<b>Utilitza aquesta carpeta</b>» a la part inferior de la pantalla següent.</string>
-    <string name="confirm_create_doc_for_new_folder_text">Premeu «<b>Desa</b>» a la part inferior de la pantalla següent per a crear la carpeta nova.</string>
+    <string name="confirm_storage_access_android_text_specific">Permeteu l\'accés a «&lt;b&gt;%s&lt;/b&gt;» prement «&lt;b&gt;Utilitza aquesta carpeta&lt;/b&gt;» a la part inferior de la pantalla següent.</string>
+    <string name="confirm_create_doc_for_new_folder_text">Premeu «&lt;b&gt;Desa&lt;/b&gt;» a la part inferior de la pantalla següent per a crear la carpeta nova.</string>
     <string name="confirm_selection">Confirmeu la selecció</string>
     <string name="loading">S\'està carregant…</string>
     <string name="access_storage_prompt">Si no concediu accés de l\'aplicació a tots els fitxers és possible que no funcioni bé.</string>
@@ -807,8 +807,7 @@
     <string name="read_it">Llegiu-ho</string>
     <string name="read_faq">Llegiu les preguntes més freqüents</string>
     <string name="thank_you">Gràcies</string>
-    <string name="new_app">
-        <![CDATA[
+    <string name="new_app"><![CDATA[
             Hola,<br><br>
             només informar-vos que recentment s\'ha publicat una aplicació nova:<br><br>
             <a href="%1$s">%2$s</a><br><br>
@@ -816,8 +815,7 @@
             <a href="%5$s">%6$s</a><br><br>
             Podeu baixar-la prement els títols o les icones.<br><br>
             Gràcies
-        ]]>
-    </string>
+        ]]></string>
     <string name="app_launcher_short">Llançador d\'aplicacions</string>
     <string name="calculator_short">Calculadora</string>
     <string name="calendar_short">Calendari</string>
@@ -835,11 +833,9 @@
     <string name="sms_messenger_short">Missatges SMS</string>
     <string name="thank_you_short">Gràcies</string>
     <string name="voice_recorder_short">Enregistrador de veu</string>
-    <string name="sideloaded_app">
-        <![CDATA[
+    <string name="sideloaded_app"><![CDATA[
             Sembla que aquesta versió de l\'aplicació està malmesa. Baixeu la versió original <a href="%s">aquí</a>.
-        ]]>
-    </string>
+        ]]></string>
     <string name="frequently_asked_questions">Preguntes més freqüents</string>
     <string name="before_asking_question">Abans de fer una pregunta, primer llegiu les</string>
     <string name="faq_1_title_commons">Com és que no veig aquest giny a la llista de ginys?</string>
@@ -956,10 +952,7 @@
     <string name="no">No</string>
     <string name="pin">PIN</string>
     <string name="usb">USB</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Sí, és clar. Podeu difondre les aplicacions o fer comentaris i valoracions bones. També podeu ajudar traduint les aplicacions a una llengua nova, o simplement actualitzant algunes traduccions existents.
-            La guia per a traduir es troba en <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">aquest lloc web</a>, o senzillament poseu-vos en contacte amb nosaltres a <a href="mailto:hello@fossify.org">hello@fossify.org</a> si teniu cap pregunta.
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Sí, és clar. Podeu difondre les aplicacions o fer comentaris i valoracions bones. També podeu ajudar traduint les aplicacions a una llengua nova, o simplement actualitzant algunes traduccions existents.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020La guia per a traduir es troba en <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">aquest lloc web</a>, o senzillament poseu-vos en contacte amb nosaltres a <a href="mailto:hello@fossify.org">hello@fossify.org</a> si teniu cap pregunta.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="error">Error: %s</string>
     <string name="notes">Notes</string>
     <string name="transparent">Transparent</string>
@@ -967,9 +960,7 @@
     <string name="audio">Àudio</string>
     <string name="genre">Gènere</string>
     <string name="apply_to_all_apps">Aplicar el tema a totes les aplicacions de Fossify</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Compreu la <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Thank You</a> per a fer servir aquesta característica i col·laborar amb el desenvolupament. Gràcies!
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA["\n            Compreu la <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Thank You</a> per a fer servir aquesta característica i col·laborar amb el desenvolupament. Gràcies!\n        "]]></string>
     <string name="enter_password">Introduïu la contrasenya</string>
     <string name="password">Contrasenya</string>
     <string name="add_password">Afegeix una contrasenya</string>
@@ -981,19 +972,14 @@
     <string name="general_settings">General</string>
     <string name="notification_sound">So de notificació</string>
     <string name="text">Text</string>
-    <string name="copyright">v %1$s
-\nCopyright © Fossify %2$d</string>
+    <string name="copyright">v %1$s \nCopyright © Fossify %2$d</string>
     <string name="social">Social</string>
     <string name="donate_short">Gaudiu de Fossify? Ajudeu el desenvolupament de les nostres aplicacions lliures d\'anuncis comprant la &lt;a href=\"https://play.google.com/store/apps/details?id=org.fossify.thankyou\"&gt;Fossify Thank You&lt;/a&gt;. També activarà les lletres personalitzades i la personalització compartida de totes les aplicacions Fossify. Gràcies per la vostra ajuda!</string>
     <string name="app_icon_color_warning">Atenció: És possible que alguns llançadors no gestionin correctament la personalització de la icona de l\'aplicació. Si la icona desapareix, intenteu llançar l\'aplicació a través de Google Play o d\'un giny, si és accessible. Després del llançament, restaureu el color predeterminat de la icona verda #106D1F. En casos extrems, pot ser necessària la reinstal·lació de l\'aplicació.</string>
     <string name="faq_6_text_commons">Aquest problema sorgeix quan el llançador no admet completament la personalització d\'icones. Intenteu llançar l\'aplicació a través de Google Play o d\'un giny, si és accessible. Després del llançament, restaureu el color predeterminat de la icona verda #106D1F. En casos extrems, pot ser necessària la reinstal·lació de l\'aplicació.</string>
     <string name="block_contact">Bloqueja el contacte</string>
     <string name="exif">EXIF</string>
-    <string name="contributors_label"><![CDATA[
-            Aquesta llista conté tots els que van ajudar notablement a qualsevol aplicació de la suite Fossify, no només aquesta. Les traduccions són gestionades per voluntaris,
-            feu-nos saber si vós també voleu ajudar. La guia per a traduir es troba en <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">aquest lloc web</a>, o simplement poseu-vos en contacte amb nosaltres a <a href="mailto:hello@fossify.org">hello@fossify.org</a> si teniu qualsevol pregunta.
-            Gràcies a tots els col·laboradors i altres patrocinadors!
-        ]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Aquesta llista conté tots els que van ajudar notablement a qualsevol aplicació de la suite Fossify, no només aquesta. Les traduccions són gestionades per voluntaris,\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020feu-nos saber si vós també voleu ajudar. La guia per a traduir es troba en <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">aquest lloc web</a>, o simplement poseu-vos en contacte amb nosaltres a <a href="mailto:hello@fossify.org">hello@fossify.org</a> si teniu qualsevol pregunta.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Gràcies a tots els col·laboradors i altres patrocinadors!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="update_thank_you">Actualitzeu Fossify Thank You a l\'última versió</string>
     <string name="notes_short">Notes</string>
     <string name="translation_hindi">Hindi</string>

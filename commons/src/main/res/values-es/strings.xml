@@ -258,8 +258,8 @@
     <string name="confirm_storage_access_text">Por favor, elija la carpeta raíz de la tarjeta SD en la próxima pantalla para conceder el acceso de escritura</string>
     <string name="confirm_storage_access_text_sd">Si no ve la tarjeta SD, pruebe esto</string>
     <string name="confirm_storage_access_android_text">Permita a la aplicacion acceder al almacenamiento seleccionado en la pantalla siguiente presionando «Usar esta carpeta» en la parte inferior.</string>
-    <string name="confirm_storage_access_android_text_specific">Permita el acceso a «<b>%s</b>» en la siguiente pantalla presionando «<b>Usar esta carpeta</b>» en la parte inferior.</string>
-    <string name="confirm_create_doc_for_new_folder_text">Presione «<b>Guardar</b>» en la parte inferior de la pantalla siguiente para crear la carpeta nueva.</string>
+    <string name="confirm_storage_access_android_text_specific">Permita el acceso a «&lt;b&gt;%s&lt;/b&gt;» en la siguiente pantalla presionando «&lt;b&gt;Usar esta carpeta&lt;/b&gt;» en la parte inferior.</string>
+    <string name="confirm_create_doc_for_new_folder_text">Presione «&lt;b&gt;Guardar&lt;/b&gt;» en la parte inferior de la pantalla siguiente para crear la carpeta nueva.</string>
     <string name="confirm_selection">Confirmar la selección</string>
     <string name="loading">Cargando…</string>
     <string name="access_storage_prompt">Por favor conceda a nuestra aplicación el acceso a todos los archivos, es posible que no funcione bien sin ella.</string>

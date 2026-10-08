@@ -226,7 +226,7 @@
     <string name="confirm_storage_access_text">Por favor escolha a pasta raiz do cartão SD no próximo passo para conceder acesso de escrita</string>
     <string name="confirm_storage_access_text_sd">Se você não encontrar o cartão SD, tente isto</string>
     <string name="confirm_storage_access_android_text">Por favor, permita que o aplicativo acesse o armazenamento utilizando o botão \"Use esta pasta\" no canto inferior da próxima tela.</string>
-    <string name="confirm_storage_access_android_text_specific">Por favor, permita o acesso a \'<b>%s</b>\' na próxima tela pressionando \'<b>Usar esta pasta</b>\' no canto inferior.</string>
+    <string name="confirm_storage_access_android_text_specific">Por favor, permita o acesso a \'&lt;b&gt;%s&lt;/b&gt;\' na próxima tela pressionando \'&lt;b&gt;Usar esta pasta&lt;/b&gt;\' no canto inferior.</string>
     <string name="confirm_create_doc_for_new_folder_text">Por favor, pressione \'&lt;b&gt;Save&lt;/b&gt;\' no canto inferior da próxima nela para criar uma nova pasta.</string>
     <string name="confirm_selection">Confirmar seleção</string>
     <string name="loading">Carregando…</string>
@@ -946,10 +946,7 @@
     <string name="app_icon_color_warning">Cuidado: Certos lançadores podem não lidar corretamente com a personalização do ícone do aplicativo. Se o ícone desaparecer, tente iniciar o aplicativo pelo Google Play ou por um widget, se acessível. Após iniciar, restaure a cor verde padrão do ícone #106D1F. Em casos extremos, pode ser necessário reinstalar o aplicativo.</string>
     <string name="translation_vietnamese">Vietnamita</string>
     <string name="purchase_simple_thank_you">Compre Agradecimento Fossify</string>
-    <string name="faq_2_text_commons"><![CDATA[
-Sim, claro. Você pode espalhar a informação sobre os aplicativos ou dar um bom feedback e avaliações. Você também pode ajudar traduzindo os aplicativos para um novo idioma ou apenas atualizando algumas traduções existentes.
-O guia para tradução está <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">neste site</a>, ou entre em contato conosco em <a href="mailto:hello@fossify.org">hello@fossify.org</a> se tiver alguma dúvida.
-]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\nSim, claro. Você pode espalhar a informação sobre os aplicativos ou dar um bom feedback e avaliações. Você também pode ajudar traduzindo os aplicativos para um novo idioma ou apenas atualizando algumas traduções existentes.\nO guia para tradução está <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">neste site</a>, ou entre em contato conosco em <a href="mailto:hello@fossify.org">hello@fossify.org</a> se tiver alguma dúvida.\n]]></string>
     <string name="donate_short">Apoie-nos comprando &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Agradecimento Fossify&lt;/a&gt;, isso também desbloqueará todos os recursos do aplicativo, incluindo personalização de cores.</string>
     <string name="translation_slovenian">Esloveno</string>
     <string name="hide_line_numbers">Ocultar números de linha</string>
@@ -967,11 +964,7 @@ O guia para tradução está <a href="https://github.com/FossifyOrg/General-Disc
     <string name="date_time_pattern_info">Você pode usar os seguintes padrões para nomear seu arquivo automaticamente:\n\n%Y - ano\n%M - mês\n%D - dia\n%h - hora\n%m - minuto\n%s - segundo</string>
     <string name="launcher_short">Lançador</string>
     <string name="other_help">Outra ajuda</string>
-    <string name="contributors_label"><![CDATA[
-Esta lista contém todos que ajudaram visivelmente qualquer aplicativo dentro do pacote Fossify, não apenas este. As traduções são feitas por voluntários,
-nos avise se você quiser ajudar também. O guia para tradução está <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">neste site</a>, ou entre em contato conosco em <a href="mailto:hello@fossify.org">hello@fossify.org</a> se você tiver alguma dúvida.
-Obrigado a todos os contribuidores e outros apoiadores!
-]]></string>
+    <string name="contributors_label"><![CDATA[\nEsta lista contém todos que ajudaram visivelmente qualquer aplicativo dentro do pacote Fossify, não apenas este. As traduções são feitas por voluntários,\nnos avise se você quiser ajudar também. O guia para tradução está <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">neste site</a>, ou entre em contato conosco em <a href="mailto:hello@fossify.org">hello@fossify.org</a> se você tiver alguma dúvida.\nObrigado a todos os contribuidores e outros apoiadores!\n]]></string>
     <string name="translation_finnish">Finlandês</string>
     <string name="translation_persian">Persa</string>
     <string name="translation_french">Francês</string>

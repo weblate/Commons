@@ -292,9 +292,7 @@
     <string name="cannot_be_undone">この操作は元に戻せません。</string>
     <string name="save_before_closing">保存していない変更があります。保存しますか？</string>
     <string name="global_theme_success">現在のテーマがFossifyの全アプリに適用されました。今後テーマに変更を行った場合、変更は自動的に同期されます。</string>
-    <string name="purchase_thank_you"><![CDATA[
-            この機能のロックを解除して開発者をサポートするには、<a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Thank You</a>アプリを購入してください。
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA["\n            この機能のロックを解除して開発者をサポートするには、<a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Thank You</a>アプリを購入してください。\n        "]]></string>
     <string name="light_theme">ライト</string>
     <string name="dark_theme">ダーク</string>
     <string name="auto_theme">自動</string>
@@ -697,15 +695,7 @@
     <string name="read_it">見る</string>
     <string name="read_faq">FAQ</string>
     <string name="thank_you">ありがとうございます</string>
-    <string name="new_app"><![CDATA[
-            こんにちは、<br><br>
-            最近、新しいアプリをいくつかリリースしたのでお知らせします:<br><br>
-            <a href="%1$s">%2$s</a><br><br>
-            <a href="%3$s">%4$s</a><br><br>
-            <a href="%5$s">%6$s</a><br><br>
-            アイコンかタイトルをタップするだけでダウンロードできます。<br><br>
-            ありがとうございます
-        ]]></string>
+    <string name="new_app"><![CDATA["\n            こんにちは、<br><br>\n            最近、新しいアプリをいくつかリリースしたのでお知らせします:<br><br>\n            <a href=\"%1$s\">%2$s</a><br><br>\n            <a href=\"%3$s\">%4$s</a><br><br>\n            <a href=\"%5$s\">%6$s</a><br><br>\n            アイコンかタイトルをタップするだけでダウンロードできます。<br><br>\n            ありがとうございます\n        "]]></string>
     <string name="app_launcher_short">アプリランチャー</string>
     <string name="calculator_short">電卓</string>
     <string name="calendar_short">カレンダー</string>
@@ -909,10 +899,7 @@
     <string name="purchase_simple_thank_you">Simple Thank Youを購入</string>
     <string name="translation_lithuanian">リトアニア語</string>
     <string name="translation_nepali">ネパール語</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            はい、もちろんです。アプリについて広めたり、良いフィードバックと評価を行ったり、または翻訳に参加したりしていただけます。
-            翻訳のガイドは<a href=https://github.com/FossifyOrg/General-Discussion#contributing-translations>このウェブサイト</a>にあります。質問があれば、<a href=mailto:hello@fossify.org>hello@fossify.org</a>までご連絡ください。
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA["\n            はい、もちろんです。アプリについて広めたり、良いフィードバックと評価を行ったり、または翻訳に参加したりしていただけます。\n            翻訳のガイドは<a href=https://github.com/FossifyOrg/General-Discussion#contributing-translations>このウェブサイト</a>にあります。質問があれば、<a href=mailto:hello@fossify.org>hello@fossify.org</a>までご連絡ください。\n        "]]></string>
     <string name="date_time_pattern_info">以下の変数を使ってファイルの名前を自動的に設定できます。 \n \n%Y - 年 \n%M - 月 \n%D - 日 \n%h - 時 \n%m - 分 \n%s - 秒</string>
     <string name="faq_6_text_commons">この問題は、使用しているランチャーがアイコンのカスタマイズを完全にサポートしていない場合に生じます。Google Play、または、利用可能な場合はウィジェットからアプリを起動してみてください。開始したら、既定の緑のアイコンの色 #106D1F を復元してください。ごくまれに、アプリの再インストールが必要になる場合があります。</string>
     <string name="too_many_incorrect_attempts">間違ったロック解除の試行回数が多すぎます。 \n%d秒後に再度試してください。</string>

@@ -968,10 +968,7 @@
     <string name="translation_bengali">Bengali</string>
     <string name="translation_breton">Breton</string>
     <string name="translation_hindi">Hindi</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Oui bien sûr. Vous pouvez nous aider en partageant les applications ou en laissant des notes et commentaires positifs. Vous pouvez également nous aider en traduisant les applications dans une nouvelle langue, ou simplement en mettant à jour certaines traductions existantes.
-            Le guide de traduction se trouve sur <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">ce site Web</a>, ou contactez-nous simplement à <a href="mailto:hello@fossify.org">hello@fossify.org</a> si vous avez des questions.
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Oui bien sûr. Vous pouvez nous aider en partageant les applications ou en laissant des notes et commentaires positifs. Vous pouvez également nous aider en traduisant les applications dans une nouvelle langue, ou simplement en mettant à jour certaines traductions existantes.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Le guide de traduction se trouve sur <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">ce site Web</a>, ou contactez-nous simplement à <a href="mailto:hello@fossify.org">hello@fossify.org</a> si vous avez des questions.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="translation_catalan">Catalan</string>
     <string name="translation_basque">Basque</string>
     <string name="translation_tamil">Tamil</string>
@@ -1017,9 +1014,7 @@
     <string name="select_font_file">Sélectionner le fichier de police de caractère…</string>
     <string name="invalid_font_file">Fichier de police de caractère invalide</string>
     <string name="badge_deprecated">(déprécié)</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Veuillez acheter <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> pour utiliser cette fonctionnalité et soutenir le développement. Merci !
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Veuillez acheter <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> pour utiliser cette fonctionnalité et soutenir le développement. Merci !\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="label_with_badge">%1$s %2$s</string>
     <string name="mammoth_title">Mammoth (convertisseur DOCX)</string>
     <string name="commonmark_title">CommonMark (analyseur Markdown)</string>

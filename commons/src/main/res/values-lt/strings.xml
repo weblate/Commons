@@ -1046,4 +1046,6 @@
     <string name="welcome_to_app_name"></string>
     <string name="block_hidden_calls"></string>
     <string name="rate_this_app"></string>
+    <string name="faq_6_text_commons"></string>
+    <string name="app_icon_color_warning"></string>
 </resources>

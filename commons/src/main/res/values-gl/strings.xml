@@ -986,10 +986,4 @@
     <string name="font_monospace">Monoespazada</string>
     <string name="select_font_file">Escolmar arquivo de fonte…</string>
     <string name="invalid_font_file">Arquivo de fonte non válido</string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="mammoth_title"></string>
 </resources>

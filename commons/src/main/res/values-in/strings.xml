@@ -950,10 +950,4 @@
     <plurals name="files_saved">
         <item quantity="other">File berhasil disimpan</item>
     </plurals>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="mammoth_title"></string>
 </resources>

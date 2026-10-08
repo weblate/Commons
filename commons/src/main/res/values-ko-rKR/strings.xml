@@ -944,6 +944,4 @@
         <item quantity="other">체험 기간이 %d일 후 만료됩니다.</item>
     </plurals>
     <string name="developer_description">광고와 불필요한 권한 없이 사용자 지정 가능한 위젯을 제공하는 간단한 오픈 소스 Android 앱 모음입니다.</string>
-    <string name="rate_app_prompt"></string>
-    <string name="donation_prompt"></string>
 </resources>

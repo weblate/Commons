@@ -1016,10 +1016,4 @@
     <string name="on_contact_click">כפתור יצירת קשר</string>
     <string name="call_contact">חייג לאיש קשר</string>
     <string name="view_contact">צפה בפרטי התקשרות</string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="mammoth_title"></string>
 </resources>

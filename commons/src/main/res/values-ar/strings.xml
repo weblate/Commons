@@ -1144,6 +1144,4 @@
     <string name="commonmark_title">CommonMark (محلّل Markdown)</string>
     <string name="jsoup_title">jsoup (محلّل HTML)</string>
     <string name="commons_csv_title">Apache Commons CSV (محلّل CSV)</string>
-    <string name="rate_app_prompt"></string>
-    <string name="donation_prompt"></string>
 </resources>

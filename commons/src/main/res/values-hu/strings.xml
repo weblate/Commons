@@ -978,10 +978,4 @@
     <string name="badge_deprecated">(elavult)</string>
     <string name="label_with_badge">%1$s %2$s</string>
     <string name="translation_latvian">Litván</string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="mammoth_title"></string>
 </resources>

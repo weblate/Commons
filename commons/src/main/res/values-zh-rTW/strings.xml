@@ -954,6 +954,4 @@
     <string name="commonmark_title">CommonMark（Markdown 解析器）</string>
     <string name="jsoup_title">jsoup（HTML 解析器）</string>
     <string name="commons_csv_title">Apache Commons CSV（CSV 解析器）</string>
-    <string name="rate_app_prompt"></string>
-    <string name="donation_prompt"></string>
 </resources>

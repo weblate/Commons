@@ -1026,10 +1026,4 @@
     <string name="on_contact_click">Ao tocar no contato</string>
     <string name="call_contact">Ligar para o contato</string>
     <string name="view_contact">Exibir detalhes do contato</string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="mammoth_title"></string>
 </resources>

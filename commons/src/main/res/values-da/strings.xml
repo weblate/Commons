@@ -995,10 +995,4 @@
     <string name="call_contact">Ring til kontakt</string>
     <string name="view_contact">Vis kontaktdetaljer</string>
     <string name="font_monospace">Fastbredde</string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="mammoth_title"></string>
 </resources>

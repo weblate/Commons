@@ -932,20 +932,4 @@
     <string name="more_fossify_apps">他のFossifyアプリ</string>
     <string name="badge_deprecated">(廃止予定)</string>
     <string name="label_with_badge">%1$s %2$s</string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="translation_kabyle"></string>
-    <string name="translation_latvian"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="translation_gujarati"></string>
-    <string name="translation_breton"></string>
-    <string name="zip4j_title"></string>
-    <string name="translation_chuvash"></string>
-    <string name="contributors_label"><![CDATA[]]></string>
-    <string name="evalex_title"></string>
-    <string name="other_help"></string>
-    <string name="mammoth_title"></string>
-    <string name="rate_this_app"></string>
 </resources>

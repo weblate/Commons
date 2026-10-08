@@ -1037,6 +1037,4 @@
     <string name="commonmark_title">CommonMark (analizador Markdown)</string>
     <string name="jsoup_title">jsoup (analizador HTML)</string>
     <string name="commons_csv_title">Apache Commons CSV (analizador CSV)</string>
-    <string name="rate_app_prompt"></string>
-    <string name="donation_prompt"></string>
 </resources>

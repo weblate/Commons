@@ -1096,6 +1096,4 @@
     <string name="commonmark_title">CommonMark (parsálaí Markdown)</string>
     <string name="jsoup_title">jsoup (parsálaí HTML)</string>
     <string name="commons_csv_title">Apache Commons CSV (parsálaí CSV)</string>
-    <string name="rate_app_prompt"></string>
-    <string name="donation_prompt"></string>
 </resources>

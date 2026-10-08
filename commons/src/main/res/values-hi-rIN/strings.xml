@@ -968,18 +968,4 @@
     <string name="on_contact_click">संपर्क क्लिक पर</string>
     <string name="view_contact">संपर्क विवरण देखें</string>
     <string name="edit_contact">संपादित संपर्क</string>
-    <string name="requires_fossify_thank_you"></string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="enables_more_customization"></string>
-    <string name="translation_latvian"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <plurals name="files_saved">
-    </plurals>
-    <string name="evalex_title"></string>
-    <string name="more_fossify_apps"></string>
-    <string name="mammoth_title"></string>
-    <string name="rate_this_app"></string>
 </resources>

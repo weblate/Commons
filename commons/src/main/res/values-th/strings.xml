@@ -940,10 +940,4 @@
     </plurals>
     <string name="pro_app_refund">อย่าลืมว่าหากถอนการติดตั้งแอปที่ซื้อภายใน 2 ชั่วโมง คุณจะได้รับเงินคืนอัตโนมัติ หากต้องการคืนเงินในภายหลัง ติดต่อเราได้ที่ hello@fossify.org แล้วคุณจะได้รับเงินคืน ทำให้ทดลองใช้ได้ง่ายมาก :)</string>
     <string name="developer_description">กลุ่มแอป Android แบบง่าย โอเพ่นซอร์ส พร้อมวิดเจ็ตที่ปรับแต่งได้ ไม่มีโฆษณา และไม่ขอสิทธิ์ที่ไม่จำเป็น</string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="mammoth_title"></string>
 </resources>

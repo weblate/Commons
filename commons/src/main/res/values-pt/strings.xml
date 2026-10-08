@@ -1016,10 +1016,4 @@
     <string name="rate_this_app">Avalie esta app</string>
     <string name="badge_deprecated">(obsoleto)</string>
     <string name="translation_latvian">Letão</string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="mammoth_title"></string>
 </resources>

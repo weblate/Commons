@@ -933,17 +933,4 @@
     <string name="on_contact_click">點擊聯絡人</string>
     <string name="call_contact">打電話給聯絡人</string>
     <string name="view_contact">顯示聯絡人資料</string>
-    <string name="commons_csv_title"></string>
-    <string name="app_font"></string>
-    <string name="jsoup_title"></string>
-    <string name="invalid_font_file"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="select_font_file"></string>
-    <string name="donation_prompt"></string>
-    <string name="label_with_badge"></string>
-    <string name="font_monospace"></string>
-    <string name="badge_deprecated"></string>
-    <string name="font"></string>
-    <string name="mammoth_title"></string>
 </resources>

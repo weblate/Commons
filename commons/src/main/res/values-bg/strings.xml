@@ -982,6 +982,4 @@
     <string name="commonmark_title">CommonMark (обработка на Markdown)</string>
     <string name="jsoup_title">jsoup (обработка на HTML)</string>
     <string name="commons_csv_title">Apache Commons CSV (обработка на CSV)</string>
-    <string name="rate_app_prompt"></string>
-    <string name="donation_prompt"></string>
 </resources>

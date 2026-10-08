@@ -1015,11 +1015,4 @@
     <string name="font_monospace">Fiksna širina</string>
     <string name="select_font_file">Odaberi datoteku fonta …</string>
     <string name="invalid_font_file">Neispravna datoteka fonta</string>
-    <string name="commons_csv_title"></string>
-    <string name="jsoup_title"></string>
-    <string name="rate_app_prompt"></string>
-    <string name="commonmark_title"></string>
-    <string name="donation_prompt"></string>
-    <string name="mammoth_title"></string>
-    <string name="faq_9_text_commons"></string>
 </resources>

@@ -804,7 +804,7 @@
     <string name="faq_2_title_commons">Gostaria de apoiá-los, mas não posso doar dinheiro. Há algo mais que eu possa fazer?</string>
     <string name="faq_3_title_commons">Exclui alguns ficheiros por engano, como posso recuperá-los?</string>
     <string name="faq_3_text_commons">Infelizmente, você não pode. Os ficheiros são apagados instantaneamente após a caixa de diálogo de confirmação, não há lixeira disponível.</string>
-    <string name="faq_4_title_commons">Não gosto das cores do widget, posso mudá-las\?</string>
+    <string name="faq_4_title_commons">Não gosto das cores do widget, posso mudá-las?</string>
     <string name="faq_4_text_commons">Sim, enquanto você arrasta um widget em sua tela inicial, uma tela de configuração do widget aparece. Verá quadrados coloridos no canto inferior esquerdo, basta pressioná-los para escolher uma nova cor. Também pode usar o controle deslizante para ajustar a transparência (alfa).</string>
     <string name="faq_5_title_commons">Posso restaurar de alguma forma os ficheiros apagados?</string>
     <string name="faq_5_text_commons">Se eles foram realmente apagados, não poderá recuperá-los. No entanto, o lixo está ativado por predefinição e move os ficheiros para o lixo em vez de apagá-los imediatamente.</string>
@@ -1035,4 +1035,10 @@ Obrigado a todos os contribuidores e outros apoiadores!
     <string name="rate_this_app">Avalie esta app</string>
     <string name="badge_deprecated">(obsoleto)</string>
     <string name="translation_latvian">Letão</string>
+    <string name="commons_csv_title"></string>
+    <string name="jsoup_title"></string>
+    <string name="rate_app_prompt"></string>
+    <string name="commonmark_title"></string>
+    <string name="donation_prompt"></string>
+    <string name="mammoth_title"></string>
 </resources>

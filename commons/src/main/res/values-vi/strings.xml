@@ -236,7 +236,7 @@
     <string name="confirm_storage_access_text">Hãy chọn thư mục trên cùng của thẻ SD trên màn hình tiếp theo để cấp quyền ghi</string>
     <string name="confirm_storage_access_text_sd">Nếu bạn không thấy thẻ SD, hãy thử</string>
     <string name="confirm_storage_access_android_text">Vui lòng cho phép ứng dụng truy cập vào bộ nhớ đã chọn trên màn hình tiếp theo bằng cách nhấn \'Sử dụng thư mục này\' ở dưới cùng.</string>
-    <string name="confirm_storage_access_android_text_specific">Vui lòng cho phép \'<b>%s</b>\' trên màn hình tiếp theo bằng cách nhấn \'<b>Sử dụng thư mục này</b>\' ở dưới cùng.</string>
+    <string name="confirm_storage_access_android_text_specific">Vui lòng cho phép \'&lt;b&gt;%s&lt;/b&gt;\' trên màn hình tiếp theo bằng cách nhấn \'&lt;b&gt;Sử dụng thư mục này&lt;/b&gt;\' ở dưới cùng.</string>
     <string name="confirm_create_doc_for_new_folder_text">Vui lòng nhấn \'<b>Lưu</b>\' ở dưới cùng của màn hình tiếp theo để tạo thư mục mới.</string>
     <string name="confirm_selection">Xác nhận lựa chọn</string>
     <string name="loading">Đang tải…</string>
@@ -289,9 +289,7 @@
     <string name="cannot_be_undone">Hành động này không thể hoàn tác.</string>
     <string name="save_before_closing">Bạn có các thay đổi chưa lưu. Lưu trước khi thoát?</string>
     <string name="global_theme_success">Chủ đề hiện tại đã được áp dụng thành công cho tất cả ứng dụng Fossify. Bất kỳ thay đổi nào trong tương lai đối với chủ đề này sẽ được đồng bộ hóa tự động.</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Hãy mua ứng dụng <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Thank You</a> để dùng tính năng này và hỗ trợ nhà phát triển. Cảm ơn!
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA["\n            Hãy mua ứng dụng <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Thank You</a> để dùng tính năng này và hỗ trợ nhà phát triển. Cảm ơn!\n        "]]></string>
     <string name="light_theme">Sáng</string>
     <string name="dark_theme">Tối</string>
     <string name="auto_light_dark_theme">Tự động</string>
@@ -582,18 +580,8 @@
     <string name="make_sure_latest">Hãy đảm bảo rằng bạn đang sử dụng phiên bản ứng dụng mới nhất.</string>
     <string name="read_it">Hãy đọc</string>
     <string name="read_faq">Đọc Câu hỏi thường gặp</string>
-    <string name="new_app"><![CDATA[
-            Này,<br><br>
-            bạn có biết rằng, vài ứng dụng mới đã được ra mắt gần đây:<br><br>
-            <a href="%1$s">%2$s</a><br><br>
-            <a href="%3$s">%4$s</a><br><br>
-            <a href="%5$s">%6$s</a><br><br>
-            Bạn có thể tải xuống bằng cách nhấn vào biểu tượng hoặc tên chúng.<br><br>
-            Cám ơn
-        ]]></string>
-    <string name="sideloaded_app"><![CDATA[
-            Có vẻ như phiên bản ứng dụng của bạn bị hỏng. Vui lòng tải phiên bản gốc <a href="%s">tại đây</a>.
-        ]]></string>
+    <string name="new_app"><![CDATA["\n            Này,<br><br>\n            bạn có biết rằng, vài ứng dụng mới đã được ra mắt gần đây:<br><br>\n            <a href=\"%1$s\">%2$s</a><br><br>\n            <a href=\"%3$s\">%4$s</a><br><br>\n            <a href=\"%5$s\">%6$s</a><br><br>\n            Bạn có thể tải xuống bằng cách nhấn vào biểu tượng hoặc tên chúng.<br><br>\n            Cám ơn\n        "]]></string>
+    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Có vẻ như phiên bản ứng dụng của bạn bị hỏng. Vui lòng tải phiên bản gốc <a href="%s">tại đây</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="frequently_asked_questions">Câu hỏi thường gặp</string>
     <string name="before_asking_question">Trước khi bạn đặt câu hỏi, hãy đọc</string>
     <string name="faq_1_title_commons">Tại sao tôi không thấy widget app này trong danh sách widget?</string>
@@ -769,15 +757,8 @@
     </plurals>
     <string name="confirm_storage_access_restricted_text_not_found">Không tìm thấy ứng dụng quản lý tệp hệ thống.</string>
     <string name="date_time_pattern_info">Bạn có thể sử dụng các mẫu sau để đặt tên tệp tự động.:\n\n%Y - năm\n%M - tháng\n%D - ngày\n%h - giờ\n%m - phút\n%s - giây</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Tất nhiên rồi. Bạn có thể chia sẻ thông tin về ứng dụng hoặc xếp hạng và đánh giá tích cực. Bạn cũng có thể giúp đỡ bằng cách dịch ứng dụng sang ngôn ngữ mới, hoặc chỉ cần cập nhật một số bản dịch hiện có.
-            Xem hướng dẫn dịch thuật <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">tại đây</a>, hoặc liên hệ <a href="mailto:hello@fossify.org">hello@fossify.org</a> nếu bạn có câu hỏi khác.
-        ]]></string>
-    <string name="contributors_label"><![CDATA[
-            Danh sách này gồm những người đã đóng góp đáng kể cho bất kỳ ứng dụng nào của Fossify, không chỉ riêng ứng dụng này. Việc dịch thuật được thực hiện bởi các tình nguyện viên.
-            Hãy cho chúng tôi biết nếu bạn cũng muốn đóng góp. Xem hướng dẫn dịch thuật <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">tại đây</a>, hoặc liên hệ <a href="mailto:hello@fossify.org">hello@fossify.org</a> nếu bạn có câu hỏi khác.
-            Xin cảm ơn tất cả những người đóng góp và ủng hộ khác!
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Tất nhiên rồi. Bạn có thể chia sẻ thông tin về ứng dụng hoặc xếp hạng và đánh giá tích cực. Bạn cũng có thể giúp đỡ bằng cách dịch ứng dụng sang ngôn ngữ mới, hoặc chỉ cần cập nhật một số bản dịch hiện có.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Xem hướng dẫn dịch thuật <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">tại đây</a>, hoặc liên hệ <a href="mailto:hello@fossify.org">hello@fossify.org</a> nếu bạn có câu hỏi khác.\n \u0020 \u0020 \u0020 \u0020]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Danh sách này gồm những người đã đóng góp đáng kể cho bất kỳ ứng dụng nào của Fossify, không chỉ riêng ứng dụng này. Việc dịch thuật được thực hiện bởi các tình nguyện viên.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Hãy cho chúng tôi biết nếu bạn cũng muốn đóng góp. Xem hướng dẫn dịch thuật <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">tại đây</a>, hoặc liên hệ <a href="mailto:hello@fossify.org">hello@fossify.org</a> nếu bạn có câu hỏi khác.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Xin cảm ơn tất cả những người đóng góp và ủng hộ khác!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="m3u_parser_title">M3U Parser (xử lý tệp danh sách phát m3u)</string>
     <string name="more_fossify_apps">Bộ ứng dụng Fossify</string>
     <string name="faq_6_text_commons">Sự cố này xảy ra khi trình launcher của bạn không hỗ trợ việc tùy chỉnh biểu tượng. Hãy thử mở ứng dụng thông qua Google Play hoặc widget (nếu có). Sau khi mở được, hãy khôi phục màu biểu tượng xanh lá cây mặc định #106D1F. Trong trường hợp nghiêm trọng, có thể cần phải cài đặt lại ứng dụng.</string>
@@ -965,4 +946,6 @@
     <string name="commonmark_title">CommonMark (Markdown parser)</string>
     <string name="jsoup_title">jsoup (HTML parser)</string>
     <string name="commons_csv_title">Apache Commons CSV (CSV parser)</string>
+    <string name="rate_app_prompt"></string>
+    <string name="donation_prompt"></string>
 </resources>

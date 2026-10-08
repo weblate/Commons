@@ -730,7 +730,7 @@
     <string name="allow_full_screen_notifications_reminders">您必須允許應用程式顯示全螢幕通知，否則可能會錯過一些提醒。</string>
     <string name="allow_notifications_voice_recorder">您必須允許應用程式顯示通知，否則無法錄製音訊。</string>
     <string name="grant_permission">授予權限</string>
-    <string name="confirm_create_doc_for_new_folder_text">請在下一頁點選下方的「<b>儲存</b>」以建立新的資料夾。</string>
+    <string name="confirm_create_doc_for_new_folder_text">請在下一頁點選下方的「&lt;b&gt;儲存&lt;/b&gt;」以建立新的資料夾。</string>
     <string name="solarized">Solarized</string>
     <string name="pin_item">釘選項目</string>
     <string name="unpin_item">取消釘選項目</string>

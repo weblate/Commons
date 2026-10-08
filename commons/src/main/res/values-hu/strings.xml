@@ -779,15 +779,7 @@
     <string name="read_it">Elolvasás</string>
     <string name="read_faq">GYIK elolvasása</string>
     <string name="thank_you">Köszönjük</string>
-    <string name="new_app"><![CDATA[
-            Üdv!<br><br>
-            Csak tájékoztatni szeretnénk, hogy megjelent néhány új alkalmazás:<br><br>
-            <a href="%1$s">%2$s</a><br><br>
-            <a href="%3$s">%4$s</a><br><br>
-            <a href="%5$s">%6$s</a><br><br>
-            A címeikre vagy ikonjaikra kattintva töltheti le őket.<br><br>
-            Köszönjük!
-        ]]></string>
+    <string name="new_app"><![CDATA["\n            Üdv!<br><br>\n            Csak tájékoztatni szeretnénk, hogy megjelent néhány új alkalmazás:<br><br>\n            <a href=\"%1$s\">%2$s</a><br><br>\n            <a href=\"%3$s\">%4$s</a><br><br>\n            <a href=\"%5$s\">%6$s</a><br><br>\n            A címeikre vagy ikonjaikra kattintva töltheti le őket.<br><br>\n            Köszönjük!\n        "]]></string>
     <string name="app_launcher_short">Alkalmazásindító</string>
     <string name="calculator_short">Számológép</string>
     <string name="calendar_short">Naptár</string>
@@ -806,9 +798,7 @@
     <string name="sms_messenger_short">SMS üzenetküldő</string>
     <string name="thank_you_short">Köszönöm</string>
     <string name="voice_recorder_short">Hangrögzítő</string>
-    <string name="sideloaded_app"><![CDATA[
-            Úgy tűnik, hogy az alkalmazásverziója megsérült. Töltse le az eredeti verziót <a href="%s">innen</a>.
-        ]]></string>
+    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Úgy tűnik, hogy az alkalmazásverziója megsérült. Töltse le az eredeti verziót <a href="%s">innen</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="frequently_asked_questions">Gyakran Ismételt Kérdések</string>
     <string name="before_asking_question">Mielőtt feltenne egy kérdést, először olvassa el ezt:</string>
     <string name="faq_1_title_commons">Miért nem látom az alkalmazás modulját a modulok között?</string>
@@ -925,15 +915,8 @@
     <string name="deletion_confirmation_short">Törli: %s?</string>
     <string name="purchase_simple_thank_you">Fossify Köszönet megvásárlása</string>
     <string name="notification_sound">Értesítési hang</string>
-    <string name="contributors_label"><![CDATA[
-            A lista mindenkit tartalmaz, aki észrevehető mértékben segített a Fossify csomag bármelyik alkalmazásában, nem csak ebben. A fordításokat önkéntesek kezelik,
-            tudassa velünk, ha Ön is segítene. A fordítási útmutató <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">ezen a webhelyen</a> található, de ha kérdése van, akkor a <a href="mailto:hello@fossify.org">hello@fossify.org</a> címen is felteheti.
-            Köszönjük az összes közreműködőnknek és támogatónknak!
-        ]]></string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Igen, természetesen. Népszerűsítheti az alkalmazásokat, adhat visszajelzést róluk és értékelheti őket. Le is fordíthatja az alkalmazásokat a saját nyelvére, vagy frissítheti a meglévő fordításokat.
-            A fordítási útmutató megtalálható <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">ezen a webhelyen</a>, vagy ha kérdése van, akkor írjon nekünk a <a href="mailto:hello@fossify.org">hello@fossify.org</a> címre.
-        ]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020A lista mindenkit tartalmaz, aki észrevehető mértékben segített a Fossify csomag bármelyik alkalmazásában, nem csak ebben. A fordításokat önkéntesek kezelik,\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020tudassa velünk, ha Ön is segítene. A fordítási útmutató <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">ezen a webhelyen</a> található, de ha kérdése van, akkor a <a href="mailto:hello@fossify.org">hello@fossify.org</a> címen is felteheti.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Köszönjük az összes közreműködőnknek és támogatónknak!\n \u0020 \u0020 \u0020 \u0020]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Igen, természetesen. Népszerűsítheti az alkalmazásokat, adhat visszajelzést róluk és értékelheti őket. Le is fordíthatja az alkalmazásokat a saját nyelvére, vagy frissítheti a meglévő fordításokat.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020A fordítási útmutató megtalálható <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">ezen a webhelyen</a>, vagy ha kérdése van, akkor írjon nekünk a <a href="mailto:hello@fossify.org">hello@fossify.org</a> címre.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="app_icon_color_warning">Figyelem: egyes indítók lehet, hogy nem helyesen kezelik az ikonok testreszábását. Ha az ikon eltűnik, próbálja a Google Playen vagy egy modulon keresztül elindítani, ha elérhető. Indítás után állítsa vissza az alapértelmezett zöld (#106D1F) ikonszínt. Extrém esetekben az alkalmazás újratelepítése is szükséges lehet.</string>
     <string name="purchase_thank_you"><![CDATA[
             Vásárolja meg a <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Köszönet</a> alkalmazást a funkció feloldásához, és a fejlesztés támogatásához. Köszönjük!
@@ -946,8 +929,7 @@
     <string name="usb">USB</string>
     <string name="november">november</string>
     <string name="december">december</string>
-    <string name="copyright">v %1$s
-\nCopyright © Fossify %2$d</string>
+    <string name="copyright">v %1$s \nCopyright © Fossify %2$d</string>
     <string name="donate_short">Támogasson minket a &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Fossify Köszönet&lt;/a&gt; alkalmazás megvásárlásával, ez feloldja az összes alkalmazásfunkciót is, köztük a színek testreszabását.</string>
     <string name="update_thank_you">Frissítse a Fossify Köszönet alkalmazást a legfrissebb verzióra</string>
     <string name="translation_breton">Breton</string>

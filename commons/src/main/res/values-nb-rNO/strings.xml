@@ -976,4 +976,6 @@
     <string name="thank_you"></string>
     <string name="faq_2_title_commons"></string>
     <string name="search_events"></string>
+    <string name="faq_6_text_commons"></string>
+    <string name="app_icon_color_warning"></string>
 </resources>

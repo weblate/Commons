@@ -261,7 +261,7 @@
     <string name="confirm_storage_access_text">Чтобы предоставить доступ для записи, выберите корневую папку карты памяти на следующем шаге</string>
     <string name="confirm_storage_access_text_sd">Если карта памяти не видна, попробуйте это</string>
     <string name="confirm_storage_access_android_text">Разрешите приложению доступ к выбранному хранилищу на следующем экране, нажав \"Использовать эту папку\" в нижней части.</string>
-    <string name="confirm_storage_access_android_text_specific">Разрешите доступ к \"<b>%s</b>\" на следующем экране, нажав \"<b>Использовать эту папку</b>\" внизу.</string>
+    <string name="confirm_storage_access_android_text_specific">Разрешите доступ к \"&lt;b&gt;%s&lt;/b&gt;\" на следующем экране, нажав \"&lt;b&gt;Использовать эту папку&lt;/b&gt;\" внизу.</string>
     <string name="confirm_create_doc_for_new_folder_text">Нажмите \"&lt;b&gt;Сохранить&lt;/b&gt;\" внизу на следующем экране, чтобы создать новую папку.</string>
     <string name="confirm_selection">Подтвердить выделение</string>
     <string name="loading">Загрузка…</string>
@@ -863,15 +863,7 @@
     <string name="read_it">Прочитать</string>
     <string name="read_faq">Прочитать FAQ</string>
     <string name="thank_you">Спасибо</string>
-    <string name="new_app"><![CDATA[
-            Привет,<br><br>
-            просто сообщаем, что недавно были выпущены новые приложения:<br><br>
-            <a href="%1$s">%2$s</a><br><br>
-            <a href="%3$s">%4$s</a><br><br>
-            <a href="%5$s">%6$s</a><br><br>
-            Их можно загрузить, нажав на заголовок или значок.<br><br>
-            Спасибо
-        ]]></string>
+    <string name="new_app"><![CDATA["\n            Привет,<br><br>\n            просто сообщаем, что недавно были выпущены новые приложения:<br><br>\n            <a href=\"%1$s\">%2$s</a><br><br>\n            <a href=\"%3$s\">%4$s</a><br><br>\n            <a href=\"%5$s\">%6$s</a><br><br>\n            Их можно загрузить, нажав на заголовок или значок.<br><br>\n            Спасибо\n        "]]></string>
     <string name="app_launcher_short">Рабочий стол</string>
     <string name="calculator_short">Калькулятор</string>
     <string name="calendar_short">Календарь</string>
@@ -890,18 +882,13 @@
     <string name="sms_messenger_short">Сообщения</string>
     <string name="thank_you_short">Спасибо</string>
     <string name="voice_recorder_short">Диктофон</string>
-    <string name="sideloaded_app"><![CDATA[
-            Похоже, ваша версия приложения повреждена. Загрузите оригинальную версию <a href="%s">отсюда</a>.
-        ]]></string>
+    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Похоже, ваша версия приложения повреждена. Загрузите оригинальную версию <a href="%s">отсюда</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="frequently_asked_questions">Часто задаваемые вопросы</string>
     <string name="before_asking_question">Прежде чем задать вопрос, прочитайте</string>
     <string name="faq_1_title_commons">Почему я не вижу виджет этого приложения в списке виджетов?</string>
     <string name="faq_1_text_commons">Это, скорее всего, потому, что вы перенесли приложение на карту памяти. Существует ограничение системы Android, которое скрывает виджеты приложения в этом случае. Единственное решение — переместить приложение обратно во внутреннее хранилище через настройки вашего устройства.</string>
     <string name="faq_2_title_commons">Я хочу поддержать вас, но не могу пожертвовать деньги. Есть ли что-нибудь ещё, что я могу сделать?</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Да, конечно. Вы можете рассказывать о наших приложениях или оставлять хорошие отзывы и оценки. Также вы можете помочь, переведя приложения на новый язык или обновив существующий перевод.
-            Руководство по переводу находится <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">здесь</a>. Можно просто связаться с нами по электронной почте <a href="mailto:hello@fossify.org">hello@fossify.org</a>, если у вас есть какие-либо вопросы.
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Да, конечно. Вы можете рассказывать о наших приложениях или оставлять хорошие отзывы и оценки. Также вы можете помочь, переведя приложения на новый язык или обновив существующий перевод.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Руководство по переводу находится <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">здесь</a>. Можно просто связаться с нами по электронной почте <a href="mailto:hello@fossify.org">hello@fossify.org</a>, если у вас есть какие-либо вопросы.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="faq_3_title_commons">Я по ошибке удалил некоторые файлы. Как их восстановить?</string>
     <string name="faq_3_text_commons">К сожалению, вы не можете этого сделать. Файлы удаляются сразу после диалога подтверждения, корзина недоступна.</string>
     <string name="faq_4_title_commons">Мне не нравятся цвета виджета. Я могу их изменить?</string>
@@ -1018,9 +1005,7 @@
     <string name="pro_app_refund">Не забывайте, что если вы удалите любое платное приложение в течение 2 часов, вам будет автоматически возвращена сумма покупки. Если вы захотите вернуть деньги позднее, просто свяжитесь с нами по адресу: hello@fossify.org, и вы их получите. Так что можно легко попробовать это приложение :)</string>
     <string name="developer_description">Группа простых приложений для Android с открытым исходным кодом, настраиваемыми виджетами, без рекламы и ненужных разрешений.</string>
     <string name="update_thank_you">Пожалуйста, обновите до последней версии Fossify Thank You</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Пожалуйста, купите <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a>, чтобы использовать эту функцию и поддержать развитие. Спасибо!
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Пожалуйста, купите <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a>, чтобы использовать эту функцию и поддержать развитие. Спасибо!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="ok">OK</string>
     <string name="block_contact">Заблокировать контакт</string>
     <string name="exif">EXIF</string>

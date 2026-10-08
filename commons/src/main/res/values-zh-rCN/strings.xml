@@ -327,9 +327,7 @@
     <string name="apply_to_all_apps">将主题应用于所有 Fossify 应用</string>
     <string name="app_icon_color_warning">注意：某些启动器无法正确处理自定义的应用图标。如图标消失，请尝试通过 Google Play 商店或者微件启动对应的应用。启动后请还原为默认的绿色图标色 #106D1F。在某些情形下你可能要重新安装应用。</string>
     <string name="global_theme_success">颜色已成功更新。已添加名为“共享”的新主题，以后您可以使用它来更改所有应用的颜色。</string>
-    <string name="purchase_thank_you"><![CDATA[
-            请购买 <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> 以使用此功能并支持开发。谢谢！
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020请购买 <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> 以使用此功能并支持开发。谢谢！\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="light_theme">浅色主题</string>
     <string name="dark_theme">深色主题</string>
     <string name="auto_theme">自动</string>
@@ -747,15 +745,7 @@
     <string name="read_it">阅读</string>
     <string name="read_faq">阅读常见问题</string>
     <string name="thank_you">非常感谢</string>
-    <string name="new_app"><![CDATA[
-            嘿，<br><br>
-            最近发布了一些新应用：<br><br>
-            <a href="%1$s">%2$s</a><br><br>
-            <a href="%3$s">%4$s</a><br><br>
-            <a href="%5$s">%6$s</a><br><br>
-            您可按这些应用的名称或图标下载它们。<br><br>
-            谢谢
-        ]]></string>
+    <string name="new_app"><![CDATA["\n            嘿，<br><br>\n            最近发布了一些新应用：<br><br>\n            <a href=\"%1$s\">%2$s</a><br><br>\n            <a href=\"%3$s\">%4$s</a><br><br>\n            <a href=\"%5$s\">%6$s</a><br><br>\n            您可按这些应用的名称或图标下载它们。<br><br>\n            谢谢\n        "]]></string>
     <string name="app_launcher_short">应用启动器</string>
     <string name="calculator_short">计算器</string>
     <string name="calendar_short">日历</string>
@@ -774,18 +764,13 @@
     <string name="sms_messenger_short">信息</string>
     <string name="thank_you_short">感谢</string>
     <string name="voice_recorder_short">录音机</string>
-    <string name="sideloaded_app"><![CDATA[
-            似乎您的应用版本损坏了。 请在 <a href="%s">此处</a>下载原始版本。
-        ]]></string>
+    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020似乎您的应用版本损坏了。 请在 <a href="%s">此处</a>下载原始版本。\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="frequently_asked_questions">常见问题</string>
     <string name="before_asking_question">在提问之前，请先阅读</string>
     <string name="faq_1_title_commons">为什么我在应用微件列表中没有找到此应用的微件？</string>
     <string name="faq_1_text_commons">这很可能是因为您将应用移动到了 SD 卡。由于 Android 系统的限制，安装在 SD 卡中的应用将不能显示微件。唯一的解决方法是在系统设置中将本应用移动回内部存储空间中。</string>
     <string name="faq_2_title_commons">我想支持你们的工作，但我无法捐款。还有什么是我能够做的吗？</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            是的，当然了。您可以向其他人介绍这些应用或者给予良好反馈和评价。您也可以帮忙将应用翻译成新的语言，或是更新一些现有的翻译。
-            翻译指南位于 <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">此网站</a>，或者如果您有任何问题可以通过 <a href="mailto:hello@fossify.org">hello@fossify.org</a>联系我们。
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020是的，当然了。您可以向其他人介绍这些应用或者给予良好反馈和评价。您也可以帮忙将应用翻译成新的语言，或是更新一些现有的翻译。\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020翻译指南位于 <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">此网站</a>，或者如果您有任何问题可以通过 <a href="mailto:hello@fossify.org">hello@fossify.org</a>联系我们。\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="faq_3_title_commons">我误删了文件。我应该如何恢复它们？</string>
     <string name="faq_3_text_commons">非常不幸，您已经无法恢复它们了。如果您在删除确认对话框中确认了删除操作，那么文件就会立即被彻底删除。因为它们没有经过回收站删除，因此也就无法通过回收站还原。</string>
     <string name="faq_4_title_commons">我不喜欢微件的颜色，我可以修改吗？</string>
@@ -804,11 +789,7 @@
     <string name="translation">翻译</string>
     <string name="development">开发</string>
     <string name="other_help">其他帮助</string>
-    <string name="contributors_label"><![CDATA[
-            此列表包含了每一个显著帮助了 Fossify 套件内任何应用的人，而不仅是这个应用。翻译由志愿者处理，
-            如果您也想帮忙，也请让我们知晓。 翻译指南位于 <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">此网站</a>，或者如果您有任何问题可以通过 <a href="mailto:hello@fossify.org">hello@fossify.org</a>联系我们。
-            感谢所有贡献者和其他支持者！
-        ]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020此列表包含了每一个显著帮助了 Fossify 套件内任何应用的人，而不仅是这个应用。翻译由志愿者处理，\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020如果您也想帮忙，也请让我们知晓。 翻译指南位于 <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">此网站</a>，或者如果您有任何问题可以通过 <a href="mailto:hello@fossify.org">hello@fossify.org</a>联系我们。\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020感谢所有贡献者和其他支持者！\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="third_party_licences">第三方许可</string>
     <string name="kotlin_title">Kotlin (编程语言)</string>
     <string name="subsampling_title">Subsampling Scale Image View (可缩放图像视图)</string>

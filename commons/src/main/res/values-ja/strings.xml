@@ -226,7 +226,7 @@
     <string name="confirm_storage_access_text_sd">SDカードの内容が表示されない場合は、こちらをお試しください</string>
     <string name="confirm_storage_access_android_text">次の画面で、下部にある [このフォルダを使用] を押して、選択したストレージへのアクセスをアプリに許可してください。</string>
     <string name="confirm_storage_access_android_text_specific">次の画面で、下部にある [&lt;b&gt;このフォルダを使用&lt;/b&gt;] を押して、 [&lt;b&gt;%s&lt;/b&gt;] へのアクセスをアプリに許可してください。</string>
-    <string name="confirm_create_doc_for_new_folder_text">次の画面で、下部にある [<b>保存</b>] を押して、新しいフォルダを作成してください。</string>
+    <string name="confirm_create_doc_for_new_folder_text">次の画面で、下部にある [&lt;b&gt;保存&lt;/b&gt;] を押して、新しいフォルダを作成してください。</string>
     <string name="confirm_selection">選択を確認</string>
     <string name="loading">読み込み中…</string>
     <string name="access_storage_prompt">[すべてのファイルへのアクセス] をアプリに許可してください。許可をしないとうまく機能しない可能性があります。</string>
@@ -573,7 +573,7 @@
     <string name="excluded">(除外)</string>
     <string name="manage_excluded_folders">除外フォルダの管理</string>
     <string name="remove_all">すべて解除</string>
-    <string name="remove_all_description">除外するフォルダの登録をすべて解除しますか\? フォルダ自体は削除されません。</string>
+    <string name="remove_all_description">除外するフォルダの登録をすべて解除しますか? フォルダ自体は削除されません。</string>
     <string name="temporarily_show_excluded">除外項目を一時的に表示</string>
     <string name="stop_showing_excluded">除外項目の表示を中止</string>
     <string name="manage_shown_tabs">表示するタブを管理</string>
@@ -824,8 +824,7 @@
     <string name="hours_letter">%d時間</string>
     <string name="theme_and_colors">テーマと色</string>
     <string name="skip_the_recycle_bin">ごみ箱に入れずに直接ファイルを削除</string>
-    <string name="copyright">v %1$s
-\nCopyright © Fossify %2$d</string>
+    <string name="copyright">v %1$s \nCopyright © Fossify %2$d</string>
     <string name="all_fossify_apps">Fossifyの全アプリ</string>
     <string name="thank_you_short">ありがとうございます</string>
     <string name="cryptocurrency">暗号通貨</string>
@@ -914,17 +913,9 @@
             はい、もちろんです。アプリについて広めたり、良いフィードバックと評価を行ったり、または翻訳に参加したりしていただけます。
             翻訳のガイドは<a href=https://github.com/FossifyOrg/General-Discussion#contributing-translations>このウェブサイト</a>にあります。質問があれば、<a href=mailto:hello@fossify.org>hello@fossify.org</a>までご連絡ください。
         ]]></string>
-    <string name="date_time_pattern_info">以下の変数を使ってファイルの名前を自動的に設定できます。
-\n
-\n%Y - 年
-\n%M - 月
-\n%D - 日
-\n%h - 時
-\n%m - 分
-\n%s - 秒</string>
+    <string name="date_time_pattern_info">以下の変数を使ってファイルの名前を自動的に設定できます。 \n \n%Y - 年 \n%M - 月 \n%D - 日 \n%h - 時 \n%m - 分 \n%s - 秒</string>
     <string name="faq_6_text_commons">この問題は、使用しているランチャーがアイコンのカスタマイズを完全にサポートしていない場合に生じます。Google Play、または、利用可能な場合はウィジェットからアプリを起動してみてください。開始したら、既定の緑のアイコンの色 #106D1F を復元してください。ごくまれに、アプリの再インストールが必要になる場合があります。</string>
-    <string name="too_many_incorrect_attempts">間違ったロック解除の試行回数が多すぎます。
-\n%d秒後に再度試してください。</string>
+    <string name="too_many_incorrect_attempts">間違ったロック解除の試行回数が多すぎます。 \n%d秒後に再度試してください。</string>
     <string name="version_placeholder">バージョン %s</string>
     <string name="donate_short">&lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Fossify Thank You&lt;/a&gt;を購入して私たちを援助してください。アプリには、全アプリで色をカスタマイズするなどの機能もあります。</string>
     <string name="update_thank_you">Fossify Thank Youを最新バージョンに更新してください</string>

@@ -237,7 +237,7 @@
     <string name="confirm_storage_access_text_sd">Nếu bạn không thấy thẻ SD, hãy thử</string>
     <string name="confirm_storage_access_android_text">Vui lòng cho phép ứng dụng truy cập vào bộ nhớ đã chọn trên màn hình tiếp theo bằng cách nhấn \'Sử dụng thư mục này\' ở dưới cùng.</string>
     <string name="confirm_storage_access_android_text_specific">Vui lòng cho phép \'&lt;b&gt;%s&lt;/b&gt;\' trên màn hình tiếp theo bằng cách nhấn \'&lt;b&gt;Sử dụng thư mục này&lt;/b&gt;\' ở dưới cùng.</string>
-    <string name="confirm_create_doc_for_new_folder_text">Vui lòng nhấn \'<b>Lưu</b>\' ở dưới cùng của màn hình tiếp theo để tạo thư mục mới.</string>
+    <string name="confirm_create_doc_for_new_folder_text">Vui lòng nhấn \'&lt;b&gt;Lưu&lt;/b&gt;\' ở dưới cùng của màn hình tiếp theo để tạo thư mục mới.</string>
     <string name="confirm_selection">Xác nhận lựa chọn</string>
     <string name="loading">Đang tải…</string>
     <string name="access_storage_prompt">Hãy cấp quyền để ứng dụng có thể truy cập mọi tệp của bạn.</string>
@@ -369,8 +369,7 @@
     <string name="please_enter_pin">Vui lòng nhập mã PIN</string>
     <string name="wrong_pin">Sai PIN</string>
     <string name="pin_must_be_4_digits_long">Mã PIN phải dài ít nhất 4 chữ số</string>
-    <string name="too_many_incorrect_attempts">Quá nhiều lần thử sai.
-\nThử lại sau %d giây.</string>
+    <string name="too_many_incorrect_attempts">Quá nhiều lần thử sai. \nThử lại sau %d giây.</string>
     <string name="repeat_pin">Lặp lại mã PIN</string>
     <string name="pattern">Mẫu hình</string>
     <string name="insert_pattern">Vẽ mẫu hình</string>
@@ -405,8 +404,7 @@
     <string name="days_raw">ngày</string>
     <string name="alarm_goes_off_in">Thời gian còn lại cho đến khi báo thức kêu: \n%s</string>
     <string name="reminder_triggers_in">Thời gian còn lại cho đến khi nhắc nhở kích hoạt: \n%s</string>
-    <string name="time_remaining">Thời gian còn lại:
-\n%s</string>
+    <string name="time_remaining">Thời gian còn lại: \n%s</string>
     <string name="alarm_warning">Hãy chắc chắn rằng báo thức hoạt động đúng trước khi dựa vào nó. Nó có thể hoạt động sai do hạn chế hệ thống liên quan đến tiết kiệm pin.</string>
     <string name="reminder_warning">Hãy chắc chắn rằng các lời nhắc hoạt động đúng trước khi dựa vào chúng. Chúng có thể hoạt động sai do hạn chế hệ thống liên quan đến tiết kiệm pin.</string>
     <string name="notifications_disabled">Ứng dụng này đã bị vô hiệu hóa thông báo. Vui lòng vào cài đặt thiết bị của bạn để mở lại.</string>
@@ -499,8 +497,8 @@
     <string name="hide_the_recycle_bin">Ẩn Thùng rác</string>
     <string name="open_the_recycle_bin">Mở Thùng rác</string>
     <string name="skip_the_recycle_bin">Xóa tệp luôn, khỏi cho vào Thùng rác</string>
-    <string name="importing">Đang nhập… </string>
-    <string name="exporting">Đang xuất… </string>
+    <string name="importing">Đang nhập…</string>
+    <string name="exporting">Đang xuất…</string>
     <string name="importing_successful">Nhập thành công</string>
     <string name="exporting_successful">Xuất thành công</string>
     <string name="importing_failed">Nhập thất bại</string>

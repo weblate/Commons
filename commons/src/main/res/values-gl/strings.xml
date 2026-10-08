@@ -229,7 +229,7 @@
     <string name="confirm_storage_access_text">Por favor, escolle a carpeta raíz da tarxeta SD na próxima pantalla para conceder o acceso de escritura</string>
     <string name="confirm_storage_access_text_sd">Se non ves a tarxeta SD, proba isto</string>
     <string name="confirm_storage_access_android_text">Permite que a aplicación acceda ao almacenamento seleccionado na seguinte pantalla premendo \"Usar este cartafol\" na parte inferior.</string>
-    <string name="confirm_storage_access_android_text_specific">Concede acceso a \'<b>%s</b>\' na seguinte pantalla premendo en \'<b>Usar este cartafol</b>\' na parte inferior.</string>
+    <string name="confirm_storage_access_android_text_specific">Concede acceso a \'&lt;b&gt;%s&lt;/b&gt;\' na seguinte pantalla premendo en \'&lt;b&gt;Usar este cartafol&lt;/b&gt;\' na parte inferior.</string>
     <string name="confirm_create_doc_for_new_folder_text">Preme \"&lt;b&gt;Gardar&lt;/b&gt;\" na parte inferior da seguinte pantalla para crear o novo cartafol.</string>
     <string name="confirm_selection">Confirmar a selección</string>
     <string name="loading">Cargando…</string>
@@ -732,9 +732,7 @@
     <string name="sms_messenger_short">Mensaxería SMS</string>
     <string name="thank_you_short">Grazas</string>
     <string name="voice_recorder_short">Gravadora de voz</string>
-    <string name="sideloaded_app"><![CDATA[
-            Parece que a versión da túa aplicación está estragada. Descarga a versión orixinal <a href="%s">aquí</a>.
-        ]]></string>
+    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Parece que a versión da túa aplicación está estragada. Descarga a versión orixinal <a href="%s">aquí</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="frequently_asked_questions">Preguntas máis frecuentes</string>
     <string name="before_asking_question">Antes de facer unha pregunta, lea primeiro</string>
     <string name="faq_1_title_commons">Como é que non vexo este widget de aplicacións na lista de widgets?</string>
@@ -845,10 +843,7 @@
     <string name="pro_app_refund">Non esquezas que se desinstalas calquera app de pago antes de 2 horas, devolveránseche os cartos automáticamente. Se queres unha devolución máis tarde, contáctanos en hello@fossify.org e terala. Isto fai que sexa fácil probala :)</string>
     <string name="developer_description">Un grupo de aplicacións Android sinxelas e de código aberto con widgets persoalizables, sen anuncios e permisos innecesarios.</string>
     <string name="audio">Audio</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Claro que si. Podes falarlle á xente sobre as aplicacións ou valoralas positivamente. Tamén podes colaborar traducíndoas ao teu idioma ou actualizando e mantendo as xa existentes.
-            Aquí tes a guía para traducir <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">nesta web</a>, ou contacta con nós en <a href="mailto:hello@fossify.org">hello@fossify.org</a> se queres facer algunha pregunta.
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Claro que si. Podes falarlle á xente sobre as aplicacións ou valoralas positivamente. Tamén podes colaborar traducíndoas ao teu idioma ou actualizando e mantendo as xa existentes.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Aquí tes a guía para traducir <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">nesta web</a>, ou contacta con nós en <a href="mailto:hello@fossify.org">hello@fossify.org</a> se queres facer algunha pregunta.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <plurals name="files_saved">
         <item quantity="one">Ficheiro gardado correctamente</item>
         <item quantity="other">Ficheiros gardados correctamente</item>
@@ -983,11 +978,7 @@
     <string name="badge_deprecated">(retirada)</string>
     <string name="label_with_badge">%1$s %2$s</string>
     <string name="faq_6_text_commons">Este problema xurde cando o lanzador non é compatible coa personalización das iconas. Intenta iniciar a app a través de Google Play ou un widget, se é accesible. Após iniciala, restablece a cor verde #106D1F orixinal. En casos extremos pode ser preciso ter que reinstalar a aplicación.</string>
-    <string name="contributors_label"><![CDATA[
-            Nesta lista están todas as persoas que colaborarón significativamente con Fossify, non só esta app. As traducións fanas persoas voluntarias,
-            contacta con nós se tamén queres axudar. As instruccións para traducir están <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">nesta páxina web</a>, ou simplemente contacta con nós en <a href="mailto:hello@fossify.org">hello@fossify.org</a> se tes algunha pregunta.
-            Grazas a todas as colaboradoras e persoas que nos apoian!
-        ]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Nesta lista están todas as persoas que colaborarón significativamente con Fossify, non só esta app. As traducións fanas persoas voluntarias,\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020contacta con nós se tamén queres axudar. As instruccións para traducir están <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">nesta páxina web</a>, ou simplemente contacta con nós en <a href="mailto:hello@fossify.org">hello@fossify.org</a> se tes algunha pregunta.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Grazas a todas as colaboradoras e persoas que nos apoian!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="edit_contact">Editar contacto</string>
     <string name="on_contact_click">Ao tocar no contacto</string>
     <string name="call_contact">Chamar</string>

@@ -1016,4 +1016,6 @@
     <string name="days_letter"></string>
     <string name="exif"></string>
     <string name="rate_this_app"></string>
+    <string name="faq_6_text_commons"></string>
+    <string name="app_icon_color_warning"></string>
 </resources>

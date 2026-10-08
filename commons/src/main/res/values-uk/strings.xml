@@ -1025,8 +1025,7 @@
     <string name="apply_to_all_apps">Застосувати тему до всіх програм Fossify</string>
     <string name="week_number_short">тиж.</string>
     <string name="usb">USB</string>
-    <string name="copyright">v %1$s
-\nCopyright © Fossify %2$d</string>
+    <string name="copyright">v %1$s \nCopyright © Fossify %2$d</string>
     <string name="update_thank_you">Будь ласка, оновіть Fossify Thank You до останньої версії</string>
     <string name="faq_6_text_commons">Ця проблема виникає, коли ваш лаунчер не повністю підтримує персоналізацію значків. Спробуйте запустити застосунок через Google Play або віджет, якщо він доступний. Після запуску, відновіть стандартний зелений колір значка #106D1F. В окремих випадках може знадобитись перевстановлення застосунку.</string>
     <string name="app_icon_color_warning">Увага: деякі лаунчери можуть неправильно обробляти налаштування кольору значка застосунку. Якщо вона зникне, спробуйте запустити застосунок через Google Play або віджет, якщо він доступний. Після запуску відновіть стандартний зелений колір #106D1F. В окремих випадках може знадобитись перевстановлення застосунку.</string>

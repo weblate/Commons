@@ -45,7 +45,7 @@
     <string name="no_phone_call_permission">App heeft geen recht om telefoongesprekken te starten, verleen het in de systeeminstellingen</string>
     <string name="insert_text_here">Tekst hier invoegen</string>
     <string name="call_person">%s bellen</string>
-    <string name="confirm_calling_person">%s bellen\?</string>
+    <string name="confirm_calling_person">%s bellen?</string>
     <string name="zero">Nul</string>
     <string name="one">Eén</string>
     <string name="two">Twee</string>
@@ -111,7 +111,7 @@
     <string name="import_blocked_numbers">Geblokkeerde nummers importeren</string>
     <string name="must_make_default_dialer">Maak van deze app de standaard telefoon-app om nummers te kunnen blokkeren.</string>
     <string name="set_as_default">Als standaard instellen</string>
-    <string name="block_confirmation">Nummer \"%s\" echt blokkeren\?</string>
+    <string name="block_confirmation">Nummer \"%s\" echt blokkeren?</string>
     <string name="block_unknown_calls">Oproepen van niet-opgeslagen contacten blokkeren</string>
     <string name="block_hidden_calls">Oproepen van verborgen nummers blokkeren</string>
     <string name="block_unknown_messages">Berichten van niet-opgeslagen contacten blokkeren</string>
@@ -231,7 +231,7 @@
     <string name="empty_name">Voer een naam in</string>
     <string name="unknown_error_occurred">Een onbekende fout is opgetreden</string>
     <string name="file_already_exists">Bestand \"%s\" bestaat al</string>
-    <string name="file_already_exists_overwrite">Bestand \"%s\" bestaat al. Overschrijven\?</string>
+    <string name="file_already_exists_overwrite">Bestand \"%s\" bestaat al. Overschrijven?</string>
     <string name="folder_already_exists">Map \"%s\" bestaat al</string>
     <string name="merge">Samenvoegen</string>
     <string name="keep_both">Beide behouden</string>
@@ -290,7 +290,7 @@
     <string name="gps_coordinates">GPS-coördinaten</string>
     <string name="altitude">Hoogte</string>
     <string name="remove_exif">EXIF verwijderen</string>
-    <string name="remove_exif_confirmation">De EXIF-gegevens (zoals GPS-coördinaten, cameramodel enz.) verwijderen\?</string>
+    <string name="remove_exif_confirmation">De EXIF-gegevens (zoals GPS-coördinaten, cameramodel enz.) verwijderen?</string>
     <string name="exif_removed">De EXIF-gegevens zijn verwijderd</string>
     <string name="background_color">Achtergrondkleur</string>
     <string name="text_color">Tekstkleur</string>
@@ -309,9 +309,9 @@
     <string name="save">Opslaan</string>
     <string name="discard">Negeren</string>
     <string name="undo_changes">Wijzigingen ongedaan maken</string>
-    <string name="undo_changes_confirmation">Wijzigingen inderdaad ongedaan maken\?</string>
+    <string name="undo_changes_confirmation">Wijzigingen inderdaad ongedaan maken?</string>
     <string name="cannot_be_undone">Deze bewerking kan niet ongedaan worden gemaakt.</string>
-    <string name="save_before_closing">Er zijn niet opgeslagen wijzigingen. Opslaan voor het afsluiten\?</string>
+    <string name="save_before_closing">Er zijn niet opgeslagen wijzigingen. Opslaan voor het afsluiten?</string>
     <string name="global_theme_success">Het huidige thema is toegepast op alle Fossify apps. Toekomstige aanpassingen zullen automatisch worden doorgevoerd in alle apps.</string>
     <string name="light_theme">Licht</string>
     <string name="dark_theme">Donker</string>
@@ -387,11 +387,11 @@
     <string name="use_custom_sorting">Aangepast sorteren</string>
     <string name="change_order">Volgorde aanpassen</string>
     <string name="more_options">Meer opties</string>
-    <string name="proceed_with_deletion">Deze items verwijderen\?</string>
-    <string name="deletion_confirmation">%s verwijderen\?</string>
-    <string name="deletion_confirmation_short">%s verwijderen\?</string>
+    <string name="proceed_with_deletion">Deze items verwijderen?</string>
+    <string name="deletion_confirmation">%s verwijderen?</string>
+    <string name="deletion_confirmation_short">%s verwijderen?</string>
     <string name="move_to_recycle_bin_confirmation">%s verplaatsen naar de prullenbak?</string>
-    <string name="are_you_sure_delete">Item verwijderen\?</string>
+    <string name="are_you_sure_delete">Item verwijderen?</string>
     <string name="are_you_sure_recycle_bin">Item verplaatsen naar de prullenbak?</string>
     <string name="do_not_ask_again">Onthouden voor deze sessie</string>
     <string name="do_not_show_again">Niet opnieuw weergeven</string>
@@ -407,8 +407,7 @@
     <string name="please_enter_pin">Voer een pincode in</string>
     <string name="wrong_pin">Verkeerde pincode</string>
     <string name="pin_must_be_4_digits_long">De pincode moet uit tenminste 4 tekens bestaan</string>
-    <string name="too_many_incorrect_attempts">Te veel incorrecte pogingen.
-\nProbeer het nogmaals over %d seconden.</string>
+    <string name="too_many_incorrect_attempts">Te veel incorrecte pogingen. \nProbeer het nogmaals over %d seconden.</string>
     <string name="repeat_pin">Pincode herhalen</string>
     <string name="pattern">Patroon</string>
     <string name="insert_pattern">Patroon invoeren</string>
@@ -673,14 +672,7 @@
     <string name="backups">Back-ups</string>
     <string name="enable_automatic_backups">Automatisch back-ups maken</string>
     <string name="manage_automatic_backups">Automatische back-ups beheren</string>
-    <string name="date_time_pattern_info">De volgende patronen worden ondersteund voor de bestandsnamen:
-\n
-\n%Y - jaar
-\n%M - maand
-\n%D - dag
-\n%h - uren
-\n%m - minuten
-\n%s - seconden</string>
+    <string name="date_time_pattern_info">De volgende patronen worden ondersteund voor de bestandsnamen: \n \n%Y - jaar \n%M - maand \n%D - dag \n%h - uren \n%m - minuten \n%s - seconden</string>
     <string name="usb_detected">USB-apparaat gedetecteerd. Om de bestanden op dit apparaat te kunnen tonen heeft de app aanvullende rechten nodig.</string>
     <string name="confirm_usb_storage_access_text">Selecteer in het volgende scherm de hoofdmap van het USB-apparaat</string>
     <string name="wrong_root_selected_usb">Verkeerde map geselecteerd, kies de hoofdmap van het USB-apparaat</string>
@@ -752,8 +744,7 @@
     <string name="read_it">Nu lezen</string>
     <string name="read_faq">Veelgestelde vragen</string>
     <string name="thank_you">Bedankt!</string>
-    <string name="new_app">
-        <![CDATA[
+    <string name="new_app"><![CDATA[
             Hallo,<br><br>
             Er zijn recentelijk nieuwe apps uitgebracht:<br><br>
             <a href="%1$s">%2$s</a><br><br>
@@ -761,8 +752,7 @@
             <a href="%5$s">%6$s</a><br><br>
             Download de app door op de naam hierboven te klikken.<br><br>
             Bedankt!
-        ]]>
-    </string>
+        ]]></string>
     <string name="app_launcher_short">App-launcher</string>
     <string name="calculator_short">Rekenmachine</string>
     <string name="calendar_short">Agenda</string>
@@ -787,25 +777,21 @@
     <string name="faq_1_title_commons">Waarom zie ik de widget van deze app niet in de lijst met widgets?</string>
     <string name="faq_1_text_commons">Waarschijnlijk is de app verplaatst naar de SD-kaart. Android verbergt widgets van apps die zich bevinden op de SD-kaart. De enige oplossing is het verplaatsen van de app naar de Interne Opslag via de instellingen van Android.</string>
     <string name="faq_2_title_commons">Ik wil een bijdrage leveren, maar ik kan geen geld doneren. Kan ik iets anders doen?</string>
-    <string name="faq_2_text_commons">
-        <![CDATA[
+    <string name="faq_2_text_commons"><![CDATA[
             Maar natuurlijk! Vertel anderen over deze apps of geef feedback en beoordelingen. Ook het vertalen van de apps in een nieuwe taal of het bijwerken van bestaande vertalingen wordt gewaardeerd.
             Een handleiding voor vertaling is te vinden op <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">deze website</a>, of stuur een bericht naar <a href="mailto:hello@fossify.org">hello@fossify.org</a> voor hulp.
-        ]]>
-    </string>
+        ]]></string>
     <string name="faq_3_title_commons">Ik heb per ongeluk bestanden verwijderd, hoe kan ik deze herstellen?</string>
     <string name="faq_3_text_commons">Helaas kan dat niet. Bestanden worden onmiddellijk na het bevestigingen verwijderd, er is geen prullenbak beschikbaar.</string>
     <string name="faq_4_title_commons">Ik vind de kleuren van de widgets niet mooi, kan ik ze veranderen?</string>
     <string name="faq_4_text_commons">Ja, bij het plaatsen van een widget naar uw hoofdscherm, verschijnt een widgetconfiguratiescherm. Je ziet gekleurde vierkanten in de linkerbenedenhoek, druk erop om een nieuwe kleur te kiezen. De schuifregelaar is voor de transparantie.</string>
-    <string name="faq_5_title_commons">Kan ik verwijderde bestanden terugzetten\?</string>
+    <string name="faq_5_title_commons">Kan ik verwijderde bestanden terugzetten?</string>
     <string name="faq_5_text_commons">Niet als de bestanden daadwerkelijk zijn verwijderd, maar standaard zullen bestanden eerst naar de prullenbak worden verplaatst, tenzij die is uitgeschakeld.</string>
-    <string name="faq_6_title_commons">Het icoon voor de app is verdwenen uit mijn launcher. Wat moet ik doen\?</string>
+    <string name="faq_6_title_commons">Het icoon voor de app is verdwenen uit mijn launcher. Wat moet ik doen?</string>
     <string name="faq_7_title_commons">Het geld is afgeschreven van mijn rekening, maar ik kan de app nog niet downloaden. Wat moet ik doen?</string>
     <string name="faq_7_text_commons">Betalingen worden verwerkt door Google, maar dit systeem vertoont soms wat problemen. Leeg de cache van de Google Play Store app en start daarna het apparaat opnieuw. Probeer vervolgens nogmaals de app te downloaden.</string>
     <string name="faq_9_title_commons">Hoe kan ik meerdere items tegelijk selecteren?</string>
-    <string name="faq_9_text_commons">Dit kan op verschillende manieren. De eerste is door met een lange druk op een enkel item de selectiemodus in te schakelen, waarna kort klikken op andere items de selectie zal uitbreiden. De tweede manier is vergelijkbaar met het selecteren van items op een PC met de muis:
-        druk lang op een item en sleep vervolgens over andere items om ook die te selecteren. De derde manier is door lang te drukken op het eerste item en vervolgens ook lang te drukken op het laatste item, waarna alle items ertussen zullen worden geselecteerd. Om alle
-        items te selecteren kan na het lang drukken op een item geklikt worden op de teller in de linkerbovenhoek. Dit zal alle items selecteren of de gehele selectie ongedaan maken.</string>
+    <string name="faq_9_text_commons">Dit kan op verschillende manieren. De eerste is door met een lange druk op een enkel item de selectiemodus in te schakelen, waarna kort klikken op andere items de selectie zal uitbreiden. De tweede manier is vergelijkbaar met het selecteren van items op een PC met de muis: druk lang op een item en sleep vervolgens over andere items om ook die te selecteren. De derde manier is door lang te drukken op het eerste item en vervolgens ook lang te drukken op het laatste item, waarna alle items ertussen zullen worden geselecteerd. Om alle items te selecteren kan na het lang drukken op een item geklikt worden op de teller in de linkerbovenhoek. Dit zal alle items selecteren of de gehele selectie ongedaan maken.</string>
     <string name="faq_10_title_commons">Ik heb de app aangeschaft, maar ik kan deze niet downloaden op een ander toestel.</string>
     <string name="faq_10_text_commons">Probeer uw Google Play app-cache te legen en het toestel opnieuw op te starten. Het is een Google Play probleem, niet gerelateerd aan de app zelf.</string>
     <string name="contributors">Bijdragers</string>
@@ -983,4 +969,39 @@
     <string name="view_contact">Contactgegevens bekijken</string>
     <string name="rate_app_prompt">Bevalt de app goed? Geef dan een beoordeling op Google Play.</string>
     <string name="donation_prompt">Bevalt Fossify? Overweeg dan om de ontwikkeling te steunen.</string>
+    <string name="pdf_viewer_title"></string>
+    <string name="audio_record_view_title"></string>
+    <string name="commons_csv_title"></string>
+    <string name="jsoup_title"></string>
+    <string name="gif_drawable_title"></string>
+    <string name="m3u_parser_title"></string>
+    <string name="autofittextview_title"></string>
+    <string name="espresso_title"></string>
+    <string name="reprint_title"></string>
+    <string name="leak_canary_title"></string>
+    <string name="commonmark_title"></string>
+    <string name="stetho_title"></string>
+    <string name="subsampling_title"></string>
+    <string name="picasso_title"></string>
+    <string name="glide_title"></string>
+    <string name="otto_title"></string>
+    <string name="gesture_views_title"></string>
+    <string name="sanselan_title"></string>
+    <string name="pattern_title"></string>
+    <string name="rtl_viewpager_title"></string>
+    <string name="number_picker_title"></string>
+    <string name="photoview_title"></string>
+    <string name="joda_title"></string>
+    <string name="zip4j_title"></string>
+    <string name="indicator_fast_scroll_title"></string>
+    <string name="android_lame_title"></string>
+    <string name="evalex_title"></string>
+    <string name="apng_title"></string>
+    <string name="robolectric_title"></string>
+    <string name="event_bus_title"></string>
+    <string name="filters_title"></string>
+    <string name="sms_mms_title"></string>
+    <string name="pdf_view_pager_title"></string>
+    <string name="mammoth_title"></string>
+    <string name="cropper_title"></string>
 </resources>

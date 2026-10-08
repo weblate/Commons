@@ -814,9 +814,7 @@
     <string name="exif">EXIF</string>
     <string name="apply_to_all_apps">將顏色套用至所有 Fossify 應用程式</string>
     <string name="app_icon_color_warning">注意：某些啟動器可能無法正確處理應用程式圖示自訂。如果圖示消失，請嘗試透過 Google Play 或小工具（如果有的話）來啟動應用程式。啟動後，請將應用程式圖示顏色還原為預設的綠色 #106D1F。在極少數情況下，可能會需要重新安裝應用程式。</string>
-    <string name="purchase_thank_you"><![CDATA[
-            請購買 <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> 來解鎖此功能及支持開發者。謝謝!
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020請購買 <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> 來解鎖此功能及支持開發者。謝謝!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="allow_access_more_media">允許存取更多媒體</string>
     <string name="show_line_numbers">顯示行號</string>
     <string name="hide_line_numbers">隱藏行號</string>
@@ -952,4 +950,17 @@
     <string name="on_contact_click">點擊聯絡人</string>
     <string name="call_contact">打電話給聯絡人</string>
     <string name="view_contact">顯示聯絡人資料</string>
+    <string name="commons_csv_title"></string>
+    <string name="app_font"></string>
+    <string name="jsoup_title"></string>
+    <string name="invalid_font_file"></string>
+    <string name="rate_app_prompt"></string>
+    <string name="commonmark_title"></string>
+    <string name="select_font_file"></string>
+    <string name="donation_prompt"></string>
+    <string name="label_with_badge"></string>
+    <string name="font_monospace"></string>
+    <string name="badge_deprecated"></string>
+    <string name="font"></string>
+    <string name="mammoth_title"></string>
 </resources>

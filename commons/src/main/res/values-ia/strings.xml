@@ -118,7 +118,7 @@
     <string name="skip">Saltar</string>
     <string name="select_folder">Selectionar un dossier</string>
     <string name="confirm_folder_access_title">Confirmar le accesso al dossier</string>
-    <string name="confirm_create_doc_for_new_folder_text">Preme \'<b>Salvar</b>\' al basso del sequente schermo pro crear le nove dossier.</string>
+    <string name="confirm_create_doc_for_new_folder_text">Preme \'&lt;b&gt;Salvar&lt;/b&gt;\' al basso del sequente schermo pro crear le nove dossier.</string>
     <string name="confirm_selection">Confirmar selection</string>
     <string name="loading">Cargamento in curso…</string>
     <string name="use_english_language">Usar le lingua anglese</string>

@@ -226,7 +226,7 @@
     <string name="confirm_storage_access_text">Silakan pilih folder root dari kartu SD pada layar berikutnya, untuk memberi akses penyimpanan</string>
     <string name="confirm_storage_access_text_sd">Jika Anda tidak melihat kartu SD, cobalah ini</string>
     <string name="confirm_storage_access_android_text">Mohon izinkan aplikasi mengakses penyimpanan yang dipilih pada layar berikutnya dengan mengetuk \'Gunakan folder ini\' di bawah.</string>
-    <string name="confirm_storage_access_android_text_specific">Harap izinkan akses ke \'<b>%s</b>\' pada layar berikutnya dengan menekan \'<b>Gunakan folder ini</b>\' di bagian bawah.</string>
+    <string name="confirm_storage_access_android_text_specific">Harap izinkan akses ke \'&lt;b&gt;%s&lt;/b&gt;\' pada layar berikutnya dengan menekan \'&lt;b&gt;Gunakan folder ini&lt;/b&gt;\' di bagian bawah.</string>
     <string name="confirm_create_doc_for_new_folder_text">Mohon tekan \'&lt;b&gt;Simpan&lt;/b&gt;\' di bawah pada layar berikutnya untuk membuat folder baru.</string>
     <string name="confirm_selection">Konfirmasi pilihan</string>
     <string name="loading">Memuat…</string>
@@ -776,27 +776,18 @@
     <string name="translation_vietnamese">Vietnam</string>
     <string name="app_icon_color_warning">Peringatan: Beberapa peluncur tidak dapat menangani perubahan ikon aplikasi dengan benar. Jika ikon hilang, coba luncurkan aplikasi melalui Google Play atau widget jika tersedia. Setelah meluncurkan, pulihkan warna ikon hijau #106D1F bawaan. Dalam kasus tertentu, memasang ulang aplikasi dapat dilakukan.</string>
     <string name="add_number_to_contact">Tambahkan nomor ke kontak</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Silakan beli <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> untuk menggunakan fitur ini dan mendukung pengembangan. Terima kasih!
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Silakan beli <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> untuk menggunakan fitur ini dan mendukung pengembangan. Terima kasih!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="exif">EXIF</string>
     <string name="default_color">Bawaan</string>
     <string name="august_short">Agu</string>
     <string name="september_short">Sep</string>
     <string name="october_short">Okt</string>
     <string name="november_short">Nov</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Ya, tentu. Anda dapat membantu menyebarkan info tentang aplikasi atau memberikan umpan balik dan penilaian yang baik. Anda juga dapat membantu dengan menerjemahkan aplikasi ke bahasa baru, atau cukup memperbarui beberapa terjemahan yang sudah ada.
-           Panduan penerjemahan ada di <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">situs web ini</a>, atau hubungi kami di <a href="mailto:hello@fossify.org">hello@fossify.org</a> jika ada pertanyaan.
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Ya, tentu. Anda dapat membantu menyebarkan info tentang aplikasi atau memberikan umpan balik dan penilaian yang baik. Anda juga dapat membantu dengan menerjemahkan aplikasi ke bahasa baru, atau cukup memperbarui beberapa terjemahan yang sudah ada.\n \u0020 \u0020 \u0020 \u0020 \u0020 Panduan penerjemahan ada di <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">situs web ini</a>, atau hubungi kami di <a href="mailto:hello@fossify.org">hello@fossify.org</a> jika ada pertanyaan.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="december_short">Des</string>
     <string name="platforms">Platform</string>
     <string name="faq_6_text_commons">Isu ini muncul ketika peluncur Anda tidak mendukung kustomisasi ikon secara penuh. Coba luncurkan aplikasi melalui Google Play atau widget jika tersedia. Setelah meluncurkan, pulihkan warna ikon hijau #106D1F bawaan. Dalam beberapa kasus, memasang ulang aplikasi dapat dilakukan.</string>
-    <string name="contributors_label"><![CDATA[
-            Daftar ini berisi semua orang yang secara nyata membantu aplikasi apa pun dalam rangkaian Fossify, bukan hanya aplikasi ini. Terjemahan ditangani oleh relawan,
-            beri tahu kami jika Anda juga ingin membantu. Panduan penerjemahan ada di <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">situs web ini</a>, atau hubungi kami di <a href="mailto:hello@fossify.org">hello@fossify.org</a> jika ada pertanyaan.
-            Terima kasih kepada semua kontributor dan pendukung lainnya!
-        ]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Daftar ini berisi semua orang yang secara nyata membantu aplikasi apa pun dalam rangkaian Fossify, bukan hanya aplikasi ini. Terjemahan ditangani oleh relawan,\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020beri tahu kami jika Anda juga ingin membantu. Panduan penerjemahan ada di <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">situs web ini</a>, atau hubungi kami di <a href="mailto:hello@fossify.org">hello@fossify.org</a> jika ada pertanyaan.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Terima kasih kepada semua kontributor dan pendukung lainnya!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="translation_indonesian">Indonesia</string>
     <string name="translation_chinese_hk">Cina (Hong Kong)</string>
     <string name="translation_italian">Italia</string>

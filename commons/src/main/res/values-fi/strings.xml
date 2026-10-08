@@ -255,7 +255,7 @@
     <string name="confirm_storage_access_text">Valitse muistikortin juurihakemisto seuraavaksi antaaksesi kirjoitusoikeuden</string>
     <string name="confirm_storage_access_text_sd">Jos et näe muistikorttia, kokeile tätä</string>
     <string name="confirm_storage_access_android_text">Anna sovellukselle käyttöoikeus tallennustilan käyttöön painamalla seuraavassa näkymässä \"Käytä tätä hakemistoa\"-painiketta.</string>
-    <string name="confirm_storage_access_android_text_specific">Anna käyttöoikeus kohteeseen \'<b>%s</b>\' seuraavalla ruudulla painamalla \'<b>Käytä tätä kansiota</b>\' .</string>
+    <string name="confirm_storage_access_android_text_specific">Anna käyttöoikeus kohteeseen \'&lt;b&gt;%s&lt;/b&gt;\' seuraavalla ruudulla painamalla \'&lt;b&gt;Käytä tätä kansiota&lt;/b&gt;\' .</string>
     <string name="confirm_create_doc_for_new_folder_text">Paina \'&lt;b&gt;Tallenna&lt;/b&gt;\' seuraavan ruudun alalaidasta luodaksesi uuden kansion.</string>
     <string name="confirm_selection">Vahvista valinta</string>
     <string name="loading">Ladataan…</string>
@@ -763,15 +763,7 @@
     <string name="read_it">Lue</string>
     <string name="read_faq">Lue FAQ</string>
     <string name="thank_you">Kiitos</string>
-    <string name="new_app"><![CDATA[
-            Hei,<br><br>
-           uusia sovelluksia on julkaistu äskettäin::<br><br>
-            <a href="%1$s">%2$s</a><br><br>
-            <a href="%3$s">%4$s</a><br><br>
-            <a href="%5$s">%6$s</a><br><br>
-            Voita ladata ne painamalla sovelluksen otsikko tai kuvaketta..<br><br>
-            Kiitos
-        ]]></string>
+    <string name="new_app"><![CDATA["\n            Hei,<br><br>\n           uusia sovelluksia on julkaistu äskettäin::<br><br>\n            <a href=\"%1$s\">%2$s</a><br><br>\n            <a href=\"%3$s\">%4$s</a><br><br>\n            <a href=\"%5$s\">%6$s</a><br><br>\n            Voita ladata ne painamalla sovelluksen otsikko tai kuvaketta..<br><br>\n            Kiitos\n        "]]></string>
     <string name="app_launcher_short">Sovelluskäynnistin</string>
     <string name="calculator_short">Laskin</string>
     <string name="calendar_short">Kalenteri</string>
@@ -965,15 +957,8 @@
     <string name="translation_gujarati">Gujarati</string>
     <string name="translation_belarusian">Valko-Venäjä</string>
     <string name="translation_chuvash">Tšuvassi</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Tottakai. Voit levittää sovelluksista sanaa tai antaa arvosteluita. Voit myös auttaa kääntämällä sovelluksia uusille kielille tai päivittämällä jo olemassaolevia kieliä.
-            Käännösohjeet seuraavasta <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">osoitteesta</a> tai ottamalla yhteyttä osoitteeseen <a href="mailto:hello@fossify.org">hello@fossify.org</a>
-        ]]></string>
-    <string name="contributors_label"><![CDATA[
-            Tämä lista sisältää Fossify-perheen sovellusten kehityksessä autteneet henkilöt. Käännökset on tehty vapaaehtoisten voimin. Ota yhteyttä mikäli haluat auttaa. Käännösohjeet seuraavasta: <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">osoitteesta</a>. Voit myös olla yhteydessä osoitteeseen <a href="mailto:hello@fossify.org">hello@fossify.org</a>
-
-            Kiitos kaikille kehitystyössä avustaneille ja tukijoille!
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Tottakai. Voit levittää sovelluksista sanaa tai antaa arvosteluita. Voit myös auttaa kääntämällä sovelluksia uusille kielille tai päivittämällä jo olemassaolevia kieliä.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Käännösohjeet seuraavasta <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">osoitteesta</a> tai ottamalla yhteyttä osoitteeseen <a href="mailto:hello@fossify.org">hello@fossify.org</a>\n \u0020 \u0020 \u0020 \u0020]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Tämä lista sisältää Fossify-perheen sovellusten kehityksessä autteneet henkilöt. Käännökset on tehty vapaaehtoisten voimin. Ota yhteyttä mikäli haluat auttaa. Käännösohjeet seuraavasta: <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">osoitteesta</a>. Voit myös olla yhteydessä osoitteeseen <a href="mailto:hello@fossify.org">hello@fossify.org</a>\n\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Kiitos kaikille kehitystyössä avustaneille ja tukijoille!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="more_fossify_apps">Lisää Fossify-sovelluksia</string>
     <string name="rate_this_app">Arvostele sovellus</string>
     <string name="requires_fossify_thank_you">Vaatii Fossify Thank You:n</string>

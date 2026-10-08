@@ -227,7 +227,7 @@
     <string name="confirm_storage_access_text_sd">Jika Anda tidak melihat kartu SD, cobalah ini</string>
     <string name="confirm_storage_access_android_text">Mohon izinkan aplikasi mengakses penyimpanan yang dipilih pada layar berikutnya dengan mengetuk \'Gunakan folder ini\' di bawah.</string>
     <string name="confirm_storage_access_android_text_specific">Harap izinkan akses ke \'<b>%s</b>\' pada layar berikutnya dengan menekan \'<b>Gunakan folder ini</b>\' di bagian bawah.</string>
-    <string name="confirm_create_doc_for_new_folder_text">Mohon tekan \'<b>Simpan</b>\' di bawah pada layar berikutnya untuk membuat folder baru.</string>
+    <string name="confirm_create_doc_for_new_folder_text">Mohon tekan \'&lt;b&gt;Simpan&lt;/b&gt;\' di bawah pada layar berikutnya untuk membuat folder baru.</string>
     <string name="confirm_selection">Konfirmasi pilihan</string>
     <string name="loading">Memuat…</string>
     <string name="access_storage_prompt">Mohon berikan aplikasi ini akses ke semua file Anda, mungkin tidak bekerja tanpa itu.</string>
@@ -241,7 +241,6 @@
         <item quantity="other">Menghapus %d item</item>
     </plurals>
     <plurals name="delete_contacts">
-        <item quantity="one">%d kontak</item>
         <item quantity="other">%d kontak</item>
     </plurals>
     <string name="select_storage">Pilih penyimpanan</string>
@@ -249,8 +248,7 @@
     <string name="sd_card">Kartu SD</string>
     <string name="wrong_root_selected">Folder salah, silakan pilih folder root kartu SD anda</string>
     <string name="sd_card_usb_same">Jalur kartu SD dan perangkat USB tidak boleh sama</string>
-    <string name="app_on_sd_card">Kelihatannya anda memasang aplikasi ini di kartu SD, sehingga widget tidak tersedia. Anda tidak akan melihatnya di daftar widget yang tersedia.
-        Ini adalah keterbatasan sistem, jika anda ingin menggunakan widget, anda harus memindahkan aplikasi ke penyimpanan internal.</string>
+    <string name="app_on_sd_card">Kelihatannya anda memasang aplikasi ini di kartu SD, sehingga widget tidak tersedia. Anda tidak akan melihatnya di daftar widget yang tersedia. Ini adalah keterbatasan sistem, jika anda ingin menggunakan widget, anda harus memindahkan aplikasi ke penyimpanan internal.</string>
     <string name="wrong_folder_selected">Folder yang dipilih salah, mohon pilih jalur \'%s\'</string>
     <string name="properties">Properti</string>
     <string name="path">Jalur</string>
@@ -269,7 +267,7 @@
     <string name="gps_coordinates">Koordinat GPS</string>
     <string name="altitude">Ketinggian</string>
     <string name="remove_exif">Hapus EXIF</string>
-    <string name="remove_exif_confirmation">Apakah Anda ingin menghapus nilai EXIF seperti koordinat GPS, model kamera dll\?</string>
+    <string name="remove_exif_confirmation">Apakah Anda ingin menghapus nilai EXIF seperti koordinat GPS, model kamera dll?</string>
     <string name="exif_removed">Nilai EXIF berhasil dihapus</string>
     <string name="background_color">Warna latar belakang</string>
     <string name="text_color">Warna teks</string>
@@ -483,8 +481,7 @@
     </plurals>
     <string name="alarm_goes_off_in">Sisa waktu hingga alarm berbunyi:\n%s</string>
     <string name="reminder_triggers_in">Sisa waktu hingga pengingat muncul:\n%s</string>
-    <string name="time_remaining">Waktu tersisa: 
-\n%s</string>
+    <string name="time_remaining">Waktu tersisa: \n%s</string>
     <string name="alarm_warning">Silakan pastikan alarm berfungsi dengan baik sebelum menggunakannya. Bisa saja terjadi salah tindakan karena keterbatasan sistem terkait penghematan baterai.</string>
     <string name="reminder_warning">Silakan pastikan pengingat berfungsi dengan baik sebelum menggunakannya. Bisa saja terjadi salah tindakan karena keterbatasan sistem terkait penghematan baterai.</string>
     <string name="notifications_disabled">Notifikasi aplikasi ini dinonaktifkan. Silakan buka pengaturan perangkat untuk mengaktifkannya.</string>
@@ -554,7 +551,7 @@
     <string name="excluded">(tidak disertakan)</string>
     <string name="manage_excluded_folders">Kelola folder yang dikecualikan</string>
     <string name="remove_all">Buang semua</string>
-    <string name="remove_all_description">Buang semua folder dari daftar pengecualian\? Ini tidak akan menghapus folder tersebut.</string>
+    <string name="remove_all_description">Buang semua folder dari daftar pengecualian? Ini tidak akan menghapus folder tersebut.</string>
     <string name="temporarily_show_excluded">Tampilkan sementara yang tidak termasuk</string>
     <string name="stop_showing_excluded">Berhenti menampilkan yang tidak termasuk</string>
     <string name="manage_shown_tabs">Kelola tab yang ditampilkan</string>
@@ -593,14 +590,7 @@
     <string name="backups">Cadangan</string>
     <string name="enable_automatic_backups">Aktifkan cadangan otomatis</string>
     <string name="manage_automatic_backups">Kelola cadangan otomatis</string>
-    <string name="date_time_pattern_info">Anda dapat menggunakan pola berikut untuk menamai berkas Anda secara otomatis:
-\n
-\n%Y - tahun
-\n%M - bulan
-\n%D - hari
-\n%h - jam
-\n%m - menit
-\n%s - detik</string>
+    <string name="date_time_pattern_info">Anda dapat menggunakan pola berikut untuk menamai berkas Anda secara otomatis: \n \n%Y - tahun \n%M - bulan \n%D - hari \n%h - jam \n%m - menit \n%s - detik</string>
     <string name="usb_detected">Sepertinya anda memiliki perangkat USB di perangkat anda. Untuk memastikan berkas ditampilkan dengan benar, anda perlu memberi izin akses tambahan.</string>
     <string name="confirm_usb_storage_access_text">Silakan pilih folder root perangkat USB di layar berikutnya untuk memberi izin akses</string>
     <string name="wrong_root_selected_usb">Folder yang dipilih salah, silakan pilih folder root perangkat USB</string>
@@ -669,8 +659,7 @@
     <string name="read_it">Baca</string>
     <string name="read_faq">Baca FAQ</string>
     <string name="thank_you">Terima kasih</string>
-    <string name="new_app">
-        <![CDATA[
+    <string name="new_app"><![CDATA[
             Hai,<br><br>
             hanya memberitahu ada aplikasi baru dirilis:<br><br>
             <a href="%1$s">%2$s</a><br><br>
@@ -678,8 +667,7 @@
             <a href="%5$s">%6$s</a><br><br>
             Anda bisa mengunduhnya dengan menekan judulnya.<br><br>
             Terima kasih
-        ]]>
-    </string>
+        ]]></string>
     <string name="app_launcher_short">Peluncur Aplikasi</string>
     <string name="calculator_short">Kalkulator</string>
     <string name="calendar_short">Kalender</string>
@@ -695,16 +683,13 @@
     <string name="sms_messenger_short">Perpesanan SMS</string>
     <string name="thank_you_short">Terima Kasih</string>
     <string name="voice_recorder_short">Perekam Suara</string>
-    <string name="sideloaded_app">
-        <![CDATA[
+    <string name="sideloaded_app"><![CDATA[
             Sepertinya versi aplikasi anda rusak. Silakan unduh versi original <a href="%s">di sini</a>.
-        ]]>
-    </string>
+        ]]></string>
     <string name="frequently_asked_questions">FAQ</string>
     <string name="before_asking_question">Sebelum anda bertanya, silakan baca</string>
     <string name="faq_1_title_commons">Kenapa saya tidak melihat widget aplikasi ini di daftar widget?</string>
-    <string name="faq_1_text_commons">Kemungkinan besar karena anda memindahkan aplikasi ke kartu SD. Ada keterbatasan sistem Android yang akan menyembunyikan widget aplikasi
-        karena hal tersebut. Satu-satunya solusi adalah memindahkannya kembali ke Penyimpanan Internal melalui pengaturan perangkat anda.</string>
+    <string name="faq_1_text_commons">Kemungkinan besar karena anda memindahkan aplikasi ke kartu SD. Ada keterbatasan sistem Android yang akan menyembunyikan widget aplikasi karena hal tersebut. Satu-satunya solusi adalah memindahkannya kembali ke Penyimpanan Internal melalui pengaturan perangkat anda.</string>
     <string name="faq_2_title_commons">Saya ingin mendukung Anda, tetapi saya tidak bisa berdonasi. Adakah cara lain yang bisa saya lakukan?</string>
     <string name="faq_3_title_commons">Saya tidak sengaja menghapus berkas, bagaimana saya memulihkannya?</string>
     <string name="faq_3_text_commons">Sayangnya, Anda tidak bisa. File dihapus secara instan setelah dialog konfirmasi, tidak ada tempat sampah yang tersedia.</string>
@@ -715,7 +700,7 @@
     <string name="faq_6_title_commons">Ikon launcher aplikasi menghilang. Apa yang bisa saya lakukan?</string>
     <string name="faq_7_title_commons">Rekening bank saya telah berkurang, tetapi saya tidak bisa mengunduh aplikasi. Apa yang bisa saya lakukan?</string>
     <string name="faq_7_text_commons">Pembayaran sepenuhnya dikelola oleh Google, sistem mereka terkadang tidak bekerja sebagaimana mestinya. Cukup hapus cache apl Google Play dan mulai ulang perangkat anda, lalu ulangi mengunduh.</string>
-    <string name="faq_9_title_commons">Bagaimana saya bisa memilih beberapa item sekaligus\?</string>
+    <string name="faq_9_title_commons">Bagaimana saya bisa memilih beberapa item sekaligus?</string>
     <string name="faq_9_text_commons">Ada beberapa cara untuk melakukan itu. Cara pertama adalah memulai mode pemilihan dengan menekan lama satu item, kemudian klik pendek pada item lain untuk memilihnya. Cara kedua mirip dengan memilih item pada PC dengan mouse, cukup mulai mode pemilihan dengan menekan lama satu item, kemudian dengan jari Anda masih di bawah seret ke item lain untuk memilih. Cara ketiga untuk memilih beberapa item adalah dengan menekan lama satu item, kemudian menekan lama item lainnya dan semua yang ada di antaranya akan dipilih. Jika Anda ingin memilih semua item, cukup tekan lama satu item, kemudian klik pada penghitung item yang dipilih di sudut kiri atas. Itu akan memilih atau membatalkan pemilihan semua item.</string>
     <string name="faq_10_title_commons">Saya telah membeli aplikasinya, tetapi saya tidak bisa mengunduhnya di perangkat lain.</string>
     <string name="faq_10_text_commons">Coba bersihkan cache aplikasi Google Play Anda dan mulai ulang perangkat Anda. Ini adalah kesalahan Google Play, tidak benar-benar terkait dengan aplikasi itu sendiri.</string>
@@ -976,4 +961,10 @@
     <plurals name="files_saved">
         <item quantity="other">File berhasil disimpan</item>
     </plurals>
+    <string name="commons_csv_title"></string>
+    <string name="jsoup_title"></string>
+    <string name="rate_app_prompt"></string>
+    <string name="commonmark_title"></string>
+    <string name="donation_prompt"></string>
+    <string name="mammoth_title"></string>
 </resources>

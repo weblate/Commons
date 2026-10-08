@@ -195,7 +195,7 @@
     <string name="cannot_hide_files">От Android 11 нататък вече не можете да скривате файлове и папки по този начин</string>
     <string name="copy">Копиране</string>
     <string name="move">Преместване</string>
-    <string name="copy_move">Копиране / преместване</string>
+    <string name="copy_move">Копиране / преместване</string>
     <string name="copy_to">Копиране към…</string>
     <string name="move_to">Преместване към…</string>
     <string name="source">Изходна папка</string>
@@ -251,7 +251,7 @@
     <string name="confirm_storage_access_text">За да предоставите достъп за запис, на следващия екран изберете кореновата папка на SD картата</string>
     <string name="confirm_storage_access_text_sd">Ако не виждате SD картата, опитайте това</string>
     <string name="confirm_storage_access_android_text">Моля, позволете на приложението да има достъп до избраното хранилище на следващия екран, като натиснете \'Използвайте тази папка\' в долната част.</string>
-    <string name="confirm_storage_access_android_text_specific">Разрешете достъп до „<b>%s</b>“ на следващия екран, като докоснете „<b>Използвайте тази папка</b>“ в долната част на екрана.</string>
+    <string name="confirm_storage_access_android_text_specific">Разрешете достъп до „&lt;b&gt;%s&lt;/b&gt;“ на следващия екран, като докоснете „&lt;b&gt;Използвайте тази папка&lt;/b&gt;“ в долната част на екрана.</string>
     <string name="confirm_create_doc_for_new_folder_text">Моля, натиснете \'&lt;b&gt;Запазване&lt;/b&gt;\' в долната част на следващия екран, за да създадете новата папка.</string>
     <string name="confirm_selection">Потвърждаване на избора</string>
     <string name="loading">Зареждане…</string>
@@ -325,7 +325,7 @@
     <string name="light_theme">Светла</string>
     <string name="dark_theme">Тъмна</string>
     <string name="auto_theme">Автоматична</string>
-    <string name="auto_light_dark_theme">Автоматично светла / тъмна</string>
+    <string name="auto_light_dark_theme">Автоматично светла / тъмна</string>
     <string name="solarized">Слънчева</string>
     <string name="dark_red">Тъмно червена</string>
     <string name="white">Бяла</string>
@@ -750,7 +750,7 @@
     <string name="invite_via">Препоръка с помощта на</string>
     <string name="donate">Дарения</string>
     <string name="follow_us">Последвайте ни</string>
-    <string name="copyright">v %1$s\nАвторски права © Fossify %2$d</string>
+    <string name="copyright">v %1$s\nАвторски права © Fossify %2$d</string>
     <string name="support">Поддръжка</string>
     <string name="help_us">Помогнете ни</string>
     <string name="social">Общност</string>
@@ -929,7 +929,7 @@
     <string name="donate_to_fossify">Даряване на Fossify</string>
     <string name="platforms">Платформи</string>
     <string name="little_to_no_fee">Почти без такси</string>
-    <string name="fee_up_to_pct">Такса до %1$d %%</string>
+    <string name="fee_up_to_pct">Такса до %1$d %%</string>
     <string name="pattern_title">PatternLockView (защита с форми)</string>
     <string name="reprint_title">Reprint (защита с пръстов отпечатък)</string>
     <string name="gif_drawable_title">Gif Drawable (зареждане на GIF)</string>

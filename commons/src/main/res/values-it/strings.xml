@@ -330,9 +330,7 @@
     <string name="apply_to_all_apps">Applica il tema a tutte le app di Fossify</string>
     <string name="app_icon_color_warning">Attenzione: alcuni launcher potrebbero non gestire correttamente la personalizzazione dell\'icona dell\'app. Se l\'icona scompare, prova ad avviare l\'applicazione tramite Google Play o un widget, se accessibile. Dopo l\'avvio, ripristina il colore predefinito dell\'icona verde #106D1F. In casi estremi, potrebbe essere necessario reinstallare l\'applicazione.</string>
     <string name="global_theme_success">Colori aggiornati correttamente. È stato aggiunto un nuovo tema chiamato \'Condiviso\', usare questo per aggiornare tutti i colori dell\'app in futuro.</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Acquista <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Grazie Fossify</a> per usare questa funzione e supportare lo sviluppo. Grazie!
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA["\n            Acquista <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Grazie Fossify</a> per usare questa funzione e supportare lo sviluppo. Grazie!\n        "]]></string>
     <string name="light_theme">Chiaro</string>
     <string name="dark_theme">Scuro</string>
     <string name="auto_light_dark_theme">Auto chiaro / scuro</string>
@@ -835,12 +833,10 @@
     <string name="faq_1_title_commons">Come mai non vedo il widget di questa app nell\'elenco dei widget?</string>
     <string name="faq_1_text_commons">Probabilmente perchè si ha spostato l\'app nella scheda SD. C\'è una limitazione di sistema di Android che nasconde i widget in questione. L\'unica soluzione è spostare l\'app nell\'archiviazione interna usando le impostazioni di sistema.</string>
     <string name="faq_2_title_commons">Vorrei darti supporto, ma non posso donare del denaro. Posso fare dell\'altro?</string>
-    <string name="faq_2_text_commons">
-        <![CDATA[
+    <string name="faq_2_text_commons"><![CDATA[
             Sì, certo. Puoi spargere la voce sulle app o fornire feedback e valutazioni positive. Puoi anche contribuire a tradurre le app in una nuova lingua o ad aggiornare alcune traduzioni esistenti.
             La guida alla traduzione è disponibile su <a href=https://github.com/FossifyOrg/General-Discussion#contributing-translations>questo sito</a>, oppure contattaci all\'indirizzo <a href=mailto:hello@fossify.org>hello@fossify.org</a> per qualsiasi domanda.
-        ]]>
-    </string>
+        ]]></string>
     <string name="faq_3_title_commons">Ho eliminato dei file per errore, come posso recuperarli?</string>
     <string name="faq_3_text_commons">Purtroppo non si può. I file vengono eliminati subito dopo la richiesta di conferma, non c\'è nessun cestino disponibile.</string>
     <string name="faq_4_title_commons">Non mi piacciono i colori del widget, posso cambiarli?</string>
@@ -858,13 +854,11 @@
     <string name="contributors">Contributori</string>
     <string name="translation">Traduzione</string>
     <string name="development">Sviluppo</string>
-    <string name="contributors_label">
-        <![CDATA[
+    <string name="contributors_label"><![CDATA[
             Questo elenco contiene tutti coloro che hanno aiutato in modo significativo qualsiasi applicazione della suite Fossify, non solo questa. Le traduzioni sono gestite da volontari,
             fateci sapere se volete aiutare anche voi. La guida alla traduzione si trova su <a href=https://github.com/FossifyOrg/General-Discussion#contributing-translations>questo sito</a>, oppure contattaci all\'indirizzo <a href=mailto:hello@fossify.org>hello@fossify.org</a> per qualsiasi domanda.
             Grazie a tutti i collaboratori e agli altri sostenitori!
-        ]]>
-    </string>
+        ]]></string>
     <string name="translation_arabic">arabo</string>
     <string name="translation_azerbaijani">azerbaigiano</string>
     <string name="translation_bengali">bengalese</string>
@@ -989,8 +983,7 @@
     <string name="minutes_letter">%dm</string>
     <string name="notification_sound">Suono di notifica</string>
     <string name="january_short">Gen</string>
-    <string name="copyright">v %1$s
-\nCopyright © Fossify %2$d</string>
+    <string name="copyright">v %1$s \nCopyright © Fossify %2$d</string>
     <string name="translation_english">Inglese</string>
     <string name="translation_hindi">Hindi</string>
     <string name="launcher_short">Launcher</string>

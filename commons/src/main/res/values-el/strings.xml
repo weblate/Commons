@@ -284,8 +284,7 @@
     <string name="sd_card">Κάρτα SD</string>
     <string name="wrong_root_selected">Επιλέξατε λάθος φάκελο, επιλέξτε τον ριζικό φάκελο της SD card</string>
     <string name="sd_card_usb_same">Οι διαδρομές συσκευών SD card και USB δεν μπορούν να είναι οι ίδιες</string>
-    <string name="app_on_sd_card">Φαίνεται ότι έχετε εγκαταστήσει την εφαρμογή σε μια κάρτα SD, πράγμα που καθιστά τα Γραφικά στοιχεία εφαρμογών μη διαθέσιμα. Δεν θα τα δείτε ακόμη και στη λίστα των διαθέσιμων Γραφικών στοιχείων.
-        Είναι ένας περιορισμός του συστήματος, οπότε αν θέλετε να χρησιμοποιήσετε τα Γραφικά στοιχεία, θα πρέπει να μετακινήσετε την εφαρμογή πίσω στον εσωτερικό αποθηκευτικό χώρο.</string>
+    <string name="app_on_sd_card">Φαίνεται ότι έχετε εγκαταστήσει την εφαρμογή σε μια κάρτα SD, πράγμα που καθιστά τα Γραφικά στοιχεία εφαρμογών μη διαθέσιμα. Δεν θα τα δείτε ακόμη και στη λίστα των διαθέσιμων Γραφικών στοιχείων. Είναι ένας περιορισμός του συστήματος, οπότε αν θέλετε να χρησιμοποιήσετε τα Γραφικά στοιχεία, θα πρέπει να μετακινήσετε την εφαρμογή πίσω στον εσωτερικό αποθηκευτικό χώρο.</string>
     <string name="wrong_folder_selected">Επιλέξατε λάθος φάκελο, επιλέξτε τη διαδρομή \'%s\'</string>
     <string name="properties">Ιδιότητες</string>
     <string name="path">Διαδρομή</string>
@@ -328,10 +327,8 @@
     <string name="undo_changes_confirmation">Είστε βέβαιοι ότι θέλετε να αναιρέσετε τις αλλαγές σας;</string>
     <string name="cannot_be_undone">Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.</string>
     <string name="save_before_closing">Έχετε αλλαγές που δεν έχουν αποθηκευτεί. Αποθήκευση πριν από την έξοδο?</string>
-    <string name="global_theme_success">Τα χρώματα ενημερώθηκαν με επιτυχία. Ένα νέο θέμα που ονομάζεται  \"Κοινόχρηστο\" έχει προστεθεί, παρακαλούμε να χρησιμοποιήστε το για την ενημέρωση των χρωμάτων όλων των εφαρμ. στο μέλλον.</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Παρακαλώ αγοράστε την <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> για να ξεκλειδώσετε αυτή τη λειτουργία για να υποστηρίξετε την ανάπτυξη. Ευχαριστώ!
-        ]]></string>
+    <string name="global_theme_success">Τα χρώματα ενημερώθηκαν με επιτυχία. Ένα νέο θέμα που ονομάζεται \"Κοινόχρηστο\" έχει προστεθεί, παρακαλούμε να χρησιμοποιήστε το για την ενημέρωση των χρωμάτων όλων των εφαρμ. στο μέλλον.</string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Παρακαλώ αγοράστε την <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> για να ξεκλειδώσετε αυτή τη λειτουργία για να υποστηρίξετε την ανάπτυξη. Ευχαριστώ!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="light_theme">Φωτεινό</string>
     <string name="dark_theme">Σκοτεινό</string>
     <string name="auto_theme">Αυτόματο</string>
@@ -790,8 +787,7 @@
     <string name="read_it">Διαβάστε τις</string>
     <string name="read_faq">Συχνές Ερωτήσεις</string>
     <string name="thank_you">Σας Ευχαριστούμε</string>
-    <string name="new_app">
-        <![CDATA[
+    <string name="new_app"><![CDATA[
             Γειά σας,<br><br>
            απλά σας ενημερώνουμε ότι πρόσφατα κυκλοφόρησε μια νέα εφαρμογή:<br><br>
             <a href="%1$s">%2$s</a><br><br>
@@ -799,8 +795,7 @@
             <a href="%5$s">%6$s</a><br><br>
             Μπορείτε να την κατεβάσετε πατώντας τον τίτλο.<br><br>
             Ευχαριστούμε
-        ]]>
-    </string>
+        ]]></string>
     <string name="app_launcher_short">Εκκινητής εφαρμογών</string>
     <string name="calculator_short">Αριθμομηχανή</string>
     <string name="calendar_short">Ημερολόγιο</string>
@@ -819,23 +814,18 @@
     <string name="sms_messenger_short">Μηνύματα SMS</string>
     <string name="thank_you_short">Σας Ευχαριστούμε</string>
     <string name="voice_recorder_short">Εγγραφή φωνής</string>
-    <string name="sideloaded_app">
-        <![CDATA[
+    <string name="sideloaded_app"><![CDATA[
             Φαίνεται ότι η έκδοση της εφαρμογής σας είναι κατεστραμμένη. Κατεβάστε την αρχική έκδοση από <a href="%s">εδώ</a>.
-        ]]>
-    </string>
+        ]]></string>
     <string name="frequently_asked_questions">Συχνές ερωτήσεις</string>
     <string name="before_asking_question">Πριν κάνετε μια ερώτηση, διαβάστε πρώτα τις</string>
     <string name="faq_1_title_commons">Γιατί δεν βλέπω αυτό το Γραφικό στοιχείο εφαρμογής στη λίστα;</string>
-    <string name="faq_1_text_commons">Είναι πολύ πιθανό επειδή μετακινήσατε την εφαρμογή σε μια κάρτα SD. Υπάρχει ένας περιορισμός του συστήματος Android που αποκρύπτει τα συγκεκριμένα Γραφικά στοιχεία εφαρμογών
-       σε αυτή την περίπτωση. Η μόνη λύση είναι να μετακινήσετε την εφαρμογή πίσω στην εσωτερική αποθήκευση μέσω των ρυθμίσεων της συσκευής σας.</string>
+    <string name="faq_1_text_commons">Είναι πολύ πιθανό επειδή μετακινήσατε την εφαρμογή σε μια κάρτα SD. Υπάρχει ένας περιορισμός του συστήματος Android που αποκρύπτει τα συγκεκριμένα Γραφικά στοιχεία εφαρμογών σε αυτή την περίπτωση. Η μόνη λύση είναι να μετακινήσετε την εφαρμογή πίσω στην εσωτερική αποθήκευση μέσω των ρυθμίσεων της συσκευής σας.</string>
     <string name="faq_2_title_commons">Θέλω να σας υποστηρίξω, αλλά δεν μπορώ να δωρίσω χρήματα. Υπάρχει κάτι άλλο που μπορώ να κάνω;</string>
-    <string name="faq_2_text_commons">
-        <![CDATA[
+    <string name="faq_2_text_commons"><![CDATA[
             Ναι, φυσικά. Μπορείτε να διαδώσετε τις εφαρμογές ή να δώσετε καλά σχόλια και αξιολογήσεις. Μπορείτε επίσης να βοηθήσετε με τη μετάφραση των εφαρμογών σε μια νέα γλώσσα ή απλώς να ενημερώστε κάποιες υπάρχουσες μεταφράσεις..
             Ο οδηγός μετάφρασης βρίσκεται στον <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">ιστότοπο</a>, ή απλά επικοινωνήστε μαζί μας στο <a href="mailto:hello@fossify.org">hello@fossify.org</a> αν έχετε οποιεσδήποτε ερωτήσεις.
-        ]]>
-    </string>
+        ]]></string>
     <string name="faq_3_title_commons">Διαγραφή κάποιων αρχείων κατά λάθος, πώς μπορώ να τα ανακτήσω;</string>
     <string name="faq_3_text_commons">Δυστυχώς, δεν μπορείτε. Τα αρχεία διαγράφονται αμέσως μετά το παράθυρο διαλόγου επιβεβαίωσης, δεν υπάρχει διαθέσιμος Κάδος ανακύκλωσης.</string>
     <string name="faq_4_title_commons">Δεν μου αρέσουν τα χρώματα του Γραφικού στοιχείου, μπορώ να τα αλλάξω;</string>
@@ -846,22 +836,18 @@
     <string name="faq_7_title_commons">Τα χρήματα αφαιρέθηκαν από τον τραπεζικό μου λογαριασμό, αλλά δεν μπορώ να κατεβάσω την εφαρμογή. Τι μπορώ να κάνω?</string>
     <string name="faq_7_text_commons">Οι πληρωμές διαχειρίζονται πλήρως από την Google, το σύστημα της δυσλειτουργεί περιστασιακά. Απλώς καθαρίστε την προσωρινή μνήμη εφαρμογών του Google Play, επανεκκινήστε τη συσκευή σας, και προσπαθήστε ξανά να την κατεβάσετε.</string>
     <string name="faq_9_title_commons">Πώς μπορώ να επιλέξω πολλά στοιχεία ταυτόχρονα;</string>
-    <string name="faq_9_text_commons">Υπάρχουν πολλοί τρόποι για να γίνει αυτό. Το πρώτο είναι η εκκίνηση της λειτουργίας επιλογής πατώντας παρατεταμένα ένα στοιχείο και κατόπιν κάνοντας σύντομο κλικ σε άλλα για να τα επιλέξετε. Ο δεύτερος τρόπος είναι παρόμοιος με την επιλογή στοιχείων σε υπολογιστές με ποντίκι.
-        απλά ξεκινήστε τη λειτουργία επιλογής πατώντας παρατεταμένα ένα στοιχείο και, στη συνέχεια, κρατώντας πατημένο το δάχτυλό σας, σύρετέ το σε άλλα στοιχεία για επιλογή. Ο τρίτος τρόπος επιλογής πολλών στοιχείων είναι η μεγάλη διάρκεια πίεσης ενός στοιχείου και κατόπιν η μεγάλη διάρκεια πίεσης ενός άλλου και όλων των ενδιάμεσων γίνεται επιλεγμένη. Εάν
-        θέλετε να επιλέξετε όλα τα στοιχεία, πατήστε μόνο ένα στοιχείο και, στη συνέχεια, κάντε κλικ στον επιλεγμένο μετρητή στοιχείων στην επάνω αριστερή γωνία. Αυτό θα επιλέξει ή θα καταργήσει την επιλογή όλων των στοιχείων.</string>
+    <string name="faq_9_text_commons">Υπάρχουν πολλοί τρόποι για να γίνει αυτό. Το πρώτο είναι η εκκίνηση της λειτουργίας επιλογής πατώντας παρατεταμένα ένα στοιχείο και κατόπιν κάνοντας σύντομο κλικ σε άλλα για να τα επιλέξετε. Ο δεύτερος τρόπος είναι παρόμοιος με την επιλογή στοιχείων σε υπολογιστές με ποντίκι. απλά ξεκινήστε τη λειτουργία επιλογής πατώντας παρατεταμένα ένα στοιχείο και, στη συνέχεια, κρατώντας πατημένο το δάχτυλό σας, σύρετέ το σε άλλα στοιχεία για επιλογή. Ο τρίτος τρόπος επιλογής πολλών στοιχείων είναι η μεγάλη διάρκεια πίεσης ενός στοιχείου και κατόπιν η μεγάλη διάρκεια πίεσης ενός άλλου και όλων των ενδιάμεσων γίνεται επιλεγμένη. Εάν θέλετε να επιλέξετε όλα τα στοιχεία, πατήστε μόνο ένα στοιχείο και, στη συνέχεια, κάντε κλικ στον επιλεγμένο μετρητή στοιχείων στην επάνω αριστερή γωνία. Αυτό θα επιλέξει ή θα καταργήσει την επιλογή όλων των στοιχείων.</string>
     <string name="faq_10_title_commons">Έχω αγοράσει την εφαρμογή, αλλά δεν μπορώ να πραγματοποιήσω λήψη της σε άλλη συσκευή.</string>
     <string name="faq_10_text_commons">Δοκιμάστε να διαγράψετε την προσωρινή μνήμη εφαρμογών Google Play και να επανεκκινήσετε τη συσκευή σας. Πρόκειται για κάποιο πρόβλημα του Google Play, το οποίο δεν σχετίζεται με την ίδια την εφαρμογή.</string>
     <string name="contributors">Συντελεστές</string>
     <string name="translation">Μετάφραση</string>
     <string name="development">Ανάπτυξη</string>
     <string name="other_help">Άλλη Βοήθεια</string>
-    <string name="contributors_label">
-        <![CDATA[
+    <string name="contributors_label"><![CDATA[
             Αυτή η λίστα περιέχει όλους όσους βοήθησαν αισθητά οποιαδήποτε εφαρμογή της σουίτας Fossify, όχι μόνο αυτή. Οι μεταφράσεις γίνονται από εθελοντές,
             πείτε μας αν θέλετε να βοηθήσετε κι εσείς. Ο οδηγός για τη μετάφραση βρίσκεται στον <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">ιστότοπο</a>, ή επικοινωνήστε μαζί μας στο <a href="mailto:hello@fossify.org">hello@fossify.org</a> αν έχετε οποιεσδήποτε ερωτήσεις.
             Ευχαριστούμε όλους τους συνεισφέροντες και υποστηρικτές!
-        ]]>
-    </string>
+        ]]></string>
     <string name="third_party_licences">Άδειες τρίτων</string>
     <string name="kotlin_title">Kotlin (γλώσσα προγραμματισμού)</string>
     <string name="trial_expired">Η Δοκιμή έληξε</string>
@@ -911,4 +897,108 @@
     <string name="call_contact">Κλήση επαφής</string>
     <string name="view_contact">Εμφάνιση λεπτομερειών επαφής</string>
     <string name="donation_prompt">Αν σας αρέσει αυτή η εφαρμογή, παρακαλώ υποστήριξης την ανάπτυξη των εφαρμογών Fossify.</string>
+    <string name="translation_welsh"></string>
+    <string name="translation_catalan"></string>
+    <string name="pdf_viewer_title"></string>
+    <string name="translation_hungarian"></string>
+    <string name="audio_record_view_title"></string>
+    <string name="translation_italian"></string>
+    <string name="translation_azerbaijani"></string>
+    <string name="confirm_storage_access_restricted_text_not_found"></string>
+    <string name="translation_spanish"></string>
+    <string name="translation_indonesian"></string>
+    <string name="commons_csv_title"></string>
+    <string name="translation_nepali"></string>
+    <string name="jsoup_title"></string>
+    <string name="gif_drawable_title"></string>
+    <string name="confirm_storage_access_restricted_text_open_system"></string>
+    <string name="translation_slovak"></string>
+    <string name="translation_persian"></string>
+    <string name="exoplayer_title"></string>
+    <string name="translation_japanese"></string>
+    <string name="translation_chinese_cn"></string>
+    <string name="m3u_parser_title"></string>
+    <string name="gson_title"></string>
+    <string name="autofittextview_title"></string>
+    <string name="translation_ukrainian"></string>
+    <string name="solarized"></string>
+    <string name="translation_bengali"></string>
+    <string name="translation_danish"></string>
+    <string name="translation_kabyle"></string>
+    <string name="translation_latvian"></string>
+    <string name="espresso_title"></string>
+    <string name="translation_croatian"></string>
+    <string name="translation_serbian"></string>
+    <string name="reprint_title"></string>
+    <string name="reorder_items_by_dragging"></string>
+    <string name="rate_app_prompt"></string>
+    <string name="leak_canary_title"></string>
+    <string name="commonmark_title"></string>
+    <string name="stetho_title"></string>
+    <string name="subsampling_title"></string>
+    <string name="translation_french"></string>
+    <string name="translation_english"></string>
+    <string name="translation_chinese_hk"></string>
+    <string name="update_thank_you"></string>
+    <string name="translation_bulgarian"></string>
+    <string name="picasso_title"></string>
+    <string name="usb"></string>
+    <string name="translation_dutch"></string>
+    <string name="glide_title"></string>
+    <string name="translation_turkish"></string>
+    <string name="otto_title"></string>
+    <string name="translation_czech"></string>
+    <string name="translation_polish"></string>
+    <string name="gesture_views_title"></string>
+    <string name="translation_slovenian"></string>
+    <string name="sanselan_title"></string>
+    <string name="label_with_badge"></string>
+    <string name="translation_romanian"></string>
+    <string name="pattern_title"></string>
+    <string name="rtl_viewpager_title"></string>
+    <string name="number_picker_title"></string>
+    <string name="translation_gujarati"></string>
+    <string name="translation_korean"></string>
+    <string name="translation_russian"></string>
+    <string name="translation_chinese_tw"></string>
+    <string name="photoview_title"></string>
+    <string name="translation_basque"></string>
+    <string name="joda_title"></string>
+    <string name="translation_arabic"></string>
+    <string name="translation_breton"></string>
+    <string name="zip4j_title"></string>
+    <string name="root"></string>
+    <string name="translation_norwegian"></string>
+    <string name="translation_chuvash"></string>
+    <string name="translation_esperanto"></string>
+    <string name="translation_portuguese"></string>
+    <string name="translation_tamil"></string>
+    <string name="indicator_fast_scroll_title"></string>
+    <string name="translation_galician"></string>
+    <string name="translation_greek"></string>
+    <string name="translation_lithuanian"></string>
+    <string name="translation_hindi"></string>
+    <string name="translation_vietnamese"></string>
+    <string name="android_lame_title"></string>
+    <string name="translation_finnish"></string>
+    <string name="evalex_title"></string>
+    <string name="apng_title"></string>
+    <string name="confirm_storage_access_restricted_text"></string>
+    <string name="translation_swedish"></string>
+    <string name="translation_german"></string>
+    <string name="copyright"></string>
+    <string name="robolectric_title"></string>
+    <string name="translation_belarusian"></string>
+    <string name="translation_hebrew"></string>
+    <string name="event_bus_title"></string>
+    <string name="filters_title"></string>
+    <string name="sms_mms_title"></string>
+    <string name="translation_central_kurdish"></string>
+    <string name="pin"></string>
+    <string name="pdf_view_pager_title"></string>
+    <string name="number_of_items"></string>
+    <string name="mammoth_title"></string>
+    <string name="days_letter"></string>
+    <string name="cropper_title"></string>
+    <string name="exif"></string>
 </resources>

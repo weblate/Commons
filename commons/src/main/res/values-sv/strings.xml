@@ -257,8 +257,8 @@
     <string name="confirm_storage_access_text">Välj rotmappen på ditt SD-kort på nästa skärm, för att bevilja skrivrättigheter</string>
     <string name="confirm_storage_access_text_sd">Om du inte ser SD-kortet, prova detta</string>
     <string name="confirm_storage_access_android_text">Ge appen åtkomst till det valda lagringsutrymmet genom att trycka på \'Använd den här mappen\' längst ned på nästa skärm.</string>
-    <string name="confirm_storage_access_android_text_specific">Tillåt åtkomst till \'<b>%s</b>\' genom att trycka på \'<b>Använd den här mappen</b>\' längst ned på nästa skärm.</string>
-    <string name="confirm_create_doc_for_new_folder_text">Tryck på \'<b>Spara</b>\' längst ned på nästa skärm för att skapa den nya mappen.</string>
+    <string name="confirm_storage_access_android_text_specific">Tillåt åtkomst till \'&lt;b&gt;%s&lt;/b&gt;\' genom att trycka på \'&lt;b&gt;Använd den här mappen&lt;/b&gt;\' längst ned på nästa skärm.</string>
+    <string name="confirm_create_doc_for_new_folder_text">Tryck på \'&lt;b&gt;Spara&lt;/b&gt;\' längst ned på nästa skärm för att skapa den nya mappen.</string>
     <string name="confirm_selection">Bekräfta val</string>
     <string name="loading">Läser in…</string>
     <string name="access_storage_prompt">Ge appen åtkomst till alla dina filer, annars kanske den inte fungerar som den ska.</string>
@@ -327,9 +327,7 @@
     <string name="cannot_be_undone">Denna åtgärd kan inte ångras.</string>
     <string name="save_before_closing">Du har ändringar som inte är sparade. Spara innan du lämnar?</string>
     <string name="global_theme_success">Färgerna har uppdaterats. Ett nytt Tema som heter \'Delat\' har lagts till, använd det för att uppdatera alla apparnas färger i framtiden.</string>
-    <string name="purchase_thank_you"><![CDATA[
-            Köp <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> om du vill använda den här funktionen och stödja utvecklingen. Tack!
-        ]]></string>
+    <string name="purchase_thank_you"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Köp <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> om du vill använda den här funktionen och stödja utvecklingen. Tack!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="light_theme">Ljust</string>
     <string name="dark_theme">Mörkt</string>
     <string name="auto_theme">Automatiskt</string>
@@ -789,9 +787,7 @@
     <string name="sms_messenger_short">Meddelanden</string>
     <string name="thank_you_short">Tack</string>
     <string name="voice_recorder_short">Röstinspelare</string>
-    <string name="sideloaded_app"><![CDATA[
-            Det verkar som om din appversion är skadad. Ladda ner originalversionen <a href="%s">här</a>.
-        ]]></string>
+    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Det verkar som om din appversion är skadad. Ladda ner originalversionen <a href="%s">här</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="frequently_asked_questions">Frågor och svar</string>
     <string name="before_asking_question">Innan du ställer en fråga, läs först</string>
     <string name="faq_1_title_commons">Hur kommer det sig att jag inte ser den här appwidgeten på listan över widgets?</string>
@@ -971,17 +967,10 @@
     <string name="donate_short">Stöd oss genom att köpa &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Fossify Thank You&lt;/a&gt;, detta låser också upp alla appfunktioner inklusive färganpassning.</string>
     <string name="app_icon_color_warning">Varning! Vissa startprogram hanterar kanske inte anpassning av appikoner korrekt. Om ikonen försvinner kan du, om det är möjligt, prova att starta appen via Google Play eller en widget. När du har startat appen återställer du ikonens gröna standardfärg #106D1F. I extrema fall kan det vara nödvändigt att installera om appen.</string>
     <string name="faq_6_text_commons">Det här problemet uppstår när startprogrammet inte har fullt stöd för ikonanpassning. Prova att starta appen via Google Play eller en widget, om det är möjligt. När du har startat appen återställer du ikonens gröna standardfärg #106D1F. I extrema fall kan det vara nödvändigt att installera om appen.</string>
-    <string name="contributors_label"><![CDATA[
-            Den här listan innehåller alla som på ett märkbart sätt har bidragit till någon Fossify-app, inte bara den här. Översättningarna hanteras av volontärer,
-            kontakta oss om du också vill hjälpa till. Översättningsguiden finns på <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">den här webbplatsen</a>, kontakta oss på <a href="mailto:hello@fossify.org">hello@fossify.org</a> om du har några frågor.
-            Tack till alla bidragsgivare och andra supportrar!
-        ]]></string>
+    <string name="contributors_label"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Den här listan innehåller alla som på ett märkbart sätt har bidragit till någon Fossify-app, inte bara den här. Översättningarna hanteras av volontärer,\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020kontakta oss om du också vill hjälpa till. Översättningsguiden finns på <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">den här webbplatsen</a>, kontakta oss på <a href="mailto:hello@fossify.org">hello@fossify.org</a> om du har några frågor.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Tack till alla bidragsgivare och andra supportrar!\n \u0020 \u0020 \u0020 \u0020]]></string>
     <string name="enables_more_customization">Möjliggör mer anpassning</string>
     <string name="translation_latvian">Lettiska</string>
-    <string name="faq_2_text_commons"><![CDATA[
-            Ja, naturligtvis. Du kan sprida information om apparna eller ge bra feedback och betyg. Du kan också hjälpa till genom att översätta apparna till ett nytt språk eller bara uppdatera några befintliga översättningar.
-            Översättningsguiden finns på <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">den här webbplatsen</a>, kontakta oss på <a href="mailto:hello@fossify.org">hello@fossify.org</a> om du har några frågor.
-        ]]></string>
+    <string name="faq_2_text_commons"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Ja, naturligtvis. Du kan sprida information om apparna eller ge bra feedback och betyg. Du kan också hjälpa till genom att översätta apparna till ett nytt språk eller bara uppdatera några befintliga översättningar.\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Översättningsguiden finns på <a href="https://github.com/FossifyOrg/General-Discussion#contributing-translations">den här webbplatsen</a>, kontakta oss på <a href="mailto:hello@fossify.org">hello@fossify.org</a> om du har några frågor.\n \u0020 \u0020 \u0020 \u0020]]></string>
     <plurals name="files_saved">
         <item quantity="one">Filen har sparats</item>
         <item quantity="other">Filerna har sparats</item>

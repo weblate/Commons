@@ -191,13 +191,7 @@
     <string name="simple_renaming">Einfaches Umbenennen</string>
     <string name="pattern_renaming">Muster</string>
     <string name="string_to_add">Anzufügender Text</string>
-    <string name="rename_date_time_pattern">%Y - Jahr
-\n%M - Monat
-\n%D - Tag
-\n%h - Stunde
-\n%m - Minute
-\n%s - Sekunde
-\n%i - Zähler, aufsteigend ab 1</string>
+    <string name="rename_date_time_pattern">%Y - Jahr \n%M - Monat \n%D - Tag \n%h - Stunde \n%m - Minute \n%s - Sekunde \n%i - Zähler, aufsteigend ab 1</string>
     <string name="filename_without_txt">Dateiname (ohne .txt)</string>
     <string name="filename_without_json">Dateiname (ohne .json)</string>
     <string name="filename_without_zip">Dateiname (ohne .zip)</string>
@@ -215,17 +209,17 @@
     <string name="please_select_destination">Bitte Ziel auswählen</string>
     <string name="source_and_destination_same">Quell- und Zielpfad sind identisch</string>
     <string name="copy_failed">Die Dateien konnten nicht kopiert werden</string>
-    <string name="copying">Kopieren …</string>
+    <string name="copying">Kopieren …</string>
     <string name="copying_success">Datei(en) erfolgreich kopiert</string>
     <string name="copying_success_one">Datei erfolgreich kopiert</string>
     <string name="copy_move_failed">Es ist ein Fehler aufgetreten</string>
-    <string name="moving">Verschieben …</string>
+    <string name="moving">Verschieben …</string>
     <string name="moving_success">Datei(en) erfolgreich verschoben</string>
     <string name="moving_success_one">Datei erfolgreich verschoben</string>
     <string name="moving_success_partial">Einige Dateien konnten nicht verschoben werden</string>
     <string name="copying_success_partial">Einige Dateien konnten nicht kopiert werden</string>
     <string name="no_files_selected">Keine Dateien ausgewählt</string>
-    <string name="saving">Speichern …</string>
+    <string name="saving">Speichern …</string>
     <string name="could_not_create_folder">Ordner %s konnte nicht erstellt werden</string>
     <string name="could_not_create_file">Datei %s konnte nicht erstellt werden</string>
     <string name="no_new_items">Keine neuen Elemente gefunden</string>
@@ -261,9 +255,9 @@
     <string name="confirm_storage_access_text_sd">Wenn die SD-Karte nicht angezeigt wird, Folgendes versuchen</string>
     <string name="confirm_storage_access_android_text">Bitte am unteren Rand des nächsten Bildschirms der App durch Drücken auf „Diesen Ordner verwenden“ den Zugriff auf den ausgewählten Speicher gewähren.</string>
     <string name="confirm_storage_access_android_text_specific">Bitte den Zugriff auf „<b>%s</b>“ gewähren, indem im nächsten Bildschirm unten auf „<b>Diesen Ordner verwenden</b>“ gedrückt wird.</string>
-    <string name="confirm_create_doc_for_new_folder_text">Bitte am unteren Rand des nächsten Bildschirms auf „<b>Speichern</b>“ drücken, um den neuen Ordner zu erstellen.</string>
+    <string name="confirm_create_doc_for_new_folder_text">Bitte am unteren Rand des nächsten Bildschirms auf „&lt;b&gt;Speichern&lt;/b&gt;“ drücken, um den neuen Ordner zu erstellen.</string>
     <string name="confirm_selection">Auswahl bestätigen</string>
-    <string name="loading">Wird geladen …</string>
+    <string name="loading">Wird geladen …</string>
     <string name="access_storage_prompt">Bitte unserer App Zugriff auf alle Dateien gewähren, da sie sonst möglicherweise nicht richtig funktioniert.</string>
     <plurals name="items">
         <item quantity="one">%d Element</item>
@@ -289,8 +283,7 @@
     <string name="root">Hauptverzeichnis</string>
     <string name="wrong_root_selected">Falscher Ordner ausgewählt, bitte Hauptverzeichnis der SD-Karte auswählen</string>
     <string name="sd_card_usb_same">SD-Karten- und USB-Gerätepfad dürfen nicht identisch sein</string>
-    <string name="app_on_sd_card">Die App wurde anscheinend auf der SD-Karte installiert, daher sind die Widgets nicht verfügbar. Sie werden auch in der Liste der Widgets nicht angezeigt.
-        Dies ist systemseitig so beschränkt. Für die Verwendung der Widgets muss die App wieder im internen Speicher installiert werden.</string>
+    <string name="app_on_sd_card">Die App wurde anscheinend auf der SD-Karte installiert, daher sind die Widgets nicht verfügbar. Sie werden auch in der Liste der Widgets nicht angezeigt. Dies ist systemseitig so beschränkt. Für die Verwendung der Widgets muss die App wieder im internen Speicher installiert werden.</string>
     <string name="wrong_folder_selected">Falscher Ordner ausgewählt, bitte Pfad „%s“ wählen</string>
     <string name="properties">Eigenschaften</string>
     <string name="path">Pfad</string>
@@ -328,7 +321,7 @@
     <string name="save">Speichern</string>
     <string name="discard">Verwerfen</string>
     <string name="undo_changes">Änderungen verwerfen</string>
-    <string name="undo_changes_confirmation">Sollen wirklich alle Änderungen verworfen werden\?</string>
+    <string name="undo_changes_confirmation">Sollen wirklich alle Änderungen verworfen werden?</string>
     <string name="cannot_be_undone">Diese Aktion kann nicht rückgängig gemacht werden.</string>
     <string name="save_before_closing">Du hast ungespeicherte Änderungen. Speichern vor dem Beenden?</string>
     <string name="apply_to_all_apps">Farbschema auf alle Fossify-Apps anwenden</string>
@@ -412,9 +405,9 @@
     <string name="use_custom_sorting">Benutzerdefiniertes Sortieren anwenden</string>
     <string name="change_order">Reihenfolge ändern</string>
     <string name="more_options">Weitere Optionen</string>
-    <string name="proceed_with_deletion">Soll wirklich mit dem Löschen fortgefahren werden\?</string>
+    <string name="proceed_with_deletion">Soll wirklich mit dem Löschen fortgefahren werden?</string>
     <string name="deletion_confirmation">Soll wirklich %s gelöscht werden?</string>
-    <string name="deletion_confirmation_short">%s löschen\?</string>
+    <string name="deletion_confirmation_short">%s löschen?</string>
     <string name="move_to_recycle_bin_confirmation">Soll wirklich %s in den Papierkorb verschoben werden?</string>
     <string name="are_you_sure_delete">Soll wirklich dieses Element gelöscht werden?</string>
     <string name="are_you_sure_recycle_bin">Soll wirklich dieses Element in den Papierkorb verschoben werden?</string>
@@ -431,8 +424,7 @@
     <string name="please_enter_pin">Bitte eine PIN eingeben</string>
     <string name="wrong_pin">Falsche PIN</string>
     <string name="pin_must_be_4_digits_long">Die PIN muss mindestens 4-stellig sein</string>
-    <string name="too_many_incorrect_attempts">Zu viele falsche Entsperrversuche.
-\nVersuche es in %d Sekunden erneut.</string>
+    <string name="too_many_incorrect_attempts">Zu viele falsche Entsperrversuche. \nVersuche es in %d Sekunden erneut.</string>
     <string name="repeat_pin">PIN wiederholen</string>
     <string name="pattern">Muster</string>
     <string name="insert_pattern">Muster zeichnen</string>
@@ -586,8 +578,7 @@
     </plurals>
     <string name="alarm_goes_off_in">Zeit bis Alarm:\n%s</string>
     <string name="reminder_triggers_in">Verbleibende Zeit bis Alarm ausgelöst wird:\n%s</string>
-    <string name="time_remaining">Verbleibende Zeit:
-\n%s</string>
+    <string name="time_remaining">Verbleibende Zeit: \n%s</string>
     <string name="alarm_warning">Bitte vergewissere dich, dass der Alarm zuverlässig funktioniert, bevor du dich auf ihn verlässt. Er könnte wegen Systemeinschränkungen, wie der Stromsparfunktion, fehlschlagen.</string>
     <string name="reminder_warning">Bitte vergewissere dich, dass die Erinnerungen zuverlässig funktionieren, bevor du dich darauf verlässt. Überprüfe die Geräteakku- und Benachrichtigungseinstellungen, ob nichts die Erinnerungen sperrt oder die App im Hintergrund beendet.</string>
     <string name="notifications_disabled">Benachrichtigungen für diese App sind deaktiviert. Wechsle in die Systemeinstellungen und aktiviere sie.</string>
@@ -662,7 +653,7 @@
     <string name="excluded">(ausgeschlossen)</string>
     <string name="manage_excluded_folders">Ausgeschlossene Ordner verwalten</string>
     <string name="remove_all">Alle entfernen</string>
-    <string name="remove_all_description">Alle Ordner aus der Liste ausgeschlossener Ordner entfernen\? Die Ordner selbst werden dabei nicht gelöscht.</string>
+    <string name="remove_all_description">Alle Ordner aus der Liste ausgeschlossener Ordner entfernen? Die Ordner selbst werden dabei nicht gelöscht.</string>
     <string name="temporarily_show_excluded">Ausgeschlossenes temporär anzeigen</string>
     <string name="stop_showing_excluded">Ausgeschlossenes wieder verbergen</string>
     <string name="manage_shown_tabs">Anzuzeigende Tabs festlegen</string>
@@ -704,14 +695,7 @@
     <string name="backups">Sicherungen</string>
     <string name="enable_automatic_backups">Automatische Sicherungen aktivieren</string>
     <string name="manage_automatic_backups">Automatische Sicherungen verwalten</string>
-    <string name="date_time_pattern_info">Du kannst die folgenden Muster verwenden, um deine Datei automatisch zu benennen:
-\n
-\n%Y – Jahr
-\n%M – Monat
-\n%D – Tag
-\n%h – Stunde
-\n%m – Minute
-\n%s – Sekunde</string>
+    <string name="date_time_pattern_info">Du kannst die folgenden Muster verwenden, um deine Datei automatisch zu benennen: \n \n%Y – Jahr \n%M – Monat \n%D – Tag \n%h – Stunde \n%m – Minute \n%s – Sekunde</string>
     <string name="usb_detected">Es sieht so aus, als hättest du ein USB-Gerät an dein Gerät angeschlossen. Du musst zusätzliche Berechtigungen erteilen, damit die Dateien korrekt angezeigt werden.</string>
     <string name="confirm_usb_storage_access_text">Bitte das Hauptverzeichnis des USB-Geräts auf der folgenden Seite wählen, um Zugriff zu gewähren</string>
     <string name="wrong_root_selected_usb">Falscher Ordner gewählt, bitte das Hauptverzeichnis des USB-Geräts wählen</string>
@@ -824,7 +808,7 @@
     <string name="faq_2_title_commons">Ich möchte euch unterstützen, jedoch ist es mir nicht möglich, Geld zu spenden. Gibt es eine andere Möglichkeit?</string>
     <string name="faq_3_title_commons">Ich habe versehentlich einige Dateien gelöscht. Wie kann ich diese wiederherstellen?</string>
     <string name="faq_3_text_commons">Unglücklicherweise gar nicht. Dateien werden sofort nach dem Bestätigungsdialog gelöscht, da ein Papierkorb nicht vorhanden ist.</string>
-    <string name="faq_4_title_commons">Ich mag die Farben des Widgets nicht. Kann ich sie ändern\?</string>
+    <string name="faq_4_title_commons">Ich mag die Farben des Widgets nicht. Kann ich sie ändern?</string>
     <string name="faq_4_text_commons">Ja, wenn du ein Widget auf der Startseite ziehst, erscheint ein Konfigurationsmenü. In der linken unteren Ecke sind farbige Kästchen. Drücke auf sie und wähle eine neue Farbe. Außerdem kannst du den Regler nutzen, um den Alphaparameter (Transparenz) einzustellen.</string>
     <string name="faq_5_title_commons">Kann ich gelöschte Dateien wiederherstellen?</string>
     <string name="faq_5_text_commons">Wurden die Dateien endgültig gelöscht, können sie nicht wiederhergestellt werden. Der Papierkorb ist jedoch standardmäßig aktiviert und Dateien werden in den Papierkorb verschoben, anstatt direkt gelöscht.</string>

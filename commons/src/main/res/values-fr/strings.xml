@@ -633,7 +633,7 @@
     <string name="medium">Moyenne</string>
     <string name="large">Grande</string>
     <string name="extra_large">Très grande</string>
-    <string name="password_protect_hidden_items">Protéger les éléments cachés par une identification</string>
+    <string name="password_protect_hidden_items">Protéger l\'affichage des éléments cachés</string>
     <string name="password_protect_whole_app">Protéger l\'application par une identification</string>
     <string name="password_protect_file_deletion">Protéger la suppression et le déplacement des fichiers par une identification</string>
     <string name="keep_last_modified">Conserver l\'ancienne date de modification lors des opérations sur les fichiers</string>

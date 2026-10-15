@@ -788,7 +788,7 @@
     <string name="june_short">6月</string>
     <string name="july_short">7月</string>
     <string name="other">其他</string>
-    <string name="donate_short">請透過購買 &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Fossify Thank You&lt;/a&gt; 來支援我們，這也將解鎖所有應用程式功能，包括顏色自訂。</string>
+    <string name="donate_short">享受使用 Fossify嗎？請透過購買 &lt;a href=\"https://play.google.com/store/apps/details?id=org.fossify.thankyou\"&gt;Fossify Thank You&lt;/a&gt; 來支持我們。這也將解鎖自訂字體及所有 Fossify應用程式的自訂功能。感謝您的支持！</string>
     <string name="update_thank_you">請將 Fossify Thank You 更新到最新版本</string>
     <string name="faq_9_text_commons">有幾種方法可以做到。第一種是長按一個項目以啟動選取模式，然後點選其他項目來選取它們。第二種類似於在電腦上用滑鼠選擇項目，長按一個項目以啟動選取模式，然後手指不放開拖曳至其他項目上進行選取。第三種方法是先長按一個項目，然後再長按另一個項目，中間的所有內容都會被選取。如果您想選取所有項目，只需長按一個項目，然後點選左上角的已選取項目計數器，即可全選或取消全選。</string>
     <string name="translation">翻譯</string>
@@ -954,4 +954,6 @@
     <string name="commonmark_title">CommonMark（Markdown 解析器）</string>
     <string name="jsoup_title">jsoup（HTML 解析器）</string>
     <string name="commons_csv_title">Apache Commons CSV（CSV 解析器）</string>
+    <string name="rate_app_prompt">享受這個應用程式嗎？請在 Play商店上評分。</string>
+    <string name="donation_prompt">如果你享受使用這個應用程式，不妨考慮支持 Fossify的發展。</string>
 </resources>

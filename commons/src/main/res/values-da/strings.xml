@@ -996,5 +996,5 @@
     <string name="view_contact">Vis kontaktdetaljer</string>
     <string name="font_monospace">Fastbredde</string>
     <string name="rate_app_prompt">Kan du lide appen? Venligst bedøm den på Google Play.</string>
-    <string name="donation_prompt">Hvis du kan lide at brugte denne app, så overvej venligst at støtte udviklingen af Fossify.</string>
+    <string name="donation_prompt">Hvis du kan lide at bruge denne app, så overvej venligst at støtte udviklingen af Fossify.</string>
 </resources>

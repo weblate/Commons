@@ -699,7 +699,7 @@
     <string name="block_contact_success">聯絡人已被封鎖</string>
     <string name="block_contact_fail">聯絡人無法被封鎖</string>
     <string name="unblock_contact">解除封鎖聯絡人</string>
-    <string name="format_phone_numbers">設定電話號碼格式</string>
+    <string name="format_phone_numbers">自動格式化電話號碼</string>
     <string name="theme_and_colors">佈景主題與色彩</string>
     <string name="all_fossify_apps">所有 Fossify 應用程式</string>
     <string name="authenticate">驗證</string>

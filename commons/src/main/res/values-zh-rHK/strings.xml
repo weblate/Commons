@@ -754,7 +754,7 @@
     <string name="android_lame_title">AndroidLame（mp3 編碼器）</string>
     <string name="pro_app_refund">別忘記，如果您在 2 小時內解除安裝任何付費應用程式，將會自動獲得退款。若您日後隨時想申請退款，只需電郵至 hello@fossify.org 聯絡我們即可獲退回款項，讓您安心試用 :)</string>
     <string name="developer_description">一系列簡單、開放原始碼的 Android 應用程式，具有可自訂的小工具，沒有廣告和不必要的權限。</string>
-    <string name="format_phone_numbers">設定電話號碼格式</string>
+    <string name="format_phone_numbers">自動格式化電話號碼</string>
     <string name="search_contacts">搜尋聯絡人</string>
     <string name="search_favorites">搜尋我的最愛</string>
     <string name="search_groups">搜尋群組</string>

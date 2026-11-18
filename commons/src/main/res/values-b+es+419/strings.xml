@@ -873,4 +873,5 @@
     <string name="purchase">Comprar</string>
     <string name="update_thank_you">Por favor actualiza Fossify Gracias a la última versión</string>
     <string name="upgrade_calendar">Tienes que migrar los eventos almacenados localmente manualmente exportándolos en un archivo .ics y luego importándolos. Puedes encontrar tanto los botones de exportación como de importación en el menú principal.</string>
+    <string name="calendar_short">Calendario</string>
 </resources>

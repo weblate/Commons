@@ -421,7 +421,7 @@
     <string name="authenticate">Verificatie</string>
     <string name="authentication_failed">Verificatie mislukt</string>
     <string name="authentication_blocked">Verificatie geblokkeerd, probeer het opnieuw</string>
-    <string name="no_fingerprints_registered">Er zijn geen vingerafdrukken geregistreerd. Voeg deze toe via de systeeminstellingen.</string>
+    <string name="no_fingerprints_registered">Er zijn geen vingerafdrukken geregistreerd. Voeg deze toe via de systeeminstellingen</string>
     <string name="go_to_settings">Ga naar Instellingen</string>
     <string name="protection_setup_successfully">Wachtwoord succesvol ingesteld. App opnieuw installeren als het wachtwoord kwijt is.</string>
     <string name="fingerprint_setup_successfully">Bescherming instellen is gelukt. Installeer de app opnieuw bij problemen met het resetten van de bescherming.</string>
@@ -743,7 +743,7 @@
     <string name="make_sure_latest">Zorg er ook voor dat de laatste versie van de app is geïnstalleerd.</string>
     <string name="read_it">Nu lezen</string>
     <string name="read_faq">Veelgestelde vragen</string>
-    <string name="thank_you">Bedankt!</string>
+    <string name="thank_you">Bedankt</string>
     <string name="new_app"><![CDATA[
             Hallo,<br><br>
             Er zijn recentelijk nieuwe apps uitgebracht:<br><br>
@@ -767,9 +767,11 @@
     <string name="music_player_short">Muziek</string>
     <string name="notes_short">Notities</string>
     <string name="sms_messenger_short">Berichten</string>
-    <string name="thank_you_short">Bedankt!</string>
+    <string name="thank_you_short">Bedankt</string>
     <string name="voice_recorder_short">Geluidsrecorder</string>
-    <string name="sideloaded_app"><![CDATA[\n \u0020 \u0020 \u0020 \u0020 \u0020 \u0020Het lijkt erop dat deze versie van de app corrupt is. Download de originele versie <a href="%s">hier</a>.\n \u0020 \u0020 \u0020 \u0020]]></string>
+    <string name="sideloaded_app"><![CDATA[
+            Het lijkt erop dat deze versie van de app corrupt is. Download de originele versie <a href="%s">hier</a>.
+        ]]></string>
     <string name="frequently_asked_questions">Veelgestelde vragen</string>
     <string name="before_asking_question">Lees vóór het insturen van een vraag eerst de</string>
     <string name="faq_1_title_commons">Waarom zie ik de widget van deze app niet in de lijst met widgets?</string>
@@ -872,7 +874,9 @@
     <string name="camera">Camera</string>
     <string name="exif">EXIF</string>
     <string name="apply_to_all_apps">Thema toepassen op alle Fossify apps</string>
-    <string name="purchase_thank_you"><![CDATA["\n            Overweeg om <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Bedankje</a> aan te schaffen om deze functie te kunnen gebruiken en om verdere ontwikkeling te ondersteunen. Alvast bedankt!\n        "]]></string>
+    <string name="purchase_thank_you"><![CDATA[
+            Overweeg om <a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou>Fossify Bedankje</a> aan te schaffen om deze functie te kunnen gebruiken en om verdere ontwikkeling te ondersteunen. Alvast bedankt!
+        ]]></string>
     <string name="system_default">Systeeminstelling</string>
     <string name="show_line_numbers">Regelnummers tonen</string>
     <string name="hide_line_numbers">Regelnummers verbergen</string>
@@ -907,7 +911,11 @@
     <string name="wednesday_letter">W</string>
     <string name="website">Website</string>
     <string name="camera_short">Camera</string>
-    <string name="contributors_label"><![CDATA["\n            Deze lijst bevat de namen van iedereen die aan een app binnen de Fossify suite heeft bijgedragen. Vertalingen worden gedaan door vrijwilligers,\n            dus laat het ons weten als je ook wilt helpen. Lees de instructies <a href=https://github.com/FossifyOrg/General-Discussion#contributing-translations>op deze website</a>, of stuur bij vragen een bericht naar <a href=mailto:hello@fossify.org>hello@fossify.org</a>.\n            Bedankt voor alle bijdragen en andere ondersteuning!\n        "]]></string>
+    <string name="contributors_label"><![CDATA[
+            Deze lijst bevat de namen van iedereen die aan een app binnen de Fossify suite heeft bijgedragen. Vertalingen worden gedaan door vrijwilligers,
+            dus laat het ons weten als je ook wilt helpen. Lees de instructies <a href=https://github.com/FossifyOrg/General-Discussion#contributing-translations>op deze website</a>, of stuur bij vragen een bericht naar <a href=mailto:hello@fossify.org>hello@fossify.org</a>.
+            Bedankt voor alle bijdragen en andere ondersteuning!
+        ]]></string>
     <string name="launcher_short">Launcher</string>
     <string name="faq_6_text_commons">Dit probleem doet zich voor wanneer je launcher het aanpassen van pictogrammen niet volledig ondersteunt. Probeer de app te starten via Google Play of een widget, indien mogelijk. Herstel na het starten de standaard groene icoonkleur #106D1F. In extreme gevallen kan het nodig zijn om de app opnieuw te installeren.</string>
     <string name="translation_tamil">Tamil</string>
@@ -960,4 +968,5 @@
     <string name="view_contact">Contactgegevens bekijken</string>
     <string name="rate_app_prompt">Bevalt de app goed? Geef dan een beoordeling op Google Play.</string>
     <string name="donation_prompt">Bevalt Fossify? Overweeg dan om de ontwikkeling te steunen.</string>
+    <string name="zip4j_title">Zip4j (ZIP comprimeren en decomprimeren)</string>
 </resources>

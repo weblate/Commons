@@ -6,8 +6,11 @@
     <string name="hours_raw">eur</string>
     <string name="days_raw">a zevezhioù</string>
     <plurals name="days">
-        <item quantity="one">%ddevezh</item>
-        <item quantity="other">%da zevezhioù</item>
+        <item quantity="one">%d devezh</item>
+        <item quantity="two">%d zevezh</item>
+        <item quantity="few">%d devezh</item>
+        <item quantity="many">%d devezh</item>
+        <item quantity="other">%d devezh</item>
     </plurals>
     <plurals name="weeks">
         <item quantity="one">%dsizhun</item>
@@ -30,8 +33,11 @@
         <item quantity="other">%deur a-raok</item>
     </plurals>
     <plurals name="days_before">
-        <item quantity="one">%da zevezhioù a-raok</item>
-        <item quantity="other">%da zevezhioù a-raok</item>
+        <item quantity="one">%d devezh a-raok</item>
+        <item quantity="two">%d zevezh a-raok</item>
+        <item quantity="few">%d devezh a-raok</item>
+        <item quantity="many">%d devezh a-raok</item>
+        <item quantity="other">%d devezh a-raok</item>
     </plurals>
     <plurals name="by_minutes">
         <item quantity="one">%dvunutenn</item>
@@ -432,4 +438,20 @@
     <string name="skip">Lezel a-gostez</string>
     <string name="append">Ouzhpennañ \'_1\' er fin</string>
     <string name="apply_to_all">Arloañ d\'an holl</string>
+    <plurals name="in_days">
+        <item quantity="one">%d devezh</item>
+        <item quantity="two">%d zevezh</item>
+        <item quantity="few">%d devezh</item>
+        <item quantity="many">%d devezh</item>
+        <item quantity="other">%d devezh</item>
+    </plurals>
+    <plurals name="by_days">
+        <item quantity="one">%d devezh</item>
+        <item quantity="two">%d zevezh</item>
+        <item quantity="few">%d devezh</item>
+        <item quantity="many">%d devezh</item>
+        <item quantity="other">%d devezh</item>
+    </plurals>
+    <string name="during_day_at_hh_mm">E-pad an deiz da hh:mm</string>
+    <string name="during_day_at">E-pad an deiz da %1$02d:%2$02d</string>
 </resources>

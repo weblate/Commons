@@ -421,7 +421,7 @@
     <string name="authenticate">Verificatie</string>
     <string name="authentication_failed">Verificatie mislukt</string>
     <string name="authentication_blocked">Verificatie geblokkeerd, probeer het opnieuw</string>
-    <string name="no_fingerprints_registered">Er zijn geen vingerafdrukken geregistreerd. Voeg deze toe via de systeeminstellingen</string>
+    <string name="no_fingerprints_registered">Er zijn geen vingerafdrukken geregistreerd. Voeg deze toe via de systeeminstellingen.</string>
     <string name="go_to_settings">Ga naar Instellingen</string>
     <string name="protection_setup_successfully">Wachtwoord succesvol ingesteld. App opnieuw installeren als het wachtwoord kwijt is.</string>
     <string name="fingerprint_setup_successfully">Bescherming instellen is gelukt. Installeer de app opnieuw bij problemen met het resetten van de bescherming.</string>
